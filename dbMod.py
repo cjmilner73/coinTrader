@@ -34,7 +34,7 @@ def insertBalances(exchange, coin, amount):
 	conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
         #print(error)
-        print "End of error detection"
+        a = 0
     finally:
         if conn is not None:
             conn.close()
@@ -66,7 +66,8 @@ def insertTotBalHist(nowTime, exchange, coin, totalBTC, usdValue):
 	conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
         #print(error)
-        print "End of error detection"
+        #print "End of error detection"
+        a = 0
     finally:
         if conn is not None:
             conn.close()
@@ -81,8 +82,9 @@ def insertPrices(exchange, pair, price):
         cur.execute(command)
 	conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
-        print "End of error detection"
+        #print(error)
+        #print "End of error detection"
+        a = 0
     finally:
         if conn is not None:
             conn.close()
@@ -254,7 +256,6 @@ def getCoinPrice(coin):
 
     cur.execute(query)
     rows = cur.fetchall()
-    print rows
 
     conn.close()
 
@@ -441,5 +442,4 @@ def getCoinBalance(coin):
     rows = cur.fetchall()
 
     conn.close()
-    print rows
     return rows

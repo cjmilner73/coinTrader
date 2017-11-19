@@ -9,7 +9,7 @@ import spikeCheck
 import broker
 import sys
 import time
-import balances
+from balances import loadPolBalances
 
 #endTimeVar=sys.argv[1]
 #endTimeEpoch=int(endTimeVar)
@@ -34,8 +34,8 @@ oneDayInSeconds = 86400
 fiveMinsInSeconds = 300
 fifteenMinsInSeconds = 900
 
-#tickPeriod = fifteenMinsInSeconds
-tickPeriod = fiveMinsInSeconds
+tickPeriod = fifteenMinsInSeconds
+#tickPeriod = fiveMinsInSeconds
 #tickPeriod = fourHoursInSeconds
 #tickPeriod = oneDayInSeconds
 if tickPeriod == fiveMinsInSeconds:
@@ -45,10 +45,10 @@ elif tickPeriod == fifteenMinsInSeconds:
 elif tickPeriod == fourHoursInSeconds:
     secondsToSubstract = oneDayInSeconds * 3
 
-print "secondsToSubtract: (periods) " + str(secondsToSubtract)
-print
-print "Num of periods to download is: " + str(secondsToSubtract/tickPeriod)
-print
+#print "secondsToSubtract: (periods) " + str(secondsToSubtract)
+#print
+#print "Num of periods to download is: " + str(secondsToSubtract/tickPeriod)
+#print
 
 #startEpoch = weekInSeconds
 #startEpoch = weekInSeconds*4
@@ -82,7 +82,7 @@ def downloadPrices():
     tickPairKeys = polTicker.keys()
 
     for tickPair in tickPairKeys:
-        if tickPair.startswith("BTC"):
+        if tickPair.startswith("BTC") or tickPair.startswith("USD"):
             btcTickPairs.append(tickPair)
 
     #btcTickPairs = ['BTC_VTC']
@@ -316,16 +316,6 @@ def spikeChk():
     print
     spikeCheck.checkEachTick()
 
-
-def getPrices():
-    logTime = datetime.datetime.now()
-    print "DEF: getPrices: " + str(logTime)
-    print
-    #global polTicker
-    #global tickPairKeys
-    bal = broker.getBTCbalance()
-    #polTicker = polCon.returnTicker()
-
 def checkStopLimit():
     
     print "DEF: checkStopLimit"
@@ -445,7 +435,10 @@ def checkBuyTriggers():
 		stop = lowPriceFloat - (STOP_WEIGHT * lastPriceFloat)
 		limit = highPriceFloat + (LIMIT_WEIGHT * lastPriceFloat)
       		btcToSpend = BTCTOSPEND
-                coin = 'BTC'
+                if pairTrigger.startswith('BTC'):
+                    coin = 'BTC'
+                if pairTrigger.startswith('USDT'):
+                    coin = 'USDT'
     	        totalCoin = getCoinBalance(coin)
                 noOfCoinsToBuy = round(btcToSpend / lastPriceFloat)
                 if lastPriceFloat > limit:
@@ -461,7 +454,7 @@ def checkBuyTriggers():
                         broker.buyPair(pairTrigger, lastPriceFloat, noOfCoinsToBuy)
 		        dbMod.insertActive(pairTrigger, ACTIVE_TYPE, startTimeInt, DIRECTION, lastPriceFloat, noOfCoinsToBuy, stop, limit)
     		    else:
-         		print "Not enough BTC, need " + str(noOfCoinsToBuy*priceFloat) + " only have " + str(totalCoin)
+         		print "Not enough BTC, need " + str(noOfCoinsToBuy*lastPriceFloat) + " only have " + str(totalCoin)
 
 def getCoinBalance(coin):
     coinBalance = dbMod.getCoinBalance(coin)
@@ -470,14 +463,14 @@ def getCoinBalance(coin):
     return coinBalanceFloat
 
 def loadBalances():
-    a = balances.loadPolBalances()
+    a = loadPolBalances()
 
 print "==============================================================="
 print "Starting new run of coinTrader: " + str(datetime.datetime.now())
 print "==============================================================="
 print
 polCon = myConnection.getPolConn()
-polBal = polCon.returnBalances()
+#polBal = polCon.returnBalances()
 
 loadBalances()
 downloadPrices()
