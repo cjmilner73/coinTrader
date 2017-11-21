@@ -1,6 +1,7 @@
 from poloniex import Poloniex
 from bittrex import Bittrex
 from bitfinex_client import TradeClient
+from bitfinex_client import Client
 import os
 
 def getPolConn():
@@ -11,6 +12,10 @@ def getBittConn():
     bittCon = Bittrex(os.environ.get('BITT_KEY'),os.environ.get('BITT_SECKEY'))
     return bittCon
 
-def getBitfConn():
-    bitfCon = TradeClient(os.environ.get('BITF_KEY'),os.environ.get('BITF_SECKEY'))
-    return bitfCon
+def getBitfConnTrade():
+    bitfConTrade = TradeClient(os.environ.get('BITF_KEY'),os.environ.get('BITF_SECKEY'))
+    return bitfConTrade
+
+def getBitfConnClient():
+    bitfConClient = Client()
+    return bitfConClient

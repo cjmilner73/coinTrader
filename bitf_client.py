@@ -1,6 +1,5 @@
 from bitfinex_client import Client
 import myConnection
-
 client = Client()
 
 symbols = client.symbols()

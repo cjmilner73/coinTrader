@@ -6,6 +6,8 @@ import time
 
 bittConn = myConnection.getBittConn()
 polConn = myConnection.getPolConn()
+bitfConnTrade = myConnection.getBitfConnTrade()
+bitfConnClient = myConnection.getBitfConnClient()
 
 nowTime = time.time()    
 
@@ -32,6 +34,17 @@ def loadBittBalances():
                 dbMod.insertBalances('BITTREX',coin,balance)
                 dbMod.updateBalances('BITTREX',coin,balance)
 
+def loadBitfBalances():
+    
+    bitfBalances = bitfConnTrade.balances()
+    print bitfBalances
+    for coinBals in bitfBalances:
+        coin = coinBals["currency"]
+        balance = float(coinBals["amount"])
+        if balance != 0:
+            dbMod.insertBalances('BITFINEX',coin.upper(),balance)
+            dbMod.updateBalances('BITFINEX',coin.upper(),balance)
+
 def loadPolPrices():
 
     polPrices = polConn.returnTicker()
@@ -55,6 +68,22 @@ def loadBittPrices():
                     thisLast = thisPriceDict['Last'] 
                     dbMod.insertPrices('BITTREX',coinPair,thisLast)
                     dbMod.updatePrices('BITTREX',coinPair,thisLast)
+
+def loadBitfPrices():
+    
+    bitfPrices = bitfConnClient.ticker(0)
+    price = 0
+    print bitfPrices
+    for key, value in bitfPrices.iteritems():
+        if key == 'result':
+            for coinMarkets in value:
+                coinPair = coinMarkets["MarketName"]
+                priceDict = bitfConn.get_ticker(coinPair)
+                thisPriceDict = priceDict['result']
+                if thisPriceDict is not None:
+                    thisLast = thisPriceDict['Last'] 
+                    dbMod.insertPrices('BITFINEX',coinPair,thisLast)
+                    dbMod.updatePrices('BITFINEX',coinPair,thisLast)
 
 def loadTotalBalHistory():
     
@@ -105,7 +134,9 @@ def checkWallets():
 
 loadPolBalances()
 loadBittBalances()
+#loadBitfBalances()
 loadPolPrices()
 loadBittPrices()
+#loadBitfPrices()
 loadTotalBalHistory()
 checkWallets()

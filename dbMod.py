@@ -33,7 +33,7 @@ def insertBalances(exchange, coin, amount):
         cur.execute(command)
 	conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
-        #print(error)
+        print(error)
         a = 0
     finally:
         if conn is not None:
