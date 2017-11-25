@@ -26,7 +26,7 @@ def buyPair(pair, price, amount):
     print "DEF: buyPair"
     print
     print "Buying " + str(amount) + " of " + pair + " at " + str(price)
-    sendSMS.sendMessage("Buying " + str(amount) + " of " + pair + " at " + str(price))
+    #sendSMS.sendMessage("Buying " + str(amount) + " of " + pair + " at " + str(price))
     orderNo = polCon.buy(pair,price,amount)
     print orderNo
     openOrders = polCon.returnOpenOrders(pair)
@@ -60,7 +60,7 @@ def sellPair(pair, price, amount):
     print "DEF: sellPair"
     print
     print "Selling " + str(amount) + " of " + pair + " at " + str(price)
-    sendSMS.sendMessage("Selling " + str(amount) + " of " + pair + " at " + str(price))
+    #sendSMS.sendMessage("Selling " + str(amount) + " of " + pair + " at " + str(price))
     orderNo = polCon.sell(pair,price,amount)
     print orderNo
     openOrders = polCon.returnOpenOrders(pair)

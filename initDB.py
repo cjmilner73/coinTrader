@@ -8,6 +8,9 @@ def drop_tables():
     """ drop tables in the PostgreSQL database"""
     commands = (
         """
+        DROP TABLE btc_dip;;
+        """,
+        """
         DROP TABLE ohlcv;
         """,
         """ 
@@ -58,6 +61,12 @@ def create_tables():
             low NUMERIC NOT NULL,
             close NUMERIC NOT NULL,
             volume INTEGER NOT NULL
+            )
+        """,
+        """ CREATE TABLE btc_dip (
+            timestamp_ut INTEGER NOT NULL,
+            price NUMERIC NOT NULL,
+            primary key(timestamp_ut)
             )
         """,
         """ CREATE TABLE prices (

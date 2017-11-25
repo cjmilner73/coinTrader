@@ -6,6 +6,22 @@ conn = None
 # read the connection parameters
 params = config()
 
+def trailingStop(pair, newLimit, newStop):
+
+    conn = psycopg2.connect(**params)
+    cur = conn.cursor()
+
+    try:
+        command= "UPDATE ACTIVES SET limit_price = " + str(newLimit) + ", stop_price = " + str(newStop) + " WHERE pair = '" + pair + "'"
+        cur.execute(command)
+	conn.commit()
+    except (Exception, psycopg2.DatabaseError) as error:
+        print (error)
+        print "End of error detection"
+    finally:
+        if conn is not None:
+            conn.close()
+
 def updateBalances(exchange, coin, amount):
 
     conn = psycopg2.connect(**params)
@@ -33,7 +49,7 @@ def insertBalances(exchange, coin, amount):
         cur.execute(command)
 	conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
-        print(error)
+        #print(error)
         a = 0
     finally:
         if conn is not None:
@@ -191,7 +207,7 @@ def insertPotential(myPotential):
         conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
         print "Error at insertPotential"
-        print(error)
+        #print(error)
     finally:
         if conn is not None:
           conn.close()

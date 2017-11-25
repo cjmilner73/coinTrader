@@ -10,6 +10,7 @@ import broker
 import sys
 import time
 from balances import loadPolBalances
+import sendSMS
 
 #endTimeVar=sys.argv[1]
 #endTimeEpoch=int(endTimeVar)
@@ -17,6 +18,7 @@ from balances import loadPolBalances
 #tickPeriod=int(tickPeriodVar)
 
 BTCTOSPEND = .5
+USDTOSPEND = 500
 LIMIT_WEIGHT = float(0.05)
 STOP_WEIGHT = float(0.05)
 ACTIVE_TYPE = 'ADX_TRADE'
@@ -340,11 +342,20 @@ def checkStopLimit():
 		    if lastPriceFloat >= priceLimitFloat:
                         profit = (lastPriceFloat - float(startPrice)) * float(amount)
 			print pairActive + "...We've hit our BUY LIMIT of " + str(lastPriceFloat) + " as it's above our limit of " + str(priceLimitFloat) + " - cashing out, profit = " + str(profit) + ", startPrice= " + str(startPrice)
-                        broker.sellPair(pairActive, lastPriceFloat, amount)                 
-		        dbMod.insertHistory(pairActive, activeType, utBought, nowTimeEpoch, direction, startPrice, lastPrice, amount, profit) 
+			sendSMS.sendMessage(pairActive + "...We've hit our BUY LIMIT of " + str(lastPriceFloat) + " as it's above our limit of " + str(priceLimitFloat) + " - cashing out, profit = " + str(profit) + ", startPrice= " + str(startPrice))
+                        #broker.sellPair(pairActive, lastPriceFloat, amount)                 
+		        #dbMod.insertHistory(pairActive, activeType, utBought, nowTimeEpoch, direction, startPrice, lastPrice, amount, profit) 
+
+                        # Add trailing stop here
+                        newLimit = priceLimitFloat * 1.05
+                        newStop = priceStopFloat * 1.05
+                        print pairActive + "... newStop: " + str(newStop) + " and newLimit: " + str(newLimit)
+                        sendSMS.sendMessage(pairActive + "... newStop: " + str(newStop) + " and newLimit: " + str(newLimit))
+                        dbMod.trailingStop(pairActive,newLimit, newStop)
 		    if lastPriceFloat <= priceStopFloat:
                         profit = (lastPriceFloat - float(startPrice)) * float(amount)
 			print pairActive + "...We've hit our BUY STOP of " + str(lastPriceFloat) + " as it's below our stop of " + str(priceLimitFloat) + " - exiting out, profit = " + str(profit) + ", startPrice= " + str(startPrice)
+			sendSMS.sendMessage(pairActive + "...We've hit our BUY STOP of " + str(lastPriceFloat) + " as it's below our stop of " + str(priceLimitFloat) + " - exiting out, profit = " + str(profit) + ", startPrice= " + str(startPrice))
                         broker.sellPair(pairActive, lastPriceFloat, amount)                 
 		        dbMod.insertHistory(pairActive, activeType, utBought, nowTimeEpoch, direction, startPrice, lastPrice, amount, profit) 
 
@@ -434,13 +445,15 @@ def checkBuyTriggers():
                 highPriceFloat = float(highPrice)
 		stop = lowPriceFloat - (STOP_WEIGHT * lastPriceFloat)
 		limit = highPriceFloat + (LIMIT_WEIGHT * lastPriceFloat)
-      		btcToSpend = BTCTOSPEND
                 if pairTrigger.startswith('BTC'):
                     coin = 'BTC'
+      		    btcToSpend = BTCTOSPEND
+                    noOfCoinsToBuy = round(btcToSpend / lastPriceFloat)
                 if pairTrigger.startswith('USDT'):
                     coin = 'USDT'
+      		    usdToSpend = USDTOSPEND
+                    noOfCoinsToBuy = round(usdToSpend / lastPriceFloat)
     	        totalCoin = getCoinBalance(coin)
-                noOfCoinsToBuy = round(btcToSpend / lastPriceFloat)
                 if lastPriceFloat > limit:
                     limit = lastPriceFloat + (LIMIT_WEIGHT * lastPriceFloat)
                     print "Setting new buy limit for " + pairTrigger + " at price " + str(limit)
@@ -451,6 +464,7 @@ def checkBuyTriggers():
     		    #if ( True ):
                         #print "Buy %d of %s at %s" % (noOfCoinsToBuy, pairLatest, priceFloat)
                         print "Buy %d of %s at %s" % (noOfCoinsToBuy, pairLatest, lastPriceFloat)
+                        print "As we have enough coins: " + str(noOfCoinsToBuy * lastPriceFloat) + " is the cost, and I have " + str(totalCoin) + " of " + coin
                         broker.buyPair(pairTrigger, lastPriceFloat, noOfCoinsToBuy)
 		        dbMod.insertActive(pairTrigger, ACTIVE_TYPE, startTimeInt, DIRECTION, lastPriceFloat, noOfCoinsToBuy, stop, limit)
     		    else:
@@ -459,8 +473,7 @@ def checkBuyTriggers():
 def getCoinBalance(coin):
     coinBalance = dbMod.getCoinBalance(coin)
     coinBalanceFloat = coinBalance[0][0]
-    print "Returning coinBalance: " + str(coin) + " as " + str(coinBalanceFloat)
-    return coinBalanceFloat
+    return float(coinBalanceFloat)
 
 def loadBalances():
     a = loadPolBalances()
@@ -477,7 +490,7 @@ downloadPrices()
 removeExpiredPotentials()
 calcADX()
 checkPotentials()
-spikeChk()
+#spikeChk()
 checkBuyTriggers()
 #checkSellTriggers()
 checkStopLimit()
