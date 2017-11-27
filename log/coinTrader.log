@@ -14019,3 +14019,3560 @@ Order placed...
 End Time: 2017-11-25 13:01:45.562643
 =========================
 
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 12, in <module>
+    from balances import loadPolBalances
+  File "/home/ec2-user/coinTrader/balances.py", line 133
+    else:
+       ^
+SyntaxError: invalid syntax
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 00:30:08.225028
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 00:31:04.924412
+
+From Date: 2017-11-26 12:30:08
+To Date: 2017-11-27 00:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 00:31:05.784195
+
+END: downloadPrices - 1: 2017-11-27 00:32:30.379302
+
+DEF: removeExpiredPotentialss: 2017-11-27 00:32:30.379390
+
+
+USDT_REP has been active 150 periods...DELETING
+
+
+BTC_SC has been active 145 periods...DELETING
+
+
+USDT_BTC has been active 145 periods...DELETING
+
+
+BTC_LBC has been active 144 periods...DELETING
+
+
+BTC_SBD has been active 144 periods...DELETING
+
+
+BTC_PPC has been active 148 periods...DELETING
+
+
+BTC_OMG has been active 143 periods...DELETING
+
+
+USDT_LTC has been active 147 periods...DELETING
+
+
+BTC_STEEM has been active 142 periods...DELETING
+
+
+BTC_ARDR has been active 143 periods...DELETING
+
+DEF: calcADX: 2017-11-27 00:32:31.611545
+
+DEF: checkPotentials: 2017-11-27 00:32:37.880168
+
+DEF: CheckForDip: 2017-11-27 00:32:38.127058
+
+DEF: checkBuyTrigger: 2017-11-27 00:32:38.247761
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 00:45:07.853489
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 00:45:57.186929
+
+From Date: 2017-11-26 12:45:07
+To Date: 2017-11-27 00:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 00:45:58.003467
+
+END: downloadPrices - 1: 2017-11-27 00:47:16.651311
+
+DEF: removeExpiredPotentialss: 2017-11-27 00:47:16.651386
+
+DEF: calcADX: 2017-11-27 00:47:16.691620
+
+DEF: checkPotentials: 2017-11-27 00:47:21.010815
+
+DEF: CheckForDip: 2017-11-27 00:47:21.173959
+
+DEF: checkBuyTrigger: 2017-11-27 00:47:21.341416
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 01:00:06.979891
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 01:00:53.874135
+
+From Date: 2017-11-26 13:00:06
+To Date: 2017-11-27 01:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 01:00:54.694361
+
+END: downloadPrices - 1: 2017-11-27 01:02:23.148227
+
+DEF: removeExpiredPotentialss: 2017-11-27 01:02:23.148315
+
+DEF: calcADX: 2017-11-27 01:02:23.189360
+
+DEF: checkPotentials: 2017-11-27 01:02:27.735487
+
+DEF: CheckForDip: 2017-11-27 01:02:27.983524
+
+DEF: checkBuyTrigger: 2017-11-27 01:02:28.151483
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 01:15:08.048205
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 01:15:53.609160
+
+From Date: 2017-11-26 13:15:08
+To Date: 2017-11-27 01:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 01:15:54.344231
+
+END: downloadPrices - 1: 2017-11-27 01:17:07.565903
+
+DEF: removeExpiredPotentialss: 2017-11-27 01:17:07.566010
+
+DEF: calcADX: 2017-11-27 01:17:07.608762
+
+DEF: checkPotentials: 2017-11-27 01:17:12.576927
+
+DEF: CheckForDip: 2017-11-27 01:17:12.824240
+
+DEF: CheckForDip: 2017-11-27 01:17:12.909587
+
+DEF: CheckForDip: 2017-11-27 01:17:12.990566
+
+DEF: checkBuyTrigger: 2017-11-27 01:17:13.071664
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 01:30:06.526707
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 01:30:52.991069
+
+From Date: 2017-11-26 13:30:06
+To Date: 2017-11-27 01:30:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 01:30:53.732765
+
+END: downloadPrices - 1: 2017-11-27 01:32:14.807391
+
+DEF: removeExpiredPotentialss: 2017-11-27 01:32:14.807524
+
+DEF: calcADX: 2017-11-27 01:32:14.849803
+
+DEF: checkPotentials: 2017-11-27 01:32:19.104421
+
+DEF: CheckForDip: 2017-11-27 01:32:19.475699
+
+DEF: CheckForDip: 2017-11-27 01:32:19.598560
+
+DEF: CheckForDip: 2017-11-27 01:32:19.724660
+
+DEF: checkBuyTrigger: 2017-11-27 01:32:19.847527
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 01:45:07.482346
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 01:45:53.085011
+
+From Date: 2017-11-26 13:45:07
+To Date: 2017-11-27 01:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 01:45:53.902195
+
+END: downloadPrices - 1: 2017-11-27 01:47:19.695385
+
+DEF: removeExpiredPotentialss: 2017-11-27 01:47:19.695477
+
+DEF: calcADX: 2017-11-27 01:47:19.737213
+
+DEF: checkPotentials: 2017-11-27 01:47:24.619618
+
+DEF: CheckForDip: 2017-11-27 01:47:24.905253
+
+DEF: CheckForDip: 2017-11-27 01:47:25.069059
+
+DEF: checkBuyTrigger: 2017-11-27 01:47:25.356104
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 02:00:07.893950
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 02:00:53.976771
+
+From Date: 2017-11-26 14:00:07
+To Date: 2017-11-27 02:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 02:00:54.754598
+
+END: downloadPrices - 1: 2017-11-27 02:02:11.118385
+
+DEF: removeExpiredPotentialss: 2017-11-27 02:02:11.118478
+
+
+BTC_NMC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 02:02:11.203953
+
+DEF: checkPotentials: 2017-11-27 02:02:15.924759
+
+DEF: CheckForDip: 2017-11-27 02:02:16.215491
+
+DEF: CheckForDip: 2017-11-27 02:02:16.260600
+
+DEF: CheckForDip: 2017-11-27 02:02:16.504099
+
+DEF: checkBuyTrigger: 2017-11-27 02:02:16.585482
+
+Not enough BTC, need 0.50000912 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 02:15:08.178337
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 02:15:55.287310
+
+From Date: 2017-11-26 14:15:08
+To Date: 2017-11-27 02:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 02:15:56.019972
+
+END: downloadPrices - 1: 2017-11-27 02:17:09.493582
+
+DEF: removeExpiredPotentialss: 2017-11-27 02:17:09.493673
+
+
+BTC_BURST has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 02:17:09.696062
+
+DEF: checkPotentials: 2017-11-27 02:17:14.731808
+
+checkForRise: We've 3 in a rise for BTC_ZRX
+checkForRise: Rise Start Time: 1511744400
+checkForRise: Low price: 0.00002375
+checkForRise: High price:0.00002397
+checkForRiseSet trigger for BTC_ZRX at value 0.00002386 at time 1511748000
+DEF: CheckForDip: 2017-11-27 02:17:15.142592
+
+DEF: CheckForDip: 2017-11-27 02:17:15.224764
+
+DEF: CheckForDip: 2017-11-27 02:17:15.593186
+
+DEF: CheckForDip: 2017-11-27 02:17:15.760810
+
+DEF: checkBuyTrigger: 2017-11-27 02:17:15.924993
+
+Not enough BTC, need 0.50000228 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 02:30:08.160440
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 02:30:55.085036
+
+From Date: 2017-11-26 14:30:08
+To Date: 2017-11-27 02:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 02:30:55.779417
+
+END: downloadPrices - 1: 2017-11-27 02:32:13.199257
+
+DEF: removeExpiredPotentialss: 2017-11-27 02:32:13.199346
+
+
+BTC_STORJ has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 02:32:13.322411
+
+DEF: checkPotentials: 2017-11-27 02:32:18.560968
+
+DEF: CheckForDip: 2017-11-27 02:32:18.809877
+
+DEF: CheckForDip: 2017-11-27 02:32:18.850916
+
+DEF: CheckForDip: 2017-11-27 02:32:19.133744
+
+DEF: CheckForDip: 2017-11-27 02:32:19.219099
+
+DEF: checkBuyTrigger: 2017-11-27 02:32:19.421749
+
+Not enough BTC, need 0.499998 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 02:45:07.126263
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 02:45:54.344433
+
+From Date: 2017-11-26 14:45:07
+To Date: 2017-11-27 02:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 02:45:55.040150
+
+END: downloadPrices - 1: 2017-11-27 02:47:17.808135
+
+DEF: removeExpiredPotentialss: 2017-11-27 02:47:17.808229
+
+DEF: calcADX: 2017-11-27 02:47:17.889673
+
+DEF: checkPotentials: 2017-11-27 02:47:22.742855
+
+DEF: CheckForDip: 2017-11-27 02:47:22.944962
+
+DEF: CheckForDip: 2017-11-27 02:47:23.274607
+
+DEF: CheckForDip: 2017-11-27 02:47:23.441860
+
+DEF: CheckForDip: 2017-11-27 02:47:23.811802
+
+DEF: checkBuyTrigger: 2017-11-27 02:47:23.892594
+
+Not enough BTC, need 0.50000704 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 03:00:06.812520
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 03:00:54.115981
+
+From Date: 2017-11-26 15:00:06
+To Date: 2017-11-27 03:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 03:00:54.935735
+
+END: downloadPrices - 1: 2017-11-27 03:02:18.970970
+
+DEF: removeExpiredPotentialss: 2017-11-27 03:02:18.971058
+
+
+BTC_GNO has been active 7 periods...DELETING
+
+
+BTC_MAID has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 03:02:19.255408
+
+DEF: checkPotentials: 2017-11-27 03:02:23.572561
+
+DEF: CheckForDip: 2017-11-27 03:02:23.862138
+
+DEF: CheckForDip: 2017-11-27 03:02:24.230814
+
+DEF: checkBuyTrigger: 2017-11-27 03:02:24.271676
+
+Not enough BTC, need 0.5000057 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 03:15:07.810538
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 03:15:55.022587
+
+From Date: 2017-11-26 15:15:07
+To Date: 2017-11-27 03:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 03:15:55.758251
+
+END: downloadPrices - 1: 2017-11-27 03:17:13.091508
+
+DEF: removeExpiredPotentialss: 2017-11-27 03:17:13.091595
+
+
+BTC_NXT has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 03:17:13.256746
+
+DEF: checkPotentials: 2017-11-27 03:17:17.567674
+
+checkForRise: We've 3 in a rise for BTC_DASH
+checkForRise: Rise Start Time: 1511747100
+checkForRise: Low price: 0.0646287
+checkForRise: High price:0.06515797
+checkForRiseSet trigger for BTC_DASH at value 0.064893335 at time 1511751600
+DEF: CheckForDip: 2017-11-27 03:17:18.140281
+
+DEF: CheckForDip: 2017-11-27 03:17:18.466341
+
+DEF: checkBuyTrigger: 2017-11-27 03:17:18.510264
+
+Not enough BTC, need 517.91999982 only have 24.8931382
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 03:30:08.128166
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 03:30:54.836090
+
+From Date: 2017-11-26 15:30:08
+To Date: 2017-11-27 03:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 03:30:56.889517
+
+END: downloadPrices - 1: 2017-11-27 03:32:28.566176
+
+DEF: removeExpiredPotentialss: 2017-11-27 03:32:28.566293
+
+
+BTC_XEM has been active 7 periods...DELETING
+
+
+BTC_NMC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 03:32:28.734517
+
+DEF: checkPotentials: 2017-11-27 03:32:33.160734
+
+DEF: CheckForDip: 2017-11-27 03:32:33.327038
+
+checkForRise: We've 3 in a rise for BTC_NEOS
+checkForRise: Rise Start Time: 1511748900
+checkForRise: Low price: 0.00037745
+checkForRise: High price:0.00038
+checkForRiseSet trigger for BTC_NEOS at value 0.000378725 at time 1511752500
+DEF: CheckForDip: 2017-11-27 03:32:33.694138
+
+DEF: checkBuyTrigger: 2017-11-27 03:32:33.860210
+
+Not enough BTC, need 521.99999994 only have 24.8931382
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 03:45:07.488151
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 03:45:54.371180
+
+From Date: 2017-11-26 15:45:07
+To Date: 2017-11-27 03:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 03:45:55.151631
+
+END: downloadPrices - 1: 2017-11-27 03:47:15.346960
+
+DEF: removeExpiredPotentialss: 2017-11-27 03:47:15.347044
+
+
+BTC_SC has been active 7 periods...DELETING
+
+
+BTC_ZRX has been active 11 periods...DELETING
+
+
+BTC_BTM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 03:47:15.719732
+
+DEF: checkPotentials: 2017-11-27 03:47:20.636423
+
+DEF: CheckForDip: 2017-11-27 03:47:20.801328
+
+DEF: CheckForDip: 2017-11-27 03:47:20.842188
+
+DEF: checkBuyTrigger: 2017-11-27 03:47:20.883181
+
+Not enough BTC, need 529.53196854 only have 24.8931382
+Not enough BTC, need 500.08963068 only have 24.8931382
+Not enough BTC, need 0.50002148 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 04:00:07.166433
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 04:00:54.688791
+
+From Date: 2017-11-26 16:00:07
+To Date: 2017-11-27 04:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 04:00:55.589783
+
+END: downloadPrices - 1: 2017-11-27 04:02:10.997269
+
+DEF: removeExpiredPotentialss: 2017-11-27 04:02:10.997375
+
+
+BTC_DGB has been active 7 periods...DELETING
+
+
+USDT_LTC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 04:02:11.206502
+
+DEF: checkPotentials: 2017-11-27 04:02:15.870118
+
+checkForRise: We've 3 in a rise for BTC_BTS
+checkForRise: Rise Start Time: 1511749800
+checkForRise: Low price: 0.00001426
+checkForRise: High price:0.00001439
+checkForRiseSet trigger for BTC_BTS at value 0.000014325 at time 1511754300
+DEF: CheckForDip: 2017-11-27 04:02:16.198641
+
+DEF: CheckForDip: 2017-11-27 04:02:16.239155
+
+DEF: CheckForDip: 2017-11-27 04:02:16.320745
+
+DEF: CheckForDip: 2017-11-27 04:02:16.485923
+
+DEF: checkBuyTrigger: 2017-11-27 04:02:16.485960
+
+Not enough BTC, need 499.927551 only have 24.8931382
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 04:15:07.785427
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 04:15:55.911316
+
+From Date: 2017-11-26 16:15:07
+To Date: 2017-11-27 04:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 04:15:56.812471
+
+END: downloadPrices - 1: 2017-11-27 04:17:18.109385
+
+DEF: removeExpiredPotentialss: 2017-11-27 04:17:18.109508
+
+
+BTC_VIA has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 04:17:18.237942
+
+DEF: checkPotentials: 2017-11-27 04:17:23.080594
+
+DEF: CheckForDip: 2017-11-27 04:17:23.201951
+
+DEF: CheckForDip: 2017-11-27 04:17:23.242730
+
+DEF: CheckForDip: 2017-11-27 04:17:23.327900
+
+DEF: CheckForDip: 2017-11-27 04:17:23.368527
+
+DEF: CheckForDip: 2017-11-27 04:17:23.409443
+
+DEF: CheckForDip: 2017-11-27 04:17:23.449606
+
+DEF: checkBuyTrigger: 2017-11-27 04:17:23.611838
+
+Not enough BTC, need 500.053736 only have 24.8931382
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 04:30:08.859470
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 04:30:55.744498
+
+From Date: 2017-11-26 16:30:08
+To Date: 2017-11-27 04:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 04:30:56.600594
+
+END: downloadPrices - 1: 2017-11-27 04:32:20.074903
+
+DEF: removeExpiredPotentialss: 2017-11-27 04:32:20.075012
+
+
+BTC_DASH has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 04:32:20.159690
+
+DEF: checkPotentials: 2017-11-27 04:32:24.909165
+
+DEF: CheckForDip: 2017-11-27 04:32:25.030905
+
+DEF: CheckForDip: 2017-11-27 04:32:25.071728
+
+DEF: CheckForDip: 2017-11-27 04:32:25.357847
+
+DEF: CheckForDip: 2017-11-27 04:32:25.440225
+
+DEF: CheckForDip: 2017-11-27 04:32:25.522478
+
+DEF: CheckForDip: 2017-11-27 04:32:25.567553
+
+DEF: CheckForDip: 2017-11-27 04:32:25.730317
+
+DEF: checkBuyTrigger: 2017-11-27 04:32:25.807700
+
+Setting new buy limit for USDT_NXT at price 0.22049979
+Not enough BTC, need 500.0095238 only have 24.8931382
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 04:45:08.102578
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 04:45:56.888275
+
+From Date: 2017-11-26 16:45:08
+To Date: 2017-11-27 04:45:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 04:45:57.947397
+
+END: downloadPrices - 1: 2017-11-27 04:47:18.493467
+
+DEF: removeExpiredPotentialss: 2017-11-27 04:47:18.493561
+
+
+USDT_NXT has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 04:47:18.621326
+
+DEF: checkPotentials: 2017-11-27 04:47:22.936194
+
+DEF: CheckForDip: 2017-11-27 04:47:23.102836
+
+DEF: CheckForDip: 2017-11-27 04:47:23.185310
+
+checkForRise: We've 3 in a rise for BTC_POT
+checkForRise: Rise Start Time: 1511754300
+checkForRise: Low price: 0.00003085
+checkForRise: High price:0.00003137
+checkForRiseSet trigger for BTC_POT at value 0.00003111 at time 1511757000
+DEF: CheckForDip: 2017-11-27 04:47:23.388321
+
+DEF: CheckForDip: 2017-11-27 04:47:23.552158
+
+DEF: CheckForDip: 2017-11-27 04:47:23.633774
+
+DEF: CheckForDip: 2017-11-27 04:47:23.715662
+
+DEF: CheckForDip: 2017-11-27 04:47:23.964013
+
+DEF: checkBuyTrigger: 2017-11-27 04:47:23.964050
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 05:00:07.833946
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 05:00:56.579184
+
+From Date: 2017-11-26 17:00:07
+To Date: 2017-11-27 05:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 05:00:57.356688
+
+END: downloadPrices - 1: 2017-11-27 05:02:21.872730
+
+DEF: removeExpiredPotentialss: 2017-11-27 05:02:21.872804
+
+
+BTC_NEOS has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 05:02:21.994800
+
+DEF: checkPotentials: 2017-11-27 05:02:26.530064
+
+DEF: CheckForDip: 2017-11-27 05:02:26.573649
+
+DEF: CheckForDip: 2017-11-27 05:02:26.697114
+
+DEF: CheckForDip: 2017-11-27 05:02:26.779301
+
+DEF: CheckForDip: 2017-11-27 05:02:26.861570
+
+DEF: CheckForDip: 2017-11-27 05:02:26.942735
+
+DEF: CheckForDip: 2017-11-27 05:02:27.104880
+
+DEF: checkBuyTrigger: 2017-11-27 05:02:27.185928
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 05:15:07.328854
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 05:15:56.022493
+
+From Date: 2017-11-26 17:15:07
+To Date: 2017-11-27 05:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 05:15:56.840629
+
+END: downloadPrices - 1: 2017-11-27 05:17:13.186223
+
+DEF: removeExpiredPotentialss: 2017-11-27 05:17:13.186336
+
+
+BTC_BTS has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 05:17:13.269324
+
+DEF: checkPotentials: 2017-11-27 05:17:17.680554
+
+DEF: CheckForDip: 2017-11-27 05:17:17.802933
+
+DEF: CheckForDip: 2017-11-27 05:17:17.844782
+
+DEF: CheckForDip: 2017-11-27 05:17:17.966838
+
+DEF: CheckForDip: 2017-11-27 05:17:18.049340
+
+DEF: CheckForDip: 2017-11-27 05:17:18.131469
+
+DEF: CheckForDip: 2017-11-27 05:17:18.254087
+
+DEF: checkBuyTrigger: 2017-11-27 05:17:18.416809
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 05:30:07.050319
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 05:30:56.176840
+
+From Date: 2017-11-26 17:30:07
+To Date: 2017-11-27 05:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 05:30:56.867808
+
+END: downloadPrices - 1: 2017-11-27 05:32:18.444011
+
+DEF: removeExpiredPotentialss: 2017-11-27 05:32:18.444097
+
+
+BTC_NAV has been active 11 periods...DELETING
+
+
+BTC_XVC has been active 7 periods...DELETING
+
+
+BTC_NXT has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 05:32:18.769983
+
+DEF: checkPotentials: 2017-11-27 05:32:23.043435
+
+DEF: CheckForDip: 2017-11-27 05:32:23.209862
+
+DEF: CheckForDip: 2017-11-27 05:32:23.250722
+
+DEF: CheckForDip: 2017-11-27 05:32:23.291538
+
+DEF: CheckForDip: 2017-11-27 05:32:23.493088
+
+DEF: checkBuyTrigger: 2017-11-27 05:32:23.579387
+
+Not enough BTC, need 0.50244 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 05:45:07.240635
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 05:45:55.795004
+
+From Date: 2017-11-26 17:45:07
+To Date: 2017-11-27 05:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 05:45:56.530148
+
+END: downloadPrices - 1: 2017-11-27 05:47:11.538467
+
+DEF: removeExpiredPotentialss: 2017-11-27 05:47:11.538573
+
+
+USDT_LTC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 05:47:11.662333
+
+DEF: checkPotentials: 2017-11-27 05:47:16.406261
+
+DEF: CheckForDip: 2017-11-27 05:47:16.569916
+
+DEF: CheckForDip: 2017-11-27 05:47:16.651365
+
+DEF: CheckForDip: 2017-11-27 05:47:16.896253
+
+DEF: CheckForDip: 2017-11-27 05:47:17.059696
+
+DEF: CheckForDip: 2017-11-27 05:47:17.145697
+
+DEF: checkBuyTrigger: 2017-11-27 05:47:17.145733
+
+Not enough BTC, need 0.50349629 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 06:00:07.399149
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 06:00:56.988468
+
+From Date: 2017-11-26 18:00:07
+To Date: 2017-11-27 06:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 06:00:57.764558
+
+END: downloadPrices - 1: 2017-11-27 06:02:19.090871
+
+DEF: removeExpiredPotentialss: 2017-11-27 06:02:19.090962
+
+
+BTC_SYS has been active 7 periods...DELETING
+
+
+BTC_GNT has been active 7 periods...DELETING
+
+
+BTC_DGB has been active 7 periods...DELETING
+
+
+BTC_NMC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 06:02:19.541178
+
+DEF: checkPotentials: 2017-11-27 06:02:24.282883
+
+checkForRise: We've 3 in a rise for BTC_NEOS
+checkForRise: Rise Start Time: 1511757900
+checkForRise: Low price: 0.00037642
+checkForRise: High price:0.00038078
+checkForRiseSet trigger for BTC_NEOS at value 0.00037860 at time 1511762400
+DEF: CheckForDip: 2017-11-27 06:02:24.610905
+
+DEF: CheckForDip: 2017-11-27 06:02:24.651843
+
+DEF: CheckForDip: 2017-11-27 06:02:24.810957
+
+DEF: checkBuyTrigger: 2017-11-27 06:02:24.811001
+
+Not enough BTC, need 0.50403901 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 06:15:08.071359
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 06:15:58.049511
+
+From Date: 2017-11-26 18:15:08
+To Date: 2017-11-27 06:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 06:15:58.867862
+
+END: downloadPrices - 1: 2017-11-27 06:17:29.346643
+
+DEF: removeExpiredPotentialss: 2017-11-27 06:17:29.346721
+
+DEF: calcADX: 2017-11-27 06:17:29.430064
+
+DEF: checkPotentials: 2017-11-27 06:17:33.946904
+
+DEF: CheckForDip: 2017-11-27 06:17:34.068232
+
+DEF: CheckForDip: 2017-11-27 06:17:34.149941
+
+DEF: CheckForDip: 2017-11-27 06:17:34.312670
+
+DEF: CheckForDip: 2017-11-27 06:17:34.315890
+
+DEF: checkBuyTrigger: 2017-11-27 06:17:34.315916
+
+Not enough BTC, need 0.50262762 only have 0.22727954
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 06:30:07.553464
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 06:30:56.317864
+
+From Date: 2017-11-26 18:30:07
+To Date: 2017-11-27 06:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 06:30:57.049510
+
+END: downloadPrices - 1: 2017-11-27 06:32:21.007427
+
+DEF: removeExpiredPotentialss: 2017-11-27 06:32:21.007514
+
+
+BTC_POT has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 06:32:21.170219
+
+DEF: checkPotentials: 2017-11-27 06:32:26.075073
+
+DEF: CheckForDip: 2017-11-27 06:32:26.240679
+
+DEF: CheckForDip: 2017-11-27 06:32:26.323011
+
+DEF: CheckForDip: 2017-11-27 06:32:26.405160
+
+DEF: CheckForDip: 2017-11-27 06:32:26.527126
+
+DEF: checkBuyTrigger: 2017-11-27 06:32:26.731272
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 06:45:07.330168
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 06:45:56.457103
+
+From Date: 2017-11-26 18:45:07
+To Date: 2017-11-27 06:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 06:45:57.193269
+
+END: downloadPrices - 1: 2017-11-27 06:47:22.613019
+
+DEF: removeExpiredPotentialss: 2017-11-27 06:47:22.613106
+
+
+BTC_LTC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 06:47:22.736355
+
+DEF: checkPotentials: 2017-11-27 06:47:27.300029
+
+DEF: CheckForDip: 2017-11-27 06:47:27.462667
+
+DEF: CheckForDip: 2017-11-27 06:47:27.503621
+
+DEF: CheckForDip: 2017-11-27 06:47:27.548686
+
+DEF: CheckForDip: 2017-11-27 06:47:27.589362
+
+DEF: CheckForDip: 2017-11-27 06:47:27.873234
+
+DEF: checkBuyTrigger: 2017-11-27 06:47:27.873266
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 07:00:07.415506
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 07:00:20.019975
+
+From Date: 2017-11-26 19:00:07
+To Date: 2017-11-27 07:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 07:00:20.317246
+
+END: downloadPrices - 1: 2017-11-27 07:01:35.494757
+
+DEF: removeExpiredPotentialss: 2017-11-27 07:01:35.494848
+
+DEF: calcADX: 2017-11-27 07:01:35.574739
+
+DEF: checkPotentials: 2017-11-27 07:01:40.482548
+
+DEF: CheckForDip: 2017-11-27 07:01:40.569002
+
+DEF: CheckForDip: 2017-11-27 07:01:40.727644
+
+DEF: CheckForDip: 2017-11-27 07:01:40.770752
+
+DEF: CheckForDip: 2017-11-27 07:01:40.812171
+
+DEF: CheckForDip: 2017-11-27 07:01:41.134118
+
+DEF: CheckForDip: 2017-11-27 07:01:41.216236
+
+DEF: CheckForDip: 2017-11-27 07:01:41.302395
+
+DEF: CheckForDip: 2017-11-27 07:01:41.383641
+
+DEF: checkBuyTrigger: 2017-11-27 07:01:41.628201
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 07:15:07.473079
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 07:15:57.223867
+
+From Date: 2017-11-26 19:15:07
+To Date: 2017-11-27 07:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 07:15:58.039713
+
+END: downloadPrices - 1: 2017-11-27 07:17:16.283074
+
+DEF: removeExpiredPotentialss: 2017-11-27 07:17:16.283164
+
+
+BTC_OMG has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 07:17:16.409466
+
+DEF: checkPotentials: 2017-11-27 07:17:20.947011
+
+DEF: CheckForDip: 2017-11-27 07:17:20.991035
+
+DEF: CheckForDip: 2017-11-27 07:17:21.150227
+
+DEF: CheckForDip: 2017-11-27 07:17:21.229528
+
+DEF: CheckForDip: 2017-11-27 07:17:21.514689
+
+DEF: CheckForDip: 2017-11-27 07:17:21.596874
+
+DEF: CheckForDip: 2017-11-27 07:17:21.683309
+
+DEF: CheckForDip: 2017-11-27 07:17:21.724234
+
+DEF: checkBuyTrigger: 2017-11-27 07:17:21.805532
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 07:30:07.961356
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 07:30:58.181964
+
+From Date: 2017-11-26 19:30:07
+To Date: 2017-11-27 07:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 07:30:58.997224
+
+END: downloadPrices - 1: 2017-11-27 07:32:23.798958
+
+DEF: removeExpiredPotentialss: 2017-11-27 07:32:23.799049
+
+
+BTC_HUC has been active 7 periods...DELETING
+
+
+BTC_NEOS has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 07:32:24.003784
+
+DEF: checkPotentials: 2017-11-27 07:32:28.665873
+
+DEF: CheckForDip: 2017-11-27 07:32:28.710043
+
+DEF: CheckForDip: 2017-11-27 07:32:28.868756
+
+checkForRise: We've 3 in a rise for BTC_POT
+checkForRise: Rise Start Time: 1511764200
+checkForRise: Low price: 0.00002805
+checkForRise: High price:0.00002866
+checkForRiseSet trigger for BTC_POT at value 0.000028355 at time 1511767800
+DEF: CheckForDip: 2017-11-27 07:32:29.239297
+
+DEF: CheckForDip: 2017-11-27 07:32:29.321445
+
+DEF: CheckForDip: 2017-11-27 07:32:29.362278
+
+DEF: CheckForDip: 2017-11-27 07:32:29.447443
+
+DEF: checkBuyTrigger: 2017-11-27 07:32:29.569003
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 07:45:07.918591
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 07:45:57.252683
+
+From Date: 2017-11-26 19:45:07
+To Date: 2017-11-27 07:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 07:45:58.842560
+
+END: downloadPrices - 1: 2017-11-27 07:47:28.989525
+
+DEF: removeExpiredPotentialss: 2017-11-27 07:47:28.989617
+
+
+USDT_LTC has been active 7 periods...DELETING
+
+
+USDT_REP has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 07:47:29.237922
+
+DEF: checkPotentials: 2017-11-27 07:47:33.632573
+
+DEF: CheckForDip: 2017-11-27 07:47:33.840663
+
+DEF: CheckForDip: 2017-11-27 07:47:33.881375
+
+DEF: CheckForDip: 2017-11-27 07:47:33.921880
+
+DEF: CheckForDip: 2017-11-27 07:47:34.127642
+
+DEF: CheckForDip: 2017-11-27 07:47:34.373199
+
+DEF: checkBuyTrigger: 2017-11-27 07:47:34.373234
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 08:00:06.955364
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 08:00:54.076936
+
+From Date: 2017-11-26 20:00:06
+To Date: 2017-11-27 08:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 08:00:54.855181
+
+END: downloadPrices - 1: 2017-11-27 08:02:17.482203
+
+DEF: removeExpiredPotentialss: 2017-11-27 08:02:17.482304
+
+DEF: calcADX: 2017-11-27 08:02:17.525191
+
+DEF: checkPotentials: 2017-11-27 08:02:21.837781
+
+DEF: CheckForDip: 2017-11-27 08:02:22.081767
+
+DEF: CheckForDip: 2017-11-27 08:02:22.162954
+
+DEF: CheckForDip: 2017-11-27 08:02:22.248156
+
+DEF: CheckForDip: 2017-11-27 08:02:22.410672
+
+DEF: checkBuyTrigger: 2017-11-27 08:02:22.410741
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 08:15:07.022452
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 08:15:55.510613
+
+From Date: 2017-11-26 20:15:07
+To Date: 2017-11-27 08:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 08:15:56.249125
+
+END: downloadPrices - 1: 2017-11-27 08:17:16.123195
+
+DEF: removeExpiredPotentialss: 2017-11-27 08:17:16.123297
+
+
+BTC_NMC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 08:17:16.245531
+
+DEF: checkPotentials: 2017-11-27 08:17:20.919597
+
+DEF: CheckForDip: 2017-11-27 08:17:21.086079
+
+DEF: CheckForDip: 2017-11-27 08:17:21.168675
+
+DEF: CheckForDip: 2017-11-27 08:17:21.369400
+
+DEF: CheckForDip: 2017-11-27 08:17:21.619567
+
+DEF: CheckForDip: 2017-11-27 08:17:21.779322
+
+DEF: checkBuyTrigger: 2017-11-27 08:17:21.779360
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 08:30:08.389315
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 08:30:57.870493
+
+From Date: 2017-11-26 20:30:08
+To Date: 2017-11-27 08:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 08:30:58.609152
+
+END: downloadPrices - 1: 2017-11-27 08:32:18.064342
+
+DEF: removeExpiredPotentialss: 2017-11-27 08:32:18.064435
+
+
+USDT_ZEC has been active 7 periods...DELETING
+
+
+BTC_CLAM has been active 7 periods...DELETING
+
+
+BTC_BTM has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 08:32:18.309018
+
+DEF: checkPotentials: 2017-11-27 08:32:23.136888
+
+checkForRise: We've 3 in a rise for BTC_PPC
+checkForRise: Rise Start Time: 1511766000
+checkForRise: Low price: 0.00019311
+checkForRise: High price:0.0001999
+checkForRiseSet trigger for BTC_PPC at value 0.000196505 at time 1511770500
+DEF: CheckForDip: 2017-11-27 08:32:23.590762
+
+DEF: CheckForDip: 2017-11-27 08:32:23.672892
+
+DEF: CheckForDip: 2017-11-27 08:32:23.873893
+
+DEF: checkBuyTrigger: 2017-11-27 08:32:23.956462
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 08:45:07.668881
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 08:45:55.596718
+
+From Date: 2017-11-26 20:45:07
+To Date: 2017-11-27 08:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 08:45:56.417281
+
+END: downloadPrices - 1: 2017-11-27 08:47:17.575101
+
+DEF: removeExpiredPotentialss: 2017-11-27 08:47:17.575192
+
+DEF: calcADX: 2017-11-27 08:47:17.656029
+
+DEF: checkPotentials: 2017-11-27 08:47:21.887603
+
+DEF: CheckForDip: 2017-11-27 08:47:22.092916
+
+DEF: CheckForDip: 2017-11-27 08:47:22.173986
+
+DEF: CheckForDip: 2017-11-27 08:47:22.378636
+
+DEF: checkBuyTrigger: 2017-11-27 08:47:22.461010
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 09:00:07.124843
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 09:00:56.202591
+
+From Date: 2017-11-26 21:00:07
+To Date: 2017-11-27 09:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 09:00:57.018875
+
+END: downloadPrices - 1: 2017-11-27 09:02:24.251432
+
+DEF: removeExpiredPotentialss: 2017-11-27 09:02:24.251533
+
+
+BTC_BLK has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 09:02:24.373671
+
+DEF: checkPotentials: 2017-11-27 09:02:29.036839
+
+DEF: CheckForDip: 2017-11-27 09:02:29.280713
+
+DEF: CheckForDip: 2017-11-27 09:02:29.444924
+
+DEF: CheckForDip: 2017-11-27 09:02:29.608275
+
+DEF: checkBuyTrigger: 2017-11-27 09:02:29.690402
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 09:15:08.689854
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 09:15:56.651558
+
+From Date: 2017-11-26 21:15:08
+To Date: 2017-11-27 09:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 09:15:57.433092
+
+END: downloadPrices - 1: 2017-11-27 09:17:24.071793
+
+DEF: removeExpiredPotentialss: 2017-11-27 09:17:24.071885
+
+
+BTC_POT has been active 11 periods...DELETING
+
+
+BTC_MAID has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 09:17:24.280338
+
+DEF: checkPotentials: 2017-11-27 09:17:28.548630
+
+DEF: CheckForDip: 2017-11-27 09:17:28.797622
+
+DEF: CheckForDip: 2017-11-27 09:17:28.878743
+
+DEF: checkBuyTrigger: 2017-11-27 09:17:28.919626
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 09:30:08.269536
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 09:30:56.933805
+
+From Date: 2017-11-26 21:30:08
+To Date: 2017-11-27 09:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 09:30:58.324401
+
+END: downloadPrices - 1: 2017-11-27 09:32:31.164059
+
+DEF: removeExpiredPotentialss: 2017-11-27 09:32:31.164147
+
+
+BTC_EXP has been active 11 periods...DELETING
+
+
+BTC_LTC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 09:32:31.367911
+
+DEF: checkPotentials: 2017-11-27 09:32:35.995724
+
+DEF: CheckForDip: 2017-11-27 09:32:36.239048
+
+DEF: CheckForDip: 2017-11-27 09:32:36.283986
+
+DEF: CheckForDip: 2017-11-27 09:32:36.365012
+
+DEF: checkBuyTrigger: 2017-11-27 09:32:36.405578
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 09:45:07.520748
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 09:45:53.485251
+
+From Date: 2017-11-26 21:45:07
+To Date: 2017-11-27 09:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 09:45:54.224480
+
+END: downloadPrices - 1: 2017-11-27 09:47:20.762093
+
+DEF: removeExpiredPotentialss: 2017-11-27 09:47:20.762219
+
+
+BTC_PPC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 09:47:20.886570
+
+DEF: checkPotentials: 2017-11-27 09:47:25.699624
+
+DEF: CheckForDip: 2017-11-27 09:47:25.861619
+
+DEF: CheckForDip: 2017-11-27 09:47:26.151454
+
+DEF: CheckForDip: 2017-11-27 09:47:26.316375
+
+DEF: checkBuyTrigger: 2017-11-27 09:47:26.438542
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:138: RuntimeWarning: invalid value encountered in double_scalars
+  PDI = 100*(expPosDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:141: RuntimeWarning: invalid value encountered in double_scalars
+  NDI = 100*(expNegDM[xx]/ATR[xx])
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 10:00:07.234357
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 10:00:54.780364
+
+From Date: 2017-11-26 22:00:07
+To Date: 2017-11-27 10:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 10:00:55.561965
+
+END: downloadPrices - 1: 2017-11-27 10:02:24.659125
+
+DEF: removeExpiredPotentialss: 2017-11-27 10:02:24.659214
+
+
+BTC_BTS has been active 7 periods...DELETING
+
+
+BTC_BTM has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 10:02:24.944445
+
+DEF: checkPotentials: 2017-11-27 10:02:29.871317
+
+DEF: CheckForDip: 2017-11-27 10:02:30.078718
+
+DEF: CheckForDip: 2017-11-27 10:02:30.739960
+
+DEF: checkBuyTrigger: 2017-11-27 10:02:30.781047
+
+DEF: checkStopLimit
+
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 501, in <module>
+    checkStopLimit()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 339, in checkStopLimit
+    coin = pairLatest.split("BTC_",1)[1] 
+IndexError: list index out of range
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 10:45:07.896829
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 10:45:54.855129
+
+From Date: 2017-11-26 22:45:07
+To Date: 2017-11-27 10:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 10:45:55.634634
+
+END: downloadPrices - 1: 2017-11-27 10:47:26.420893
+
+DEF: removeExpiredPotentialss: 2017-11-27 10:47:26.420985
+
+
+BTC_DCR has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 10:47:26.504400
+
+DEF: checkPotentials: 2017-11-27 10:47:31.218032
+
+DEF: CheckForDip: 2017-11-27 10:47:31.628164
+
+DEF: checkBuyTrigger: 2017-11-27 10:47:32.038382
+
+Getting coin balannce form dB for BTC as: 0.22727954
+Getting coin balannce form dB for BTC as: 0.22727954
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for REP as: 0.0
+Amount set to: 0.0 for REP sine getCoinnBalance returned 0.0
+Getting coin balannce form dB for CVC as: 0.0
+Getting coin balannce form dB for XVC as: 7825.2445
+Getting coin balannce form dB for PINK as: 0.0
+Getting coin balannce form dB for SYS as: 64847.315627
+Getting coin balannce form dB for EMC2 as: 0.0
+Getting coin balannce form dB for RADS as: 0.0
+Getting coin balannce form dB for SC as: 1193749.4727
+Getting coin balannce form dB for MAID as: 25312.1956235
+Getting coin balannce form dB for BCH as: 1E-8
+Getting coin balannce form dB for GNT as: 48771.3890956
+Getting coin balannce form dB for BCN as: 0.0
+Getting coin balannce form dB for REP as: 0.0
+Getting coin balannce form dB for BCY as: 0.0
+Getting coin balannce form dB for GNO as: 60.73472878
+Getting coin balannce form dB for NXT as: 106884.239296
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for FCT as: 424.00735508
+Getting coin balannce form dB for GAS as: 31.76600003
+Getting coin balannce form dB for ETH as: 19.97
+Pair_Active coin amount for USDT_ETH is 0.0
+Getting coin balannce form dB for BTC as: 0.22727954
+Getting coin balannce form dB for LBC as: 0.0
+Getting coin balannce form dB for DCR as: 0.0
+Getting coin balannce form dB for ETC as: 573.49549496
+Getting coin balannce form dB for OMG as: 365.37927895
+Getting coin balannce form dB for AMP as: 0.0
+Getting coin balannce form dB for XPM as: 0.0
+Getting coin balannce form dB for NXT as: 106884.239296
+Getting coin balannce form dB for VTC as: 828.74176749
+Getting coin balannce form dB for STEEM as: 5642.9973701
+Getting coin balannce form dB for BLK as: 6712.9042741
+Getting coin balannce form dB for PASC as: 0.0
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for GRC as: 91604.5998031
+Getting coin balannce form dB for NXC as: 0.0
+Getting coin balannce form dB for BTCD as: 144.98543522
+Getting coin balannce form dB for LTC as: 83.68648002
+Getting coin balannce form dB for DASH as: 0.0
+Getting coin balannce form dB for STORJ as: 0.0
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for BURST as: 0.0
+Getting coin balannce form dB for ZRX as: 17180.191
+Getting coin balannce form dB for BELA as: 0.0
+Getting coin balannce form dB for STEEM as: 5642.9973701
+Getting coin balannce form dB for ETC as: 573.49549496
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for HUC as: 0.0
+Getting coin balannce form dB for STRAT as: 978.25043786
+Getting coin balannce form dB for LSK as: 2945.72765161
+Getting coin balannce form dB for EXP as: 0.0
+Getting coin balannce form dB for CLAM as: 0.0
+Getting coin balannce form dB for REP as: 0.0
+Getting coin balannce form dB for DASH as: 0.0
+Getting coin balannce form dB for CVC as: 0.0
+Getting coin balannce form dB for BCH as: 1E-8
+Getting coin balannce form dB for ZRX as: 17180.191
+Getting coin balannce form dB for DASH as: 0.0
+Getting coin balannce form dB for BLK as: 6712.9042741
+Getting coin balannce form dB for XRP as: 16785.0814974
+Getting coin balannce form dB for NXT as: 106884.239296
+Getting coin balannce form dB for NEOS as: 1347.97229169
+Getting coin balannce form dB for OMG as: 365.37927895
+Getting coin balannce form dB for BTS as: 45018.371
+Getting coin balannce form dB for DOGE as: 0.0
+Getting coin balannce form dB for GNT as: 48771.3890956
+Getting coin balannce form dB for SBD as: 0.0
+Getting coin balannce form dB for GNO as: 60.73472878
+Getting coin balannce form dB for XCP as: 0.0
+Getting coin balannce form dB for LTC as: 83.68648002
+Getting coin balannce form dB for BTM as: 0.0
+Getting coin balannce form dB for XMR as: 164.89732032
+Getting coin balannce form dB for LSK as: 2945.72765161
+Getting coin balannce form dB for OMNI as: 0.0
+Getting coin balannce form dB for NAV as: 4119.81100002
+Getting coin balannce form dB for FLDC as: 361757.118838
+Getting coin balannce form dB for BCH as: 1E-8
+Getting coin balannce form dB for XBC as: 0.0
+Getting coin balannce form dB for DGB as: 0.0
+Getting coin balannce form dB for BTCD as: 144.98543522
+Getting coin balannce form dB for VRC as: 0.0
+Getting coin balannce form dB for RIC as: 0.0
+Getting coin balannce form dB for MAID as: 25312.1956235
+Getting coin balannce form dB for STR as: 421003.952187
+Getting coin balannce form dB for POT as: 0.0
+Getting coin balannce form dB for XMR as: 164.89732032
+Getting coin balannce form dB for VIA as: 0.0
+Getting coin balannce form dB for XEM as: 54738.6491933
+Getting coin balannce form dB for NMC as: 4885.97719635
+Getting coin balannce form dB for ETC as: 573.49549496
+Getting coin balannce form dB for LTC as: 83.68648002
+Getting coin balannce form dB for ARDR as: 0.0
+Getting coin balannce form dB for GAS as: 31.76600003
+Getting coin balannce form dB for FLO as: 0.0
+Getting coin balannce form dB for XRP as: 16785.0814974
+Getting coin balannce form dB for GAME as: 4685.29612653
+Getting coin balannce form dB for PPC as: 0.0
+Getting coin balannce form dB for BCN as: 0.0
+Getting coin balannce form dB for STR as: 421003.952187
+Getting coin balannce form dB for REP as: 0.0
+Amount set to: 0.0 for REP sine getCoinnBalance returned 0.0
+Getting coin balannce form dB for CVC as: 0.0
+Getting coin balannce form dB for XVC as: 7825.2445
+Getting coin balannce form dB for PINK as: 0.0
+Getting coin balannce form dB for SYS as: 64847.315627
+Getting coin balannce form dB for EMC2 as: 0.0
+Getting coin balannce form dB for RADS as: 0.0
+Getting coin balannce form dB for SC as: 1193749.4727
+Getting coin balannce form dB for MAID as: 25312.1956235
+Getting coin balannce form dB for BCH as: 1E-8
+Getting coin balannce form dB for GNT as: 48771.3890956
+Getting coin balannce form dB for BCN as: 0.0
+Getting coin balannce form dB for REP as: 0.0
+Getting coin balannce form dB for BCY as: 0.0
+Getting coin balannce form dB for GNO as: 60.73472878
+Getting coin balannce form dB for NXT as: 106884.239296
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for FCT as: 424.00735508
+Getting coin balannce form dB for GAS as: 31.76600003
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for BTC as: 0.22727954
+Getting coin balannce form dB for LBC as: 0.0
+Getting coin balannce form dB for DCR as: 0.0
+Getting coin balannce form dB for ETC as: 573.49549496
+Getting coin balannce form dB for OMG as: 365.37927895
+Getting coin balannce form dB for AMP as: 0.0
+Getting coin balannce form dB for XPM as: 0.0
+Getting coin balannce form dB for NXT as: 106884.239296
+Getting coin balannce form dB for VTC as: 828.74176749
+Getting coin balannce form dB for STEEM as: 5642.9973701
+Getting coin balannce form dB for BLK as: 6712.9042741
+Getting coin balannce form dB for PASC as: 0.0
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for GRC as: 91604.5998031
+Pair_Active coin amount for BTC_GRC is 0.0
+Getting coin balannce form dB for NXC as: 0.0
+Getting coin balannce form dB for BTCD as: 144.98543522
+Getting coin balannce form dB for LTC as: 83.68648002
+Getting coin balannce form dB for DASH as: 0.0
+Getting coin balannce form dB for STORJ as: 0.0
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for ZEC as: 1.99500002
+Getting coin balannce form dB for BURST as: 0.0
+Getting coin balannce form dB for ZRX as: 17180.191
+Getting coin balannce form dB for BELA as: 0.0
+Getting coin balannce form dB for STEEM as: 5642.9973701
+Getting coin balannce form dB for ETC as: 573.49549496
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for HUC as: 0.0
+Getting coin balannce form dB for STRAT as: 978.25043786
+Getting coin balannce form dB for LSK as: 2945.72765161
+Getting coin balannce form dB for EXP as: 0.0
+Getting coin balannce form dB for CLAM as: 0.0
+Getting coin balannce form dB for REP as: 0.0
+Getting coin balannce form dB for DASH as: 0.0
+Getting coin balannce form dB for CVC as: 0.0
+Getting coin balannce form dB for BCH as: 1E-8
+Getting coin balannce form dB for ZRX as: 17180.191
+Getting coin balannce form dB for DASH as: 0.0
+Getting coin balannce form dB for BLK as: 6712.9042741
+Getting coin balannce form dB for XRP as: 16785.0814974
+Getting coin balannce form dB for NXT as: 106884.239296
+Getting coin balannce form dB for NEOS as: 1347.97229169
+Getting coin balannce form dB for OMG as: 365.37927895
+Getting coin balannce form dB for BTS as: 45018.371
+Getting coin balannce form dB for DOGE as: 0.0
+Getting coin balannce form dB for GNT as: 48771.3890956
+Getting coin balannce form dB for SBD as: 0.0
+Getting coin balannce form dB for GNO as: 60.73472878
+Getting coin balannce form dB for XCP as: 0.0
+Getting coin balannce form dB for LTC as: 83.68648002
+Getting coin balannce form dB for BTM as: 0.0
+Getting coin balannce form dB for XMR as: 164.89732032
+Getting coin balannce form dB for LSK as: 2945.72765161
+Getting coin balannce form dB for OMNI as: 0.0
+Getting coin balannce form dB for NAV as: 4119.81100002
+Getting coin balannce form dB for FLDC as: 361757.118838
+Getting coin balannce form dB for BCH as: 1E-8
+Getting coin balannce form dB for XBC as: 0.0
+Getting coin balannce form dB for DGB as: 0.0
+Getting coin balannce form dB for BTCD as: 144.98543522
+Getting coin balannce form dB for VRC as: 0.0
+Getting coin balannce form dB for RIC as: 0.0
+Getting coin balannce form dB for MAID as: 25312.1956235
+Getting coin balannce form dB for STR as: 421003.952187
+Getting coin balannce form dB for POT as: 0.0
+Getting coin balannce form dB for XMR as: 164.89732032
+Getting coin balannce form dB for VIA as: 0.0
+Getting coin balannce form dB for XEM as: 54738.6491933
+Getting coin balannce form dB for NMC as: 4885.97719635
+Getting coin balannce form dB for ETC as: 573.49549496
+Getting coin balannce form dB for LTC as: 83.68648002
+Getting coin balannce form dB for ARDR as: 0.0
+Getting coin balannce form dB for GAS as: 31.76600003
+Getting coin balannce form dB for FLO as: 0.0
+Getting coin balannce form dB for XRP as: 16785.0814974
+Getting coin balannce form dB for GAME as: 4685.29612653
+Getting coin balannce form dB for PPC as: 0.0
+Getting coin balannce form dB for BCN as: 0.0
+Getting coin balannce form dB for STR as: 421003.952187
+=========================
+End Time: 2017-11-27 10:47:46.818124
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 11:15:07.718314
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 11:15:52.800765
+
+From Date: 2017-11-26 23:15:07
+To Date: 2017-11-27 11:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 11:15:53.378252
+
+END: downloadPrices - 1: 2017-11-27 11:17:16.641289
+
+DEF: removeExpiredPotentialss: 2017-11-27 11:17:16.641383
+
+
+BTC_LBC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 11:17:16.725490
+
+DEF: checkPotentials: 2017-11-27 11:17:20.919416
+
+DEF: CheckForDip: 2017-11-27 11:17:21.372269
+
+DEF: checkBuyTrigger: 2017-11-27 11:17:21.741850
+
+Getting coin balannce form dB for BTC as: 0.22727954
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount set to: 91743.0 for GRC sine getCoinnBalance returned 91604.5998031
+=========================
+End Time: 2017-11-27 11:17:22.196640
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 11:30:07.648056
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 11:30:54.693333
+
+From Date: 2017-11-26 23:30:07
+To Date: 2017-11-27 11:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 11:30:55.386860
+
+END: downloadPrices - 1: 2017-11-27 11:32:17.024399
+
+DEF: removeExpiredPotentialss: 2017-11-27 11:32:17.024502
+
+
+BTC_NAV has been active 7 periods...DELETING
+
+
+BTC_POT has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 11:32:17.190036
+
+DEF: checkPotentials: 2017-11-27 11:32:21.495695
+
+DEF: CheckForDip: 2017-11-27 11:32:21.703871
+
+checkForRise: We've 3 in a rise for BTC_ZEC
+checkForRise: Rise Start Time: 1511776800
+checkForRise: Low price: 0.03485574
+checkForRise: High price:0.03510511
+checkForRiseSet trigger for BTC_ZEC at value 0.034980425 at time 1511781300
+checkForRise: We've 3 in a rise for USDT_XMR
+checkForRise: Rise Start Time: 1511777700
+checkForRise: Low price: 158.80000007
+checkForRise: High price:161.14394942
+checkForRiseSet trigger for USDT_XMR at value 159.971974745 at time 1511781300
+DEF: CheckForDip: 2017-11-27 11:32:22.397511
+
+DEF: checkBuyTrigger: 2017-11-27 11:32:22.397547
+
+Getting coin balannce form dB for BTC as: 0.22727954
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount set to: 91743.0 for GRC sine getCoinnBalance returned 91604.5998031
+=========================
+End Time: 2017-11-27 11:32:22.645786
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 11:45:07.952480
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 11:45:53.120122
+
+From Date: 2017-11-26 23:45:07
+To Date: 2017-11-27 11:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 11:45:53.981670
+
+END: downloadPrices - 1: 2017-11-27 11:47:11.173240
+
+DEF: removeExpiredPotentialss: 2017-11-27 11:47:11.173331
+
+
+BTC_NEOS has been active 7 periods...DELETING
+
+
+BTC_XCP has been active 7 periods...DELETING
+
+
+BTC_XPM has been active 7 periods...DELETING
+
+
+BTC_PPC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-11-27 11:47:11.664299
+
+DEF: checkPotentials: 2017-11-27 11:47:16.001776
+
+checkForRise: We've 3 in a rise for BTC_BCY
+checkForRise: Rise Start Time: 1511777700
+checkForRise: Low price: 0.00003584
+checkForRise: High price:0.000037
+checkForRiseSet trigger for BTC_BCY at value 0.00003642 at time 1511782200
+DEF: CheckForDip: 2017-11-27 11:47:16.413401
+
+DEF: checkBuyTrigger: 2017-11-27 11:47:16.413439
+
+Getting coin balannce form dB for BTC as: 0.22727954
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount set to: 91743.0 for GRC sine getCoinnBalance returned 91604.5998031
+=========================
+End Time: 2017-11-27 11:47:16.702299
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 12:00:07.891400
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 12:00:53.908550
+
+From Date: 2017-11-27 00:00:07
+To Date: 2017-11-27 12:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 12:00:54.645437
+
+END: downloadPrices - 1: 2017-11-27 12:02:07.966049
+
+DEF: removeExpiredPotentialss: 2017-11-27 12:02:07.966142
+
+
+BTC_NXC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 12:02:08.049813
+
+DEF: checkPotentials: 2017-11-27 12:02:12.667936
+
+DEF: CheckForDip: 2017-11-27 12:02:12.916718
+
+DEF: checkBuyTrigger: 2017-11-27 12:02:13.119015
+
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount set to: 91743.0 for GRC sine getCoinnBalance returned 91604.5998031
+=========================
+End Time: 2017-11-27 12:02:13.406986
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 12:15:06.840904
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 12:15:53.510334
+
+From Date: 2017-11-27 00:15:06
+To Date: 2017-11-27 12:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 12:15:54.376151
+
+END: downloadPrices - 1: 2017-11-27 12:17:22.415642
+
+DEF: removeExpiredPotentialss: 2017-11-27 12:17:22.415731
+
+
+BTC_BTM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 12:17:22.582875
+
+DEF: checkPotentials: 2017-11-27 12:17:26.768658
+
+DEF: CheckForDip: 2017-11-27 12:17:27.013652
+
+DEF: checkBuyTrigger: 2017-11-27 12:17:27.139653
+
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount from ACTIVES table is : 91743.0 and actual from account is: 91604.5998031 so setting amount to totalCoin
+=========================
+End Time: 2017-11-27 12:17:27.383426
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 12:30:07.530512
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 12:30:54.507894
+
+From Date: 2017-11-27 00:30:07
+To Date: 2017-11-27 12:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 12:30:55.326690
+
+END: downloadPrices - 1: 2017-11-27 12:32:17.684626
+
+DEF: removeExpiredPotentialss: 2017-11-27 12:32:17.684724
+
+
+BTC_BTCD has been active 11 periods...DELETING
+
+
+USDT_ETC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 12:32:17.892874
+
+DEF: checkPotentials: 2017-11-27 12:32:22.046348
+
+DEF: CheckForDip: 2017-11-27 12:32:22.253369
+
+DEF: checkBuyTrigger: 2017-11-27 12:32:22.416183
+
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount from ACTIVES table is : 91743.0 and actual from account is: 91604.5998031 so setting amount to totalCoin
+=========================
+End Time: 2017-11-27 12:32:22.663816
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 12:45:07.741007
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 12:45:12.371932
+
+From Date: 2017-11-27 00:45:07
+To Date: 2017-11-27 12:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 12:45:12.678813
+
+END: downloadPrices - 1: 2017-11-27 12:46:29.541685
+
+DEF: removeExpiredPotentialss: 2017-11-27 12:46:29.541770
+
+
+BTC_VRC has been active 7 periods...DELETING
+
+
+BTC_ZEC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 12:46:29.830151
+
+DEF: checkPotentials: 2017-11-27 12:46:34.542108
+
+DEF: CheckForDip: 2017-11-27 12:46:34.585907
+
+DEF: checkBuyTrigger: 2017-11-27 12:46:35.036479
+
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount from ACTIVES table is : 91743.0 and actual from account is: 91604.5998031 so setting amount to totalCoin
+=========================
+End Time: 2017-11-27 12:46:35.324088
+=========================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-11-27 13:00:06.799235
+===============================================================
+
+DEF: downloadPrices: 2017-11-27 13:00:54.902465
+
+From Date: 2017-11-27 01:00:06
+To Date: 2017-11-27 13:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-11-27 13:00:55.636766
+
+END: downloadPrices - 1: 2017-11-27 13:02:16.961497
+
+DEF: removeExpiredPotentialss: 2017-11-27 13:02:16.961618
+
+
+BTC_SBD has been active 11 periods...DELETING
+
+
+USDT_XMR has been active 11 periods...DELETING
+
+
+BTC_BCY has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-11-27 13:02:17.293579
+
+DEF: checkPotentials: 2017-11-27 13:02:21.885676
+
+DEF: CheckForDip: 2017-11-27 13:02:22.047975
+
+DEF: checkBuyTrigger: 2017-11-27 13:02:22.465044
+
+Getting coin balannce form dB for BTC as: 0.22727954
+DEF: checkStopLimit
+
+
+Getting coin balannce form dB for ETH as: 19.97
+Getting coin balannce form dB for GRC as: 91604.5998031
+Amount from ACTIVES table is : 91743.0 and actual from account is: 91604.5998031 so setting amount to totalCoin
+=========================
+End Time: 2017-11-27 13:02:22.748754
+=========================
+

@@ -3,6 +3,7 @@ from decimal import Decimal
 import dbMod
 import datetime
 import time
+import sendSMS
 
 bittConn = myConnection.getBittConn()
 polConn = myConnection.getPolConn()
@@ -128,6 +129,7 @@ def checkWallets():
         print "BTC/USD: " + str(currBTCPrice[0][0])
         print "============================================"
         dbMod.insertTotBalHist(nowTime, 'TOTAL', 'BTC', decimalTotalBTC, usdValue)
+        sendSMS.sendMessage("Total USD value: " + str(usdValue))
     else:
         print "Cannot load BTC price from DB."
 
