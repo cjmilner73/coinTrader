@@ -280,6 +280,54 @@ def getCoinPrice(coin):
 
     return rows
 
+def getLastPrice(coinPair):
+
+    conn = psycopg2.connect(**params)
+    cur = conn.cursor()
+
+    query = "select price from prices where pair = '" + coinPair + "' and exchange = 'POLONIEX'"
+
+    cur.execute(query)
+    rows = cur.fetchall()
+
+    conn.close()
+
+    return rows[0][0]
+
+def getFirstPrice(coinPair):
+
+    conn = psycopg2.connect(**params)
+    cur = conn.cursor()
+
+    oneDayInSeconds = xxxxxx
+    nowTime = xxxxx
+
+    query = "select close from ohlcv where pair = '" + coinPair + "' and timestamp_ut > " + str(nowTime) + " order by ut_timestamp where rowcount < 2"
+
+    cur.execute(query)
+    rows = cur.fetchall()
+
+    conn.close()
+
+    return rows[0][0]
+
+def getLowestPrice(coinPair):
+
+    conn = psycopg2.connect(**params)
+    cur = conn.cursor()
+
+    oneDayInSeconds = xxxxxx
+    nowTime = xxxxx
+
+    query = "select min(close) from ohlcv where pair = '" + coinPair + "' and timestamp_ut > " + str(nowTime)
+
+    cur.execute(query)
+    rows = cur.fetchall()
+
+    conn.close()
+
+    return rows[0][0]
+
 def getBTCPrice():
 
     conn = psycopg2.connect(**params)

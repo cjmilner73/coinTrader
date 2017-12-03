@@ -49,7 +49,7 @@ def buyPairSpike(pair):
     #if ( True ):
         print "Buy %d of %s at %s" % (noOfCoinsToBuy, pair, priceFloat)
         #polCon.buy(pair, priceFloat, noOfCoinsToBuy)
-        sendSMS.sendMessage("Buying " + str(noOfCoinsToBuy) + " of " + pair + " at " + str(priceFloat))
+        #sendSMS.sendMessage("Buying " + str(noOfCoinsToBuy) + " of " + pair + " at " + str(priceFloat))
         stop = priceFloat * 0.7
         limit = priceFloat * 1.3
         dbMod.insertActive(pair, 'SPIKE', nowTimeEpoch, 'BUY', priceFloat, noOfCoinsToBuy, stop, limit)

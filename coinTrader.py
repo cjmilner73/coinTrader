@@ -341,14 +341,14 @@ def checkStopLimit():
                 coin = pairLatest[pairLatest.index('_') + 1:]
                 totalCoin = getCoinBalance(coin)
                 if amountFloat > totalCoin:
-                    amounFloat = totalCoin
+                    amountFloat = totalCoin
                     print "Amount from ACTIVES table is : " + str(amountFloat) + " and actual from account is: " + str(totalCoin) + " so setting amount to totalCoin"
                 #print pairActive + " is a " + direction + " , startPrice= " + str(startPrice) + ", lastPrice= " + str(lastPriceFloat) + ", priceLimitFloat= " + str(priceLimitFloat) + ", priceLimitStop= " + str(priceStopFloat)
 		if (direction == 'BUY'):
 		    if lastPriceFloat >= priceLimitFloat:
                         profit = (lastPriceFloat - float(startPrice)) * amountFloat
 			print pairActive + "...We've hit our BUY LIMIT of " + str(lastPriceFloat) + " as it's above our limit of " + str(priceLimitFloat) + " - cashing out, profit = " + str(profit) + ", startPrice= " + str(startPrice)
-			sendSMS.sendMessage(pairActive + "...We've hit our BUY LIMIT of " + str(lastPriceFloat) + " as it's above our limit of " + str(priceLimitFloat) + " - cashing out, profit = " + str(profit) + ", startPrice= " + str(startPrice))
+			#sendSMS.sendMessage(pairActive + "...We've hit our BUY LIMIT of " + str(lastPriceFloat) + " as it's above our limit of " + str(priceLimitFloat) + " - cashing out, profit = " + str(profit) + ", startPrice= " + str(startPrice))
                         #broker.sellPair(pairActive, lastPriceFloat, amount)                 
 		        #dbMod.insertHistory(pairActive, activeType, utBought, nowTimeEpoch, direction, startPrice, lastPrice, amount, profit) 
 
@@ -356,12 +356,14 @@ def checkStopLimit():
                         newLimit = priceLimitFloat * 1.05
                         newStop = priceStopFloat * 1.05
                         print pairActive + "... newStop: " + str(newStop) + " and newLimit: " + str(newLimit)
-                        sendSMS.sendMessage(pairActive + "... newStop: " + str(newStop) + " and newLimit: " + str(newLimit))
+                        sendSMS.sendMessage("TRAILING STOP: " + pairActive + ", new Stop: " + str(newStop) + ", new Limit: " + str(newLimit))
+                        priceStopFloat = newStop
                         dbMod.trailingStop(pairActive,newLimit, newStop)
 		    if lastPriceFloat <= priceStopFloat:
                         profit = (lastPriceFloat - float(startPrice)) * amountFloat
 			print pairActive + "...We've hit our BUY STOP of " + str(lastPriceFloat) + " as it's below our stop of " + str(priceLimitFloat) + " - exiting out, profit = " + str(profit) + ", startPrice= " + str(startPrice)
-			sendSMS.sendMessage(pairActive + "...We've hit our BUY STOP of " + str(lastPriceFloat) + " as it's below our stop of " + str(priceLimitFloat) + " - exiting out, profit = " + str(profit) + ", startPrice= " + str(startPrice))
+			#sendSMS.sendMessage(pairActive + "...We've hit our BUY STOP of " + str(lastPriceFloat) + " as it's below our stop of " + str(priceLimitFloat) + " - exiting out, profit = " + str(profit) + ", startPrice= " + str(startPrice))
+			sendSMS.sendMessage("BUY STOP: " + pairActive + ", profit is " + str(profit))
                         broker.sellPair(pairActive, lastPriceFloat, amountFloat)                 
 		        dbMod.insertHistory(pairActive, activeType, utBought, nowTimeEpoch, direction, startPrice, lastPrice, amountFloat, profit) 
 
@@ -471,6 +473,7 @@ def checkBuyTriggers():
                         #print "Buy %d of %s at %s" % (noOfCoinsToBuy, pairLatest, priceFloat)
                         print "Buy %d of %s at %s" % (noOfCoinsToBuy, pairLatest, lastPriceFloat)
                         print "As we have enough coins: " + str(noOfCoinsToBuy * lastPriceFloat) + " is the cost, and I have " + str(totalCoin) + " of " + coin
+                        sendSMS.sendMessage("BUY TRIGGER: " + pairLatest + ", at price " + str(lastPriceFloat))
                         broker.buyPair(pairTrigger, lastPriceFloat, noOfCoinsToBuy)
 		        dbMod.insertActive(pairTrigger, ACTIVE_TYPE, startTimeInt, DIRECTION, lastPriceFloat, noOfCoinsToBuy, stop, limit)
     		    else:
@@ -484,6 +487,22 @@ def getCoinBalance(coin):
 
 def loadBalances():
     a = loadPolBalances()
+
+def checkBTCDip(timePeriod, coinPair):
+    print "DEF: checkBTCDip"
+    # load last price, load price N 15 min periods ago
+    lastPrice = dbMod.getLastPrice(coinPair)
+    print "lastPrice = " + str(lastPrice)
+    firstPrice = dbMond.getFirstPrice(coinPair)
+    print "firstPrice = " + str(firstPrice)
+    lowestPrice = dbMod.getLowestPrice(coinPair)
+    print "lowestPrice = " + str(lowestPrice)
+
+    if (lowestPrice / firstPrice) < 0.95:
+        print "Found a DIP for " + coinPair
+  	if lastPrice < firstPrice and lastPrice > (lowestPrice * 1.02):
+	    print "Found a BOUNCE, buy some " + coinPair	
+	    sendSMS.sendMessage("Found a BOUNCE, buy some " + coinPair)
 
 print "==============================================================="
 print "Starting new run of coinTrader: " + str(datetime.datetime.now())
@@ -501,7 +520,8 @@ checkPotentials()
 checkBuyTriggers()
 #checkSellTriggers()
 checkStopLimit()
-print "========================="
+checkBTCDip('USDT_BTC')
+print "======================================="
 print "End Time: " + str(datetime.datetime.now())
-print "========================="
+print "======================================="
 print 

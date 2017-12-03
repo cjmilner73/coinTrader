@@ -129,7 +129,8 @@ def checkWallets():
         print "BTC/USD: " + str(currBTCPrice[0][0])
         print "============================================"
         dbMod.insertTotBalHist(nowTime, 'TOTAL', 'BTC', decimalTotalBTC, usdValue)
-        sendSMS.sendMessage("Total USD value: " + str(usdValue))
+        message = "Total USD value: " + str(usdValue)
+        sendSMS.sendMessage(message)
     else:
         print "Cannot load BTC price from DB."
 
