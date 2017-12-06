@@ -33,6 +33,7 @@ def updateBalances(exchange, coin, amount):
         cur.execute(command)
 	conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
+        print(error)
         print "End of error detection"
     finally:
         if conn is not None:
@@ -65,7 +66,7 @@ def updatePrices(exchange, pair, price):
         cur.execute(command)
 	conn.commit()
     except (Exception, psycopg2.DatabaseError) as error:
-        #print(error)
+        print(error)
         print "End of error detection"
     finally:
         if conn is not None:
@@ -328,6 +329,20 @@ def getLowestPrice(coinPair):
 
     return rows[0][0]
 
+def getBitfPrice(coin):
+
+    conn = psycopg2.connect(**params)
+    cur = conn.cursor()
+
+    query = "select price from prices where pair = 'USDT_BTC' and exchange = 'POLONIEX'"
+
+    cur.execute(query)
+    rows = cur.fetchall()
+
+    conn.close()
+
+    return rows
+
 def getBTCPrice():
 
     conn = psycopg2.connect(**params)
@@ -361,7 +376,7 @@ def getTotalBTCExch(exchange):
     conn = psycopg2.connect(**params)
     cur = conn.cursor()
 
-    query = "select sum(amount*price) from balances, prices where substr(pair,5,length(pair)) = coin and (pair like 'BTC\_%' or pair like 'BTC-%') and balances.exchange = prices.exchange and balances.exchange = '" + exchange + "'"
+    query = "select sum(amount*price) from balances, prices where substr(pair,5,length(pair)) = coin and (pair like 'BTC\_%' or pair like 'BTC-%' or pair like 'btc%') and balances.exchange = prices.exchange and balances.exchange = '" + exchange + "'"
 
     cur.execute(query)
     rows = cur.fetchall()
@@ -496,12 +511,24 @@ def getBuyTriggers():
 
     return rows
 
-def getCoinBalance(coin):
+def getCoinBalance(coin,exchange):
 
     conn = psycopg2.connect(**params)
     cur = conn.cursor()
 
-    query = "SELECT amount from balances where coin = '" + coin + "' and exchange = 'POLONIEX'"
+    query = "SELECT amount from balances where coin = '" + coin + "' and exchange = '" + exchange + "'"
+    cur.execute(query,)
+    rows = cur.fetchall()
+
+    conn.close()
+    return rows
+
+def getCoinBalances(exchange):
+
+    conn = psycopg2.connect(**params)
+    cur = conn.cursor()
+
+    query = "SELECT coin, amount from balances where exchange = '" + exchange + "'"
     cur.execute(query,)
     rows = cur.fetchall()
 

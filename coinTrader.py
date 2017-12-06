@@ -10,6 +10,8 @@ import broker
 import sys
 import time
 from balances import loadPolBalances
+from balances import loadBittBalances
+from balances import loadBitfBalances
 import sendSMS
 
 #endTimeVar=sys.argv[1]
@@ -341,9 +343,8 @@ def checkStopLimit():
                 coin = pairLatest[pairLatest.index('_') + 1:]
                 totalCoin = getCoinBalance(coin)
                 if amountFloat > totalCoin:
-                    amountFloat = totalCoin
                     print "Amount from ACTIVES table is : " + str(amountFloat) + " and actual from account is: " + str(totalCoin) + " so setting amount to totalCoin"
-                #print pairActive + " is a " + direction + " , startPrice= " + str(startPrice) + ", lastPrice= " + str(lastPriceFloat) + ", priceLimitFloat= " + str(priceLimitFloat) + ", priceLimitStop= " + str(priceStopFloat)
+                    amountFloat = totalCoin
 		if (direction == 'BUY'):
 		    if lastPriceFloat >= priceLimitFloat:
                         profit = (lastPriceFloat - float(startPrice)) * amountFloat
@@ -480,9 +481,9 @@ def checkBuyTriggers():
          		print "Not enough BTC, need " + str(noOfCoinsToBuy*lastPriceFloat) + " only have " + str(totalCoin)
 
 def getCoinBalance(coin):
-    coinBalance = dbMod.getCoinBalance(coin)
+    coinBalance = dbMod.getCoinBalance(coin,'POLONIEX')
     coinBalanceFloat = coinBalance[0][0]
-    print "Getting coin balannce form dB for " + coin + " as: " + str(coinBalanceFloat)
+    #print "Getting coin balannce form dB for " + coin + " as: " + str(coinBalanceFloat)
     return float(coinBalanceFloat)
 
 def loadBalances():
@@ -520,7 +521,7 @@ checkPotentials()
 checkBuyTriggers()
 #checkSellTriggers()
 checkStopLimit()
-checkBTCDip('USDT_BTC')
+#checkBTCDip('USDT_BTC')
 print "======================================="
 print "End Time: " + str(datetime.datetime.now())
 print "======================================="

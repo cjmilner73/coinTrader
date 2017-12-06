@@ -42,6 +42,7 @@ def loadBitfBalances():
         coin = coinBals["currency"]
         balance = float(coinBals["amount"])
         if balance != 0:
+            print "Loading BITFINEX balance: " + str(balance) + " for coin " + coin
             dbMod.insertBalances('BITFINEX',coin.upper(),balance)
             dbMod.updateBalances('BITFINEX',coin.upper(),balance)
 
@@ -71,30 +72,43 @@ def loadBittPrices():
 
 def loadBitfPrices():
     
-    bitfPrices = bitfConnClient.ticker(0)
-    price = 0
-    print bitfPrices
-    for key, value in bitfPrices.iteritems():
-        if key == 'result':
-            for coinMarkets in value:
-                coinPair = coinMarkets["MarketName"]
-                priceDict = bitfConn.get_ticker(coinPair)
-                thisPriceDict = priceDict['result']
-                if thisPriceDict is not None:
-                    thisLast = thisPriceDict['Last'] 
-                    dbMod.insertPrices('BITFINEX',coinPair,thisLast)
-                    dbMod.updatePrices('BITFINEX',coinPair,thisLast)
+    bitfCoinHeld = dbMod.getCoinBalances('BITFINEX')
+
+    for tuples in bitfCoinHeld:
+        sym = tuples[0]
+        print "Sym is " + sym
+
+        if sym == 'BTC':
+            symDB = 'USDT_' + sym
+            sym = sym + 'usd'
+        else:
+            symDB = 'BTC_' + sym
+            sym = sym + 'btc'
+        
+        
+        print "Price for " + sym + " is " + str(bitfConnClient.ticker(sym))
+        thisPriceDict = bitfConnClient.ticker(sym)
+        
+        thisLast = thisPriceDict['last_price'] 
+        dbMod.insertPrices('BITFINEX',symDB,thisLast)
+        dbMod.updatePrices('BITFINEX',symDB,thisLast)
+        
+
 
 def loadTotalBalHistory():
     
-    activeExchanges = ['POLONIEX','BITTREX']
+    activeExchanges = ['POLONIEX','BITTREX','BITFINEX']
 
 
     currBTCPrice = dbMod.getBTCPrice()
 
     for exchange in activeExchanges:
+        print "Processing " + exchange
         totalBTCList = dbMod.getTotalBTCExch(exchange)
+        print "totalBTCList: "
+        print totalBTCList
         totalBTC = totalBTCList[0][0]
+        print "Total BTC is: " + str(totalBTC)
         if totalBTC is not None:
             usdValue = totalBTC * currBTCPrice[0][0]
             dbMod.insertTotBalHist(nowTime, exchange, 'BTC', totalBTC, usdValue)
@@ -119,7 +133,7 @@ def checkWallets():
     #print type(decimalTotalBTC)
     if len(totalBTC) != 0:
         currBTCPrice = dbMod.getBTCPrice()
-        #print currBTCPrice
+        
         usdValue = decimalTotalBTC * currBTCPrice[0][0]
         print "============================================"
         print "You're total BTC holdings: " + str(decimalTotalBTC)
@@ -132,11 +146,11 @@ def checkWallets():
         print "Cannot load BTC price from DB."
 
 
-loadPolBalances()
-loadBittBalances()
-#loadBitfBalances()
-loadPolPrices()
-loadBittPrices()
-#loadBitfPrices()
+#loadPolBalances()
+#loadBittBalances()
+loadBitfBalances()
+#loadPolPrices()
+#loadBittPrices()
+loadBitfPrices()
 loadTotalBalHistory()
 checkWallets()
