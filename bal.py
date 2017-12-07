@@ -146,11 +146,11 @@ def checkWallets():
         print "Cannot load BTC price from DB."
 
 
-#loadPolBalances()
-#loadBittBalances()
+loadPolBalances()
+loadBittBalances()
 loadBitfBalances()
-#loadPolPrices()
-#loadBittPrices()
+loadPolPrices()
+loadBittPrices()
 loadBitfPrices()
 loadTotalBalHistory()
 checkWallets()
