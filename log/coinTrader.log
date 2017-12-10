@@ -13460,3 +13460,4137 @@ Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so set
 End Time: 2017-12-09 19:47:21.726556
 =======================================
 
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 20:00:07.985039
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 20:00:14.652042
+
+From Date: 2017-12-09 08:00:07
+To Date: 2017-12-09 20:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 20:00:15.117667
+
+END: downloadPrices - 1: 2017-12-09 20:01:16.815419
+
+DEF: removeExpiredPotentialss: 2017-12-09 20:01:16.815505
+
+
+BTC_RIC has been active 7 periods...DELETING
+
+
+BTC_NXC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-09 20:01:17.064587
+
+DEF: checkPotentials: 2017-12-09 20:01:21.408045
+
+DEF: CheckForDip: 2017-12-09 20:01:21.531360
+
+DEF: CheckForDip: 2017-12-09 20:01:21.657037
+
+DEF: checkBuyTrigger: 2017-12-09 20:01:21.698910
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 20:01:22.838714
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 20:15:06.969186
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 20:15:55.702669
+
+From Date: 2017-12-09 08:15:06
+To Date: 2017-12-09 20:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 20:15:56.527225
+
+END: downloadPrices - 1: 2017-12-09 20:17:16.753284
+
+DEF: removeExpiredPotentialss: 2017-12-09 20:17:16.753385
+
+
+BTC_BTM has been active 11 periods...DELETING
+
+
+BTC_PPC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-09 20:17:17.041784
+
+DEF: checkPotentials: 2017-12-09 20:17:21.371460
+
+DEF: CheckForDip: 2017-12-09 20:17:21.533988
+
+DEF: checkBuyTrigger: 2017-12-09 20:17:21.620317
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 20:17:22.561409
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 20:30:07.937467
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 20:30:57.006337
+
+From Date: 2017-12-09 08:30:07
+To Date: 2017-12-09 20:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 20:30:57.706544
+
+END: downloadPrices - 1: 2017-12-09 20:32:11.576451
+
+DEF: removeExpiredPotentialss: 2017-12-09 20:32:11.576542
+
+
+BTC_DCR has been active 11 periods...DELETING
+
+
+BTC_SC has been active 11 periods...DELETING
+
+
+BTC_DGB has been active 11 periods...DELETING
+
+
+USDT_STR has been active 11 periods...DELETING
+
+
+USDT_ETC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-09 20:32:12.070186
+
+DEF: checkPotentials: 2017-12-09 20:32:17.021253
+
+DEF: CheckForDip: 2017-12-09 20:32:17.183282
+
+DEF: checkBuyTrigger: 2017-12-09 20:32:17.347152
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 20:32:17.998115
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 20:45:07.168617
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 20:45:57.335184
+
+From Date: 2017-12-09 08:45:07
+To Date: 2017-12-09 20:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 20:45:58.153068
+
+END: downloadPrices - 1: 2017-12-09 20:47:08.760345
+
+DEF: removeExpiredPotentialss: 2017-12-09 20:47:08.760434
+
+
+BTC_XVC has been active 7 periods...DELETING
+
+
+BTC_FLDC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-09 20:47:09.008637
+
+DEF: checkPotentials: 2017-12-09 20:47:13.670941
+
+checkForRise: We've 3 in a rise for BTC_NAV
+checkForRise: Rise Start Time: 1512847800
+checkForRise: Low price: 0.00010305
+checkForRise: High price:0.00010778
+checkForRiseSet trigger for BTC_NAV at value 0.000105415 at time 1512851400
+DEF: checkBuyTrigger: 2017-12-09 20:47:14.201829
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 20:47:14.860851
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 21:00:09.597419
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 21:01:15.571686
+
+From Date: 2017-12-09 09:00:09
+To Date: 2017-12-09 21:00:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 21:01:16.508571
+
+END: downloadPrices - 1: 2017-12-09 21:02:41.063768
+
+DEF: removeExpiredPotentialss: 2017-12-09 21:02:41.063858
+
+DEF: calcADX: 2017-12-09 21:02:41.105130
+
+DEF: checkPotentials: 2017-12-09 21:02:45.796575
+
+DEF: checkBuyTrigger: 2017-12-09 21:02:46.202016
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 21:02:47.019467
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 21:15:06.557609
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 21:15:11.779265
+
+From Date: 2017-12-09 09:15:06
+To Date: 2017-12-09 21:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 21:15:12.132862
+
+END: downloadPrices - 1: 2017-12-09 21:16:25.778376
+
+DEF: removeExpiredPotentialss: 2017-12-09 21:16:25.778467
+
+DEF: calcADX: 2017-12-09 21:16:25.858714
+
+DEF: checkPotentials: 2017-12-09 21:16:29.970778
+
+DEF: CheckForDip: 2017-12-09 21:16:30.219786
+
+DEF: checkBuyTrigger: 2017-12-09 21:16:30.219818
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 21:16:30.792804
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 21:30:07.055176
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 21:30:55.343568
+
+From Date: 2017-12-09 09:30:07
+To Date: 2017-12-09 21:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 21:30:56.075546
+
+END: downloadPrices - 1: 2017-12-09 21:32:12.866547
+
+DEF: removeExpiredPotentialss: 2017-12-09 21:32:12.948007
+
+DEF: calcADX: 2017-12-09 21:32:12.951226
+
+DEF: checkPotentials: 2017-12-09 21:32:17.906936
+
+DEF: CheckForDip: 2017-12-09 21:32:18.279689
+
+DEF: CheckForDip: 2017-12-09 21:32:18.364772
+
+DEF: checkBuyTrigger: 2017-12-09 21:32:18.364802
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 21:32:19.143965
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 21:45:06.616852
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 21:45:55.907114
+
+From Date: 2017-12-09 09:45:06
+To Date: 2017-12-09 21:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 21:45:56.602355
+
+END: downloadPrices - 1: 2017-12-09 21:47:13.728550
+
+DEF: removeExpiredPotentialss: 2017-12-09 21:47:13.728640
+
+DEF: calcADX: 2017-12-09 21:47:13.768325
+
+DEF: checkPotentials: 2017-12-09 21:47:18.730212
+
+DEF: CheckForDip: 2017-12-09 21:47:19.141096
+
+DEF: CheckForDip: 2017-12-09 21:47:19.260020
+
+DEF: checkBuyTrigger: 2017-12-09 21:47:19.260071
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 21:47:19.957164
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 22:00:08.186179
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 22:00:57.126087
+
+From Date: 2017-12-09 10:00:08
+To Date: 2017-12-09 22:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 22:00:58.637407
+
+END: downloadPrices - 1: 2017-12-09 22:02:07.948847
+
+DEF: removeExpiredPotentialss: 2017-12-09 22:02:07.948949
+
+DEF: calcADX: 2017-12-09 22:02:07.991974
+
+DEF: checkPotentials: 2017-12-09 22:02:12.635687
+
+DEF: CheckForDip: 2017-12-09 22:02:13.125014
+
+DEF: CheckForDip: 2017-12-09 22:02:13.212648
+
+DEF: checkBuyTrigger: 2017-12-09 22:02:13.334973
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 22:02:14.075102
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 22:15:08.319056
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 22:15:58.091080
+
+From Date: 2017-12-09 10:15:08
+To Date: 2017-12-09 22:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 22:15:58.829529
+
+END: downloadPrices - 1: 2017-12-09 22:17:08.230403
+
+DEF: removeExpiredPotentialss: 2017-12-09 22:17:08.230502
+
+
+BTC_SC has been active 7 periods...DELETING
+
+
+BTC_REP has been active 7 periods...DELETING
+
+
+BTC_NAV has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-09 22:17:08.475991
+
+DEF: checkPotentials: 2017-12-09 22:17:12.939754
+
+DEF: CheckForDip: 2017-12-09 22:17:13.266409
+
+DEF: CheckForDip: 2017-12-09 22:17:13.429959
+
+DEF: checkBuyTrigger: 2017-12-09 22:17:13.677057
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 22:17:14.575452
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 22:30:07.581356
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 22:30:56.159765
+
+From Date: 2017-12-09 10:30:07
+To Date: 2017-12-09 22:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 22:30:56.936104
+
+END: downloadPrices - 1: 2017-12-09 22:32:08.173289
+
+DEF: removeExpiredPotentialss: 2017-12-09 22:32:08.173376
+
+
+BTC_CLAM has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-09 22:32:08.380605
+
+DEF: checkPotentials: 2017-12-09 22:32:13.049340
+
+DEF: checkBuyTrigger: 2017-12-09 22:32:13.457003
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 22:32:14.310723
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 22:45:07.092931
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 22:45:56.305768
+
+From Date: 2017-12-09 10:45:07
+To Date: 2017-12-09 22:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 22:45:57.168387
+
+END: downloadPrices - 1: 2017-12-09 22:47:13.985144
+
+DEF: removeExpiredPotentialss: 2017-12-09 22:47:13.985295
+
+
+BTC_ARDR has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-09 22:47:14.069619
+
+DEF: checkPotentials: 2017-12-09 22:47:19.081572
+
+DEF: checkBuyTrigger: 2017-12-09 22:47:19.453722
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 22:47:20.272891
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 23:00:06.625279
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 23:00:55.785142
+
+From Date: 2017-12-09 11:00:06
+To Date: 2017-12-09 23:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 23:00:56.852997
+
+END: downloadPrices - 1: 2017-12-09 23:02:12.541104
+
+DEF: removeExpiredPotentialss: 2017-12-09 23:02:12.541195
+
+DEF: calcADX: 2017-12-09 23:02:12.586813
+
+DEF: checkPotentials: 2017-12-09 23:02:17.302860
+
+DEF: checkBuyTrigger: 2017-12-09 23:02:18.000728
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 23:02:18.822514
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 23:15:07.405117
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 23:15:56.934222
+
+From Date: 2017-12-09 11:15:07
+To Date: 2017-12-09 23:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 23:15:58.493373
+
+END: downloadPrices - 1: 2017-12-09 23:17:16.299874
+
+DEF: removeExpiredPotentialss: 2017-12-09 23:17:16.299962
+
+DEF: calcADX: 2017-12-09 23:17:16.340747
+
+DEF: checkPotentials: 2017-12-09 23:17:21.174755
+
+DEF: checkBuyTrigger: 2017-12-09 23:17:21.669235
+
+Buy 8803 of BTC_PASC at 5.68e-05
+As we have enough coins: 0.5000104 is the cost, and I have 0.79305504 of BTC
+
+*************************
+Sent SMS: BUY TRIGGER: BTC_PASC, at price 5.68e-05
+*************************
+DEF: buyPair
+
+Buying 8803.0 of BTC_PASC at 5.68e-05
+{u'orderNumber': u'16714840612', u'resultingTrades': []}
+Order placed...
+[{u'orderNumber': u'16714840612', u'margin': 0, u'amount': u'8803.00000000', u'rate': u'0.00005680', u'date': u'2017-12-09 23:17:23', u'total': u'0.50001040', u'type': u'buy', u'startingAmount': u'8803.00000000'}]
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 23:17:25.646914
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 23:30:07.007980
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 23:30:56.248883
+
+From Date: 2017-12-09 11:30:07
+To Date: 2017-12-09 23:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 23:30:56.949018
+
+END: downloadPrices - 1: 2017-12-09 23:32:07.523015
+
+DEF: removeExpiredPotentialss: 2017-12-09 23:32:07.523106
+
+
+BTC_BCY has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-09 23:32:07.649958
+
+DEF: checkPotentials: 2017-12-09 23:32:12.586474
+
+DEF: checkBuyTrigger: 2017-12-09 23:32:13.039234
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 23:32:13.938971
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-09 23:45:07.376205
+===============================================================
+
+DEF: downloadPrices: 2017-12-09 23:45:56.425730
+
+From Date: 2017-12-09 11:45:07
+To Date: 2017-12-09 23:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-09 23:45:57.904303
+
+END: downloadPrices - 1: 2017-12-09 23:47:14.377989
+
+DEF: removeExpiredPotentialss: 2017-12-09 23:47:14.378081
+
+
+BTC_BTS has been active 7 periods...DELETING
+
+
+BTC_PPC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-09 23:47:14.585878
+
+DEF: checkPotentials: 2017-12-09 23:47:19.092296
+
+DEF: checkBuyTrigger: 2017-12-09 23:47:19.711897
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-09 23:47:20.739465
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 00:00:09.672707
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 00:00:59.984782
+
+From Date: 2017-12-09 12:00:09
+To Date: 2017-12-10 00:00:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 00:01:01.455688
+
+END: downloadPrices - 1: 2017-12-10 00:02:18.699349
+
+DEF: removeExpiredPotentialss: 2017-12-10 00:02:18.699450
+
+
+BTC_CVC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 00:02:18.821724
+
+DEF: checkPotentials: 2017-12-10 00:02:23.874464
+
+DEF: checkBuyTrigger: 2017-12-10 00:02:24.404880
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 00:02:25.265207
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 00:15:06.617837
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 00:15:55.451732
+
+From Date: 2017-12-09 12:15:06
+To Date: 2017-12-10 00:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 00:15:56.268048
+
+END: downloadPrices - 1: 2017-12-10 00:17:05.859557
+
+DEF: removeExpiredPotentialss: 2017-12-10 00:17:05.859663
+
+
+BTC_SBD has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 00:17:05.987819
+
+DEF: checkPotentials: 2017-12-10 00:17:10.495515
+
+DEF: CheckForDip: 2017-12-10 00:17:11.026768
+
+DEF: checkBuyTrigger: 2017-12-10 00:17:11.026804
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 00:17:11.806005
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 00:30:07.297928
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 00:30:55.771408
+
+From Date: 2017-12-09 12:30:07
+To Date: 2017-12-10 00:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 00:30:56.586415
+
+END: downloadPrices - 1: 2017-12-10 00:32:04.016216
+
+DEF: removeExpiredPotentialss: 2017-12-10 00:32:04.016321
+
+DEF: calcADX: 2017-12-10 00:32:04.057550
+
+DEF: checkPotentials: 2017-12-10 00:32:08.812374
+
+checkForRise: We've 3 in a rise for BTC_BCY
+checkForRise: Rise Start Time: 1512861300
+checkForRise: Low price: 0.00002488
+checkForRise: High price:0.00002512
+checkForRiseSet trigger for BTC_BCY at value 0.00002500 at time 1512864900
+checkForRise: We've 3 in a rise for BTC_DASH
+checkForRise: Rise Start Time: 1512862200
+checkForRise: Low price: 0.04795299
+checkForRise: High price:0.04895522
+checkForRiseSet trigger for BTC_DASH at value 0.048454105 at time 1512865800
+DEF: CheckForDip: 2017-12-10 00:32:09.431168
+
+DEF: checkBuyTrigger: 2017-12-10 00:32:09.634809
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 00:32:10.292512
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 00:45:07.703344
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 00:45:56.771273
+
+From Date: 2017-12-09 12:45:07
+To Date: 2017-12-10 00:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 00:45:57.672727
+
+END: downloadPrices - 1: 2017-12-10 00:47:08.009651
+
+DEF: removeExpiredPotentialss: 2017-12-10 00:47:08.009754
+
+
+BTC_BLK has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 00:47:08.094149
+
+DEF: checkPotentials: 2017-12-10 00:47:12.773870
+
+DEF: CheckForDip: 2017-12-10 00:47:13.095361
+
+DEF: checkBuyTrigger: 2017-12-10 00:47:13.304956
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 00:47:14.285745
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 01:00:06.624903
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 01:00:56.819427
+
+From Date: 2017-12-09 13:00:06
+To Date: 2017-12-10 01:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 01:00:57.677687
+
+END: downloadPrices - 1: 2017-12-10 01:02:09.926542
+
+DEF: removeExpiredPotentialss: 2017-12-10 01:02:09.926628
+
+DEF: calcADX: 2017-12-10 01:02:10.006714
+
+DEF: checkPotentials: 2017-12-10 01:02:14.549513
+
+DEF: CheckForDip: 2017-12-10 01:02:14.794830
+
+DEF: checkBuyTrigger: 2017-12-10 01:02:15.162106
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+BTC_PASC...We've hit our BUY LIMIT of 6.099e-05 as it's above our limit of 5.964e-05 - cashing out, profit = 0.0, startPrice= 0.0000568
+BTC_PASC... newStop: 5.55135e-05 and newLimit: 6.2622e-05
+
+*************************
+Sent SMS: TRAILING STOP: BTC_PASC, new Stop: 5.55135e-05, new Limit: 6.2622e-05
+*************************
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 01:02:17.251457
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 01:15:06.888662
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 01:15:55.559194
+
+From Date: 2017-12-09 13:15:06
+To Date: 2017-12-10 01:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 01:15:56.374939
+
+END: downloadPrices - 1: 2017-12-10 01:17:09.133839
+
+DEF: removeExpiredPotentialss: 2017-12-10 01:17:09.133927
+
+DEF: calcADX: 2017-12-10 01:17:09.174528
+
+DEF: checkPotentials: 2017-12-10 01:17:13.552275
+
+checkForRise: We've 3 in a rise for BTC_XMR
+checkForRise: Rise Start Time: 1512864000
+checkForRise: Low price: 0.01736327
+checkForRise: High price:0.01795974
+checkForRiseSet trigger for BTC_XMR at value 0.017661505 at time 1512868500
+DEF: CheckForDip: 2017-12-10 01:17:13.879276
+
+DEF: checkBuyTrigger: 2017-12-10 01:17:14.210647
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7714.0 and actual from account is: 7701.35591639 so setting amount to totalCoin
+BTC_STORJ...We've hit our BUY STOP of 5.91e-05 as it's below our stop of 6.8891e-05 - exiting out, profit = -0.0440517558418, startPrice= 0.00006482
+
+*************************
+Sent SMS: BUY STOP: BTC_STORJ, profit is -0.0440517558418
+*************************
+DEF: sellPair
+
+Selling 7701.35591639 of BTC_STORJ at 5.91e-05
+{u'orderNumber': u'3696454046', u'resultingTrades': []}
+Order placed...
+[{u'orderNumber': u'3696454046', u'margin': 0, u'amount': u'7701.35591639', u'rate': u'0.00005910', u'date': u'2017-12-10 01:17:15', u'total': u'0.45515013', u'type': u'sell', u'startingAmount': u'7701.35591639'}]
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 01:17:17.409833
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 01:30:07.946229
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 01:30:55.967276
+
+From Date: 2017-12-09 13:30:07
+To Date: 2017-12-10 01:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 01:30:56.703803
+
+END: downloadPrices - 1: 2017-12-10 01:32:06.799686
+
+DEF: removeExpiredPotentialss: 2017-12-10 01:32:06.799776
+
+DEF: calcADX: 2017-12-10 01:32:06.880928
+
+DEF: checkPotentials: 2017-12-10 01:32:11.516533
+
+DEF: CheckForDip: 2017-12-10 01:32:11.679354
+
+DEF: checkBuyTrigger: 2017-12-10 01:32:12.289652
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 01:32:13.071008
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 01:45:07.695683
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 01:45:56.922937
+
+From Date: 2017-12-09 13:45:07
+To Date: 2017-12-10 01:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 01:45:57.696485
+
+END: downloadPrices - 1: 2017-12-10 01:47:11.131700
+
+DEF: removeExpiredPotentialss: 2017-12-10 01:47:11.131791
+
+DEF: calcADX: 2017-12-10 01:47:11.212936
+
+DEF: checkPotentials: 2017-12-10 01:47:15.879126
+
+DEF: checkBuyTrigger: 2017-12-10 01:47:16.491162
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 01:47:17.149619
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 02:00:06.961531
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 02:00:56.170090
+
+From Date: 2017-12-09 14:00:06
+To Date: 2017-12-10 02:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 02:00:57.113256
+
+END: downloadPrices - 1: 2017-12-10 02:02:09.194335
+
+DEF: removeExpiredPotentialss: 2017-12-10 02:02:09.194423
+
+
+USDT_ZEC has been active 7 periods...DELETING
+
+
+BTC_VIA has been active 7 periods...DELETING
+
+
+BTC_BCY has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 02:02:09.560096
+
+DEF: checkPotentials: 2017-12-10 02:02:14.100728
+
+DEF: checkBuyTrigger: 2017-12-10 02:02:14.672733
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+BTC_PASC...We've hit our BUY LIMIT of 6.457e-05 as it's above our limit of 6.2622e-05 - cashing out, profit = 0.0, startPrice= 0.0000568
+BTC_PASC... newStop: 5.8289175e-05 and newLimit: 6.57531e-05
+
+*************************
+Sent SMS: TRAILING STOP: BTC_PASC, new Stop: 5.8289175e-05, new Limit: 6.57531e-05
+*************************
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 02:02:16.682181
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 02:15:08.064016
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 02:16:03.795932
+
+From Date: 2017-12-09 14:15:08
+To Date: 2017-12-10 02:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 02:16:05.265191
+
+END: downloadPrices - 1: 2017-12-10 02:17:24.093839
+
+DEF: removeExpiredPotentialss: 2017-12-10 02:17:24.093930
+
+
+BTC_ARDR has been active 7 periods...DELETING
+
+
+BTC_DASH has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 02:17:24.381962
+
+DEF: checkPotentials: 2017-12-10 02:17:29.962671
+
+DEF: checkBuyTrigger: 2017-12-10 02:17:30.538746
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+BTC_PASC...We've hit our BUY LIMIT of 6.7e-05 as it's above our limit of 6.57531e-05 - cashing out, profit = 0.0, startPrice= 0.0000568
+BTC_PASC... newStop: 6.120363375e-05 and newLimit: 6.9040755e-05
+
+*************************
+Sent SMS: TRAILING STOP: BTC_PASC, new Stop: 6.120363375e-05, new Limit: 6.9040755e-05
+*************************
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 02:17:32.705176
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 02:30:08.272730
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 02:30:57.581287
+
+From Date: 2017-12-09 14:30:08
+To Date: 2017-12-10 02:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 02:30:58.317353
+
+END: downloadPrices - 1: 2017-12-10 02:32:14.001012
+
+DEF: removeExpiredPotentialss: 2017-12-10 02:32:14.001100
+
+
+BTC_NXC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 02:32:14.201844
+
+DEF: checkPotentials: 2017-12-10 02:32:18.824744
+
+DEF: checkBuyTrigger: 2017-12-10 02:32:19.236286
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 02:32:20.014334
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 02:45:07.396770
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 02:45:57.021627
+
+From Date: 2017-12-09 14:45:07
+To Date: 2017-12-10 02:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 02:45:57.718285
+
+END: downloadPrices - 1: 2017-12-10 02:47:07.751481
+
+DEF: removeExpiredPotentialss: 2017-12-10 02:47:07.751568
+
+
+BTC_XMR has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 02:47:07.874764
+
+DEF: checkPotentials: 2017-12-10 02:47:12.338979
+
+DEF: checkBuyTrigger: 2017-12-10 02:47:12.790469
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 02:47:13.608499
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 03:00:06.842061
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 03:00:55.707995
+
+From Date: 2017-12-09 15:00:06
+To Date: 2017-12-10 03:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 03:00:56.519027
+
+END: downloadPrices - 1: 2017-12-10 03:02:10.554200
+
+DEF: removeExpiredPotentialss: 2017-12-10 03:02:10.554306
+
+
+BTC_STRAT has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 03:02:10.713806
+
+DEF: checkPotentials: 2017-12-10 03:02:14.977512
+
+DEF: checkBuyTrigger: 2017-12-10 03:02:15.306367
+
+DEF: checkStopLimit
+
+
+USDT_ETH...We've hit our BUY STOP of 433.0000001 as it's below our stop of 495.311454004 - exiting out, profit = -35.99999998, startPrice= 469.00000008
+
+*************************
+Sent SMS: BUY STOP: USDT_ETH, profit is -35.99999998
+*************************
+DEF: sellPair
+
+Selling 1.0 of USDT_ETH at 433.0000001
+{u'orderNumber': u'149114426459', u'resultingTrades': []}
+Order placed...
+[{u'orderNumber': u'149114426459', u'margin': 0, u'amount': u'1.00000000', u'rate': u'433.00000010', u'date': u'2017-12-10 03:02:17', u'total': u'433.00000010', u'type': u'sell', u'startingAmount': u'1.00000000'}]
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 03:02:19.410672
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 03:15:07.960616
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 03:15:57.723261
+
+From Date: 2017-12-09 15:15:07
+To Date: 2017-12-10 03:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 03:15:58.459665
+
+END: downloadPrices - 1: 2017-12-10 03:17:09.899767
+
+DEF: removeExpiredPotentialss: 2017-12-10 03:17:09.899873
+
+
+BTC_XEM has been active 7 periods...DELETING
+
+
+BTC_XCP has been active 7 periods...DELETING
+
+
+BTC_BELA has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 03:17:10.191202
+
+DEF: checkPotentials: 2017-12-10 03:17:14.598356
+
+DEF: checkBuyTrigger: 2017-12-10 03:17:15.007584
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 36337.0 and actual from account is: 33084.4076453 so setting amount to totalCoin
+BTC_HUC...We've hit our BUY STOP of 1.196e-05 as it's below our stop of 1.4378e-05 - exiting out, profit = -0.0595519337615, startPrice= 0.00001376
+
+*************************
+Sent SMS: BUY STOP: BTC_HUC, profit is -0.0595519337615
+*************************
+DEF: sellPair
+
+Selling 33084.4076453 of BTC_HUC at 1.196e-05
+{u'error': u'Not enough HUC.'}
+Order placed...
+[]
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 03:17:19.254502
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 03:30:06.969076
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 03:30:56.163263
+
+From Date: 2017-12-09 15:30:06
+To Date: 2017-12-10 03:30:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 03:30:56.984575
+
+END: downloadPrices - 1: 2017-12-10 03:32:08.946543
+
+DEF: removeExpiredPotentialss: 2017-12-10 03:32:08.946623
+
+
+BTC_BLK has been active 7 periods...DELETING
+
+
+BTC_ARDR has been active 7 periods...DELETING
+
+
+USDT_ETH has been active 7 periods...DELETING
+
+
+BTC_BELA has been active 8 periods...DELETING
+
+
+BTC_XCP has been active 8 periods...DELETING
+
+DEF: calcADX: 2017-12-10 03:32:09.438923
+
+DEF: checkPotentials: 2017-12-10 03:32:14.024660
+
+DEF: checkBuyTrigger: 2017-12-10 03:32:14.395516
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+BTC_PASC...We've hit our BUY LIMIT of 7e-05 as it's above our limit of 6.9040755e-05 - cashing out, profit = 0.0, startPrice= 0.0000568
+BTC_PASC... newStop: 6.42638154375e-05 and newLimit: 7.249279275e-05
+
+*************************
+Sent SMS: TRAILING STOP: BTC_PASC, new Stop: 6.42638154375e-05, new Limit: 7.249279275e-05
+*************************
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 03:32:16.038584
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 03:45:06.739852
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 03:45:56.041954
+
+From Date: 2017-12-09 15:45:06
+To Date: 2017-12-10 03:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 03:45:56.821662
+
+END: downloadPrices - 1: 2017-12-10 03:47:04.763810
+
+DEF: removeExpiredPotentialss: 2017-12-10 03:47:04.763887
+
+
+USDT_ETH has been active 8 periods...DELETING
+
+
+BTC_BELA has been active 9 periods...DELETING
+
+
+BTC_BLK has been active 8 periods...DELETING
+
+
+BTC_XCP has been active 9 periods...DELETING
+
+
+BTC_ARDR has been active 8 periods...DELETING
+
+DEF: calcADX: 2017-12-10 03:47:05.337117
+
+DEF: checkPotentials: 2017-12-10 03:47:09.781479
+
+DEF: checkBuyTrigger: 2017-12-10 03:47:10.271928
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 03:47:10.802543
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 04:00:08.551143
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 04:00:57.781673
+
+From Date: 2017-12-09 16:00:08
+To Date: 2017-12-10 04:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 04:00:58.479958
+
+END: downloadPrices - 1: 2017-12-10 04:02:12.799440
+
+DEF: removeExpiredPotentialss: 2017-12-10 04:02:12.799514
+
+
+USDT_ETH has been active 9 periods...DELETING
+
+
+BTC_BELA has been active 10 periods...DELETING
+
+
+BTC_BLK has been active 9 periods...DELETING
+
+
+BTC_XCP has been active 10 periods...DELETING
+
+
+BTC_ARDR has been active 9 periods...DELETING
+
+DEF: calcADX: 2017-12-10 04:02:13.291192
+
+DEF: checkPotentials: 2017-12-10 04:02:17.984224
+
+DEF: checkBuyTrigger: 2017-12-10 04:02:18.436516
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 04:02:19.008867
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 04:15:07.829306
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 04:15:57.720336
+
+From Date: 2017-12-09 16:15:07
+To Date: 2017-12-10 04:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 04:15:58.456962
+
+END: downloadPrices - 1: 2017-12-10 04:17:07.155335
+
+DEF: removeExpiredPotentialss: 2017-12-10 04:17:07.155414
+
+
+USDT_ETH has been active 10 periods...DELETING
+
+
+BTC_BELA has been active 11 periods...DELETING
+
+
+BTC_BLK has been active 10 periods...DELETING
+
+
+BTC_XCP has been active 11 periods...DELETING
+
+
+BTC_ARDR has been active 10 periods...DELETING
+
+DEF: calcADX: 2017-12-10 04:17:07.772323
+
+DEF: checkPotentials: 2017-12-10 04:17:11.875521
+
+DEF: checkBuyTrigger: 2017-12-10 04:17:12.330291
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 04:17:12.940901
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 04:30:08.088654
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 04:30:57.950146
+
+From Date: 2017-12-09 16:30:08
+To Date: 2017-12-10 04:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 04:30:58.601319
+
+END: downloadPrices - 1: 2017-12-10 04:32:07.983634
+
+DEF: removeExpiredPotentialss: 2017-12-10 04:32:07.983714
+
+
+USDT_ETH has been active 11 periods...DELETING
+
+
+BTC_BELA has been active 12 periods...DELETING
+
+
+BTC_BLK has been active 11 periods...DELETING
+
+
+BTC_XCP has been active 12 periods...DELETING
+
+
+BTC_ARDR has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 04:32:08.474934
+
+DEF: checkPotentials: 2017-12-10 04:32:12.859128
+
+DEF: checkBuyTrigger: 2017-12-10 04:32:13.434209
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 04:32:14.007840
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 04:45:08.881784
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 04:45:58.402223
+
+From Date: 2017-12-09 16:45:08
+To Date: 2017-12-10 04:45:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 04:45:59.303469
+
+END: downloadPrices - 1: 2017-12-10 04:47:03.923982
+
+DEF: removeExpiredPotentialss: 2017-12-10 04:47:03.924068
+
+
+USDT_ETH has been active 12 periods...DELETING
+
+
+BTC_BELA has been active 13 periods...DELETING
+
+
+BTC_BLK has been active 12 periods...DELETING
+
+
+BTC_XCP has been active 13 periods...DELETING
+
+
+BTC_ARDR has been active 12 periods...DELETING
+
+DEF: calcADX: 2017-12-10 04:47:04.420156
+
+DEF: checkPotentials: 2017-12-10 04:47:08.477048
+
+DEF: checkBuyTrigger: 2017-12-10 04:47:08.922058
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 04:47:09.495370
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 05:00:06.837373
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 05:00:56.335195
+
+From Date: 2017-12-09 17:00:06
+To Date: 2017-12-10 05:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 05:00:57.111525
+
+END: downloadPrices - 1: 2017-12-10 05:02:06.809940
+
+DEF: removeExpiredPotentialss: 2017-12-10 05:02:06.810040
+
+
+USDT_ETH has been active 13 periods...DELETING
+
+
+BTC_BELA has been active 14 periods...DELETING
+
+
+BTC_BLK has been active 13 periods...DELETING
+
+
+BTC_XCP has been active 14 periods...DELETING
+
+
+BTC_ARDR has been active 13 periods...DELETING
+
+DEF: calcADX: 2017-12-10 05:02:07.303863
+
+DEF: checkPotentials: 2017-12-10 05:02:11.292048
+
+DEF: checkBuyTrigger: 2017-12-10 05:02:11.741574
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 05:02:12.312403
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 05:15:06.544024
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 05:15:54.304746
+
+From Date: 2017-12-09 17:15:06
+To Date: 2017-12-10 05:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 05:15:55.083560
+
+END: downloadPrices - 1: 2017-12-10 05:17:01.942768
+
+DEF: removeExpiredPotentialss: 2017-12-10 05:17:01.942862
+
+
+USDT_ETH has been active 14 periods...DELETING
+
+
+BTC_BELA has been active 15 periods...DELETING
+
+
+BTC_BLK has been active 14 periods...DELETING
+
+
+BTC_XCP has been active 15 periods...DELETING
+
+
+BTC_ARDR has been active 14 periods...DELETING
+
+DEF: calcADX: 2017-12-10 05:17:02.436816
+
+DEF: checkPotentials: 2017-12-10 05:17:06.566430
+
+DEF: checkBuyTrigger: 2017-12-10 05:17:07.143530
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 05:17:07.757340
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 05:30:07.128417
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 05:30:55.016631
+
+From Date: 2017-12-09 17:30:07
+To Date: 2017-12-10 05:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 05:30:55.748209
+
+END: downloadPrices - 1: 2017-12-10 05:31:59.784136
+
+DEF: removeExpiredPotentialss: 2017-12-10 05:31:59.784225
+
+
+USDT_ETH has been active 15 periods...DELETING
+
+
+BTC_BELA has been active 16 periods...DELETING
+
+
+BTC_BLK has been active 15 periods...DELETING
+
+
+BTC_XCP has been active 16 periods...DELETING
+
+
+BTC_ARDR has been active 15 periods...DELETING
+
+DEF: calcADX: 2017-12-10 05:32:00.240325
+
+DEF: checkPotentials: 2017-12-10 05:32:04.046057
+
+DEF: checkBuyTrigger: 2017-12-10 05:32:04.408719
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 05:32:04.984162
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 05:45:07.217739
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 05:45:56.674443
+
+From Date: 2017-12-09 17:45:07
+To Date: 2017-12-10 05:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 05:45:57.377001
+
+END: downloadPrices - 1: 2017-12-10 05:47:13.380618
+
+DEF: removeExpiredPotentialss: 2017-12-10 05:47:13.380702
+
+
+USDT_ETH has been active 16 periods...DELETING
+
+
+BTC_BELA has been active 17 periods...DELETING
+
+
+BTC_BLK has been active 16 periods...DELETING
+
+
+BTC_XCP has been active 17 periods...DELETING
+
+
+BTC_ARDR has been active 16 periods...DELETING
+
+DEF: calcADX: 2017-12-10 05:47:13.793647
+
+DEF: checkPotentials: 2017-12-10 05:47:17.649397
+
+DEF: checkBuyTrigger: 2017-12-10 05:47:17.859139
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 05:47:18.475251
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 06:00:07.587332
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 06:00:54.893922
+
+From Date: 2017-12-09 18:00:07
+To Date: 2017-12-10 06:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 06:00:55.630304
+
+END: downloadPrices - 1: 2017-12-10 06:02:07.070102
+
+DEF: removeExpiredPotentialss: 2017-12-10 06:02:07.070175
+
+
+USDT_ETH has been active 17 periods...DELETING
+
+
+BTC_BELA has been active 18 periods...DELETING
+
+
+BTC_BLK has been active 17 periods...DELETING
+
+
+BTC_XCP has been active 18 periods...DELETING
+
+
+BTC_ARDR has been active 17 periods...DELETING
+
+DEF: calcADX: 2017-12-10 06:02:07.568440
+
+DEF: checkPotentials: 2017-12-10 06:02:11.337378
+
+DEF: checkBuyTrigger: 2017-12-10 06:02:11.788319
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 8803.0 and actual from account is: 0.0 so setting amount to totalCoin
+BTC_PASC...We've hit our BUY STOP of 6.415e-05 as it's below our stop of 7.249279275e-05 - exiting out, profit = 0.0, startPrice= 0.0000568
+
+*************************
+Sent SMS: BUY STOP: BTC_PASC, profit is 0.0
+*************************
+DEF: sellPair
+
+Selling 0.0 of BTC_PASC at 6.415e-05
+{u'error': u'Total must be at least 0.0001.'}
+Order placed...
+[{u'orderNumber': u'16714840612', u'margin': 0, u'amount': u'8803.00000000', u'rate': u'0.00005680', u'date': u'2017-12-09 23:17:23', u'total': u'0.50001040', u'type': u'buy', u'startingAmount': u'8803.00000000'}]
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 06:02:15.265013
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 06:15:07.393522
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 06:15:13.138976
+
+From Date: 2017-12-09 18:15:07
+To Date: 2017-12-10 06:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 06:15:13.471130
+
+END: downloadPrices - 1: 2017-12-10 06:16:18.692203
+
+DEF: removeExpiredPotentialss: 2017-12-10 06:16:18.692277
+
+
+USDT_ETH has been active 18 periods...DELETING
+
+
+BTC_BELA has been active 19 periods...DELETING
+
+
+BTC_BLK has been active 18 periods...DELETING
+
+
+BTC_XCP has been active 19 periods...DELETING
+
+
+BTC_ARDR has been active 18 periods...DELETING
+
+DEF: calcADX: 2017-12-10 06:16:19.188977
+
+DEF: checkPotentials: 2017-12-10 06:16:23.046550
+
+DEF: checkBuyTrigger: 2017-12-10 06:16:23.502104
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 06:16:23.991871
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 06:30:07.950584
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 06:30:56.966224
+
+From Date: 2017-12-09 18:30:07
+To Date: 2017-12-10 06:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 06:30:57.620627
+
+END: downloadPrices - 1: 2017-12-10 06:32:04.260297
+
+DEF: removeExpiredPotentialss: 2017-12-10 06:32:04.260389
+
+
+USDT_ETH has been active 19 periods...DELETING
+
+
+BTC_BELA has been active 20 periods...DELETING
+
+
+BTC_BLK has been active 19 periods...DELETING
+
+
+BTC_XCP has been active 20 periods...DELETING
+
+
+BTC_ARDR has been active 19 periods...DELETING
+
+DEF: calcADX: 2017-12-10 06:32:04.752754
+
+DEF: checkPotentials: 2017-12-10 06:32:09.462839
+
+DEF: checkBuyTrigger: 2017-12-10 06:32:09.828927
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 06:32:10.322037
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 06:45:06.884357
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 06:45:56.436572
+
+From Date: 2017-12-09 18:45:06
+To Date: 2017-12-10 06:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 06:45:57.213385
+
+END: downloadPrices - 1: 2017-12-10 06:47:11.965243
+
+DEF: removeExpiredPotentialss: 2017-12-10 06:47:11.965331
+
+DEF: calcADX: 2017-12-10 06:47:12.007019
+
+DEF: checkPotentials: 2017-12-10 06:47:16.608521
+
+DEF: checkBuyTrigger: 2017-12-10 06:47:17.051595
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 06:47:17.463630
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 07:00:08.002587
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 07:00:56.674276
+
+From Date: 2017-12-09 19:00:08
+To Date: 2017-12-10 07:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 07:00:57.365214
+
+END: downloadPrices - 1: 2017-12-10 07:02:11.975422
+
+DEF: removeExpiredPotentialss: 2017-12-10 07:02:11.975511
+
+DEF: calcADX: 2017-12-10 07:02:12.056487
+
+DEF: checkPotentials: 2017-12-10 07:02:17.018640
+
+DEF: checkBuyTrigger: 2017-12-10 07:02:17.592024
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 07:02:18.001873
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 07:15:07.295619
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 07:15:57.790609
+
+From Date: 2017-12-09 19:15:07
+To Date: 2017-12-10 07:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 07:15:59.220122
+
+END: downloadPrices - 1: 2017-12-10 07:17:15.108079
+
+DEF: removeExpiredPotentialss: 2017-12-10 07:17:15.108190
+
+DEF: calcADX: 2017-12-10 07:17:15.190554
+
+DEF: checkPotentials: 2017-12-10 07:17:19.854932
+
+DEF: checkBuyTrigger: 2017-12-10 07:17:20.504578
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 07:17:21.035310
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 07:30:07.394869
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 07:30:57.858452
+
+From Date: 2017-12-09 19:30:07
+To Date: 2017-12-10 07:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 07:30:58.593895
+
+END: downloadPrices - 1: 2017-12-10 07:32:14.865871
+
+DEF: removeExpiredPotentialss: 2017-12-10 07:32:14.865976
+
+DEF: calcADX: 2017-12-10 07:32:14.908838
+
+DEF: checkPotentials: 2017-12-10 07:32:19.547837
+
+checkForRise: We've 3 in a rise for BTC_OMNI
+checkForRise: Rise Start Time: 1512886500
+checkForRise: Low price: 0.0028803
+checkForRise: High price:0.00289607
+checkForRiseSet trigger for BTC_OMNI at value 0.002888185 at time 1512890100
+DEF: checkBuyTrigger: 2017-12-10 07:32:20.083126
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 07:32:20.697610
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 07:45:08.333462
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 07:45:57.717415
+
+From Date: 2017-12-09 19:45:08
+To Date: 2017-12-10 07:45:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 07:45:58.413489
+
+END: downloadPrices - 1: 2017-12-10 07:47:10.623825
+
+DEF: removeExpiredPotentialss: 2017-12-10 07:47:10.623918
+
+DEF: calcADX: 2017-12-10 07:47:10.704217
+
+DEF: checkPotentials: 2017-12-10 07:47:15.444221
+
+DEF: CheckForDip: 2017-12-10 07:47:16.062560
+
+DEF: checkBuyTrigger: 2017-12-10 07:47:16.062593
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 07:47:16.550079
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 08:00:07.148477
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 08:00:58.184472
+
+From Date: 2017-12-09 20:00:07
+To Date: 2017-12-10 08:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 08:00:58.879673
+
+END: downloadPrices - 1: 2017-12-10 08:02:11.370799
+
+DEF: removeExpiredPotentialss: 2017-12-10 08:02:11.370907
+
+
+BTC_SC has been active 7 periods...DELETING
+
+
+BTC_BELA has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 08:02:11.576949
+
+DEF: checkPotentials: 2017-12-10 08:02:16.122767
+
+checkForRise: We've 3 in a rise for BTC_NEOS
+checkForRise: Rise Start Time: 1512887400
+checkForRise: Low price: 0.00029439
+checkForRise: High price:0.00029804
+checkForRiseSet trigger for BTC_NEOS at value 0.000296215 at time 1512891900
+checkForRise: We've 3 in a rise for BTC_STRAT
+checkForRise: Rise Start Time: 1512890100
+checkForRise: Low price: 0.00053013
+checkForRise: High price:0.00055508
+checkForRiseSet trigger for BTC_STRAT at value 0.000542605 at time 1512892800
+DEF: CheckForDip: 2017-12-10 08:02:16.822084
+
+DEF: checkBuyTrigger: 2017-12-10 08:02:16.822116
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 08:02:17.352302
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 08:15:06.906155
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 08:15:56.318555
+
+From Date: 2017-12-09 20:15:06
+To Date: 2017-12-10 08:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 08:15:57.095669
+
+END: downloadPrices - 1: 2017-12-10 08:17:05.468496
+
+DEF: removeExpiredPotentialss: 2017-12-10 08:17:05.468591
+
+
+BTC_NMC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 08:17:05.670880
+
+DEF: checkPotentials: 2017-12-10 08:17:09.925789
+
+checkForRise: We've 3 in a rise for BTC_XVC
+checkForRise: Rise Start Time: 1512888300
+checkForRise: Low price: 0.00003936
+checkForRise: High price:0.00004048
+checkForRiseSet trigger for BTC_XVC at value 0.00003992 at time 1512892800
+DEF: CheckForDip: 2017-12-10 08:17:10.251606
+
+DEF: checkBuyTrigger: 2017-12-10 08:17:10.251641
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 08:17:10.620562
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 08:30:07.032315
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 08:30:57.212881
+
+From Date: 2017-12-09 20:30:07
+To Date: 2017-12-10 08:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 08:30:57.957096
+
+END: downloadPrices - 1: 2017-12-10 08:32:11.919448
+
+DEF: removeExpiredPotentialss: 2017-12-10 08:32:11.919536
+
+DEF: calcADX: 2017-12-10 08:32:12.004970
+
+DEF: checkPotentials: 2017-12-10 08:32:16.278530
+
+DEF: CheckForDip: 2017-12-10 08:32:16.441428
+
+DEF: checkBuyTrigger: 2017-12-10 08:32:16.441536
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 08:32:16.690356
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 08:45:07.047843
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 08:45:56.180186
+
+From Date: 2017-12-09 20:45:07
+To Date: 2017-12-10 08:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 08:45:56.919250
+
+END: downloadPrices - 1: 2017-12-10 08:47:04.659710
+
+DEF: removeExpiredPotentialss: 2017-12-10 08:47:04.659810
+
+DEF: calcADX: 2017-12-10 08:47:04.744481
+
+DEF: checkPotentials: 2017-12-10 08:47:09.385885
+
+DEF: CheckForDip: 2017-12-10 08:47:09.552182
+
+DEF: CheckForDip: 2017-12-10 08:47:09.794669
+
+DEF: checkBuyTrigger: 2017-12-10 08:47:09.794731
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 08:47:10.332423
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 09:00:07.470838
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 09:00:56.453084
+
+From Date: 2017-12-09 21:00:07
+To Date: 2017-12-10 09:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 09:00:57.272453
+
+END: downloadPrices - 1: 2017-12-10 09:02:07.306283
+
+DEF: removeExpiredPotentialss: 2017-12-10 09:02:07.306390
+
+
+BTC_OMNI has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 09:02:07.469176
+
+DEF: checkPotentials: 2017-12-10 09:02:11.813592
+
+DEF: CheckForDip: 2017-12-10 09:02:12.094781
+
+DEF: checkBuyTrigger: 2017-12-10 09:02:12.175808
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 09:02:12.668557
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 09:15:08.288991
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 09:15:57.751239
+
+From Date: 2017-12-09 21:15:08
+To Date: 2017-12-10 09:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 09:15:58.527978
+
+END: downloadPrices - 1: 2017-12-10 09:17:12.270464
+
+DEF: removeExpiredPotentialss: 2017-12-10 09:17:12.270551
+
+
+BTC_NEOS has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 09:17:12.436832
+
+DEF: checkPotentials: 2017-12-10 09:17:16.809204
+
+DEF: CheckForDip: 2017-12-10 09:17:17.136723
+
+DEF: checkBuyTrigger: 2017-12-10 09:17:17.258688
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 09:17:17.749260
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 09:30:07.227964
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 09:30:56.900627
+
+From Date: 2017-12-09 21:30:07
+To Date: 2017-12-10 09:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 09:30:57.718543
+
+END: downloadPrices - 1: 2017-12-10 09:32:03.143790
+
+DEF: removeExpiredPotentialss: 2017-12-10 09:32:03.143886
+
+
+BTC_XVC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 09:32:03.266367
+
+DEF: checkPotentials: 2017-12-10 09:32:07.937675
+
+checkForRise: We've 3 in a rise for USDT_REP
+checkForRise: Rise Start Time: 1512894600
+checkForRise: Low price: 24.48999972
+checkForRise: High price:25.300024
+checkForRiseSet trigger for USDT_REP at value 24.89501186 at time 1512897300
+DEF: CheckForDip: 2017-12-10 09:32:08.305731
+
+DEF: CheckForDip: 2017-12-10 09:32:08.470534
+
+DEF: checkBuyTrigger: 2017-12-10 09:32:08.515796
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 09:32:09.166945
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 09:45:07.634399
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 09:45:57.390011
+
+From Date: 2017-12-09 21:45:07
+To Date: 2017-12-10 09:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 09:45:58.208703
+
+END: downloadPrices - 1: 2017-12-10 09:47:17.612097
+
+DEF: removeExpiredPotentialss: 2017-12-10 09:47:17.612191
+
+DEF: calcADX: 2017-12-10 09:47:17.697289
+
+DEF: checkPotentials: 2017-12-10 09:47:22.092093
+
+DEF: CheckForDip: 2017-12-10 09:47:22.254448
+
+DEF: CheckForDip: 2017-12-10 09:47:22.418899
+
+DEF: checkBuyTrigger: 2017-12-10 09:47:22.500859
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 09:47:22.992307
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 10:00:08.413622
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 10:00:57.347549
+
+From Date: 2017-12-09 22:00:08
+To Date: 2017-12-10 10:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 10:00:58.123107
+
+END: downloadPrices - 1: 2017-12-10 10:02:14.730639
+
+DEF: removeExpiredPotentialss: 2017-12-10 10:02:14.730726
+
+
+BTC_STRAT has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 10:02:14.897419
+
+DEF: checkPotentials: 2017-12-10 10:02:19.321673
+
+DEF: CheckForDip: 2017-12-10 10:02:19.485117
+
+DEF: CheckForDip: 2017-12-10 10:02:19.653036
+
+DEF: checkBuyTrigger: 2017-12-10 10:02:19.734497
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 10:02:20.389068
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 10:15:06.727212
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 10:15:56.162804
+
+From Date: 2017-12-09 22:15:06
+To Date: 2017-12-10 10:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 10:15:56.859925
+
+END: downloadPrices - 1: 2017-12-10 10:17:03.831548
+
+DEF: removeExpiredPotentialss: 2017-12-10 10:17:03.831640
+
+DEF: calcADX: 2017-12-10 10:17:03.872940
+
+DEF: checkPotentials: 2017-12-10 10:17:08.204353
+
+DEF: CheckForDip: 2017-12-10 10:17:08.327012
+
+DEF: CheckForDip: 2017-12-10 10:17:08.652001
+
+DEF: checkBuyTrigger: 2017-12-10 10:17:08.734257
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 10:17:09.344897
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 10:30:06.422431
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 10:30:55.321606
+
+From Date: 2017-12-09 22:30:06
+To Date: 2017-12-10 10:30:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 10:30:56.102111
+
+END: downloadPrices - 1: 2017-12-10 10:32:04.457778
+
+DEF: removeExpiredPotentialss: 2017-12-10 10:32:04.457870
+
+
+BTC_BTM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 10:32:04.664273
+
+DEF: checkPotentials: 2017-12-10 10:32:09.343380
+
+DEF: CheckForDip: 2017-12-10 10:32:09.546783
+
+checkForRise: We've 3 in a rise for BTC_XCP
+checkForRise: Rise Start Time: 1512897300
+checkForRise: Low price: 0.00144491
+checkForRise: High price:0.00150192
+checkForRiseSet trigger for BTC_XCP at value 0.001473415 at time 1512900900
+DEF: CheckForDip: 2017-12-10 10:32:09.837278
+
+DEF: checkBuyTrigger: 2017-12-10 10:32:09.918328
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 10:32:10.608834
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 10:45:07.694942
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 10:45:56.837386
+
+From Date: 2017-12-09 22:45:07
+To Date: 2017-12-10 10:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 10:45:57.612989
+
+END: downloadPrices - 1: 2017-12-10 10:47:15.299715
+
+DEF: removeExpiredPotentialss: 2017-12-10 10:47:15.299799
+
+
+BTC_OMNI has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 10:47:15.422433
+
+DEF: checkPotentials: 2017-12-10 10:47:19.637380
+
+DEF: CheckForDip: 2017-12-10 10:47:19.800189
+
+DEF: checkBuyTrigger: 2017-12-10 10:47:19.841067
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 10:47:20.534920
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 11:00:08.507958
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 11:00:58.575412
+
+From Date: 2017-12-09 23:00:08
+To Date: 2017-12-10 11:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 11:00:59.397117
+
+END: downloadPrices - 1: 2017-12-10 11:02:16.532238
+
+DEF: removeExpiredPotentialss: 2017-12-10 11:02:16.532326
+
+DEF: calcADX: 2017-12-10 11:02:16.617260
+
+DEF: checkPotentials: 2017-12-10 11:02:20.794104
+
+DEF: CheckForDip: 2017-12-10 11:02:20.957849
+
+DEF: checkBuyTrigger: 2017-12-10 11:02:21.039154
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 11:02:21.488996
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 11:15:06.046393
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 11:15:11.307005
+
+From Date: 2017-12-09 23:15:06
+To Date: 2017-12-10 11:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 11:15:11.637989
+
+END: downloadPrices - 1: 2017-12-10 11:16:19.441999
+
+DEF: removeExpiredPotentialss: 2017-12-10 11:16:19.442093
+
+
+USDT_REP has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 11:16:19.565883
+
+DEF: checkPotentials: 2017-12-10 11:16:23.860037
+
+DEF: CheckForDip: 2017-12-10 11:16:24.022771
+
+checkForRise: We've 3 in a rise for BTC_RADS
+checkForRise: Rise Start Time: 1512900900
+checkForRise: Low price: 0.00034582
+checkForRise: High price:0.0003525
+checkForRiseSet trigger for BTC_RADS at value 0.00034916 at time 1512903600
+DEF: checkBuyTrigger: 2017-12-10 11:16:24.150581
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 11:16:24.762447
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 11:30:07.362338
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 11:30:56.215803
+
+From Date: 2017-12-09 23:30:07
+To Date: 2017-12-10 11:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 11:30:57.114968
+
+END: downloadPrices - 1: 2017-12-10 11:32:17.869362
+
+DEF: removeExpiredPotentialss: 2017-12-10 11:32:17.869442
+
+
+BTC_XPM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 11:32:18.070572
+
+DEF: checkPotentials: 2017-12-10 11:32:22.422329
+
+DEF: CheckForDip: 2017-12-10 11:32:22.466358
+
+DEF: checkBuyTrigger: 2017-12-10 11:32:22.466472
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 11:32:22.956296
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 11:45:07.231945
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 11:45:57.365941
+
+From Date: 2017-12-09 23:45:07
+To Date: 2017-12-10 11:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 11:45:57.980861
+
+END: downloadPrices - 1: 2017-12-10 11:47:26.828758
+
+DEF: removeExpiredPotentialss: 2017-12-10 11:47:26.828845
+
+DEF: calcADX: 2017-12-10 11:47:26.950440
+
+DEF: checkPotentials: 2017-12-10 11:47:31.178499
+
+DEF: CheckForDip: 2017-12-10 11:47:31.299961
+
+DEF: checkBuyTrigger: 2017-12-10 11:47:31.300081
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 11:47:31.754916
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 12:00:07.950152
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 12:00:57.074494
+
+From Date: 2017-12-10 00:00:07
+To Date: 2017-12-10 12:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 12:00:57.812474
+
+END: downloadPrices - 1: 2017-12-10 12:02:22.169555
+
+DEF: removeExpiredPotentialss: 2017-12-10 12:02:22.169645
+
+
+BTC_CVC has been active 7 periods...DELETING
+
+
+BTC_XCP has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 12:02:22.420755
+
+DEF: checkPotentials: 2017-12-10 12:02:27.008875
+
+DEF: CheckForDip: 2017-12-10 12:02:27.175648
+
+DEF: checkBuyTrigger: 2017-12-10 12:02:27.175684
+
+Buy 123 of BTC_DCR at 0.00406744
+As we have enough coins: 0.50029512 is the cost, and I have 0.70382179 of BTC
+
+*************************
+Sent SMS: BUY TRIGGER: BTC_DCR, at price 0.00406744
+*************************
+DEF: buyPair
+
+Buying 123.0 of BTC_DCR at 0.00406744
+{u'orderNumber': u'32323993812', u'resultingTrades': []}
+Order placed...
+[{u'orderNumber': u'32323993812', u'margin': 0, u'amount': u'123.00000000', u'rate': u'0.00406744', u'date': u'2017-12-10 12:02:29', u'total': u'0.50029512', u'type': u'buy', u'startingAmount': u'123.00000000'}]
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 123.0 and actual from account is: 0.0 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 12:02:32.632486
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-10 12:15:07.051987
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 12:15:56.121579
+
+From Date: 2017-12-10 00:15:07
+To Date: 2017-12-10 12:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 12:15:56.945807
+
+END: downloadPrices - 1: 2017-12-10 12:17:14.692663
+
+DEF: removeExpiredPotentialss: 2017-12-10 12:17:14.692749
+
+DEF: calcADX: 2017-12-10 12:17:14.773250
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 14
+===============================================================
+Starting new run of coinTrader: 2017-12-10 12:30:06.842291
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 12:30:56.554094
+
+From Date: 2017-12-10 00:30:06
+To Date: 2017-12-10 12:30:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 12:30:57.415031
+
+END: downloadPrices - 1: 2017-12-10 12:32:07.460421
+
+DEF: removeExpiredPotentialss: 2017-12-10 12:32:07.460508
+
+DEF: calcADX: 2017-12-10 12:32:07.541364
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 13
+===============================================================
+Starting new run of coinTrader: 2017-12-10 12:45:06.997221
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 12:45:57.121532
+
+From Date: 2017-12-10 00:45:06
+To Date: 2017-12-10 12:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 12:45:57.899086
+
+END: downloadPrices - 1: 2017-12-10 12:47:19.730832
+
+DEF: removeExpiredPotentialss: 2017-12-10 12:47:19.730925
+
+DEF: calcADX: 2017-12-10 12:47:19.854003
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 12
+===============================================================
+Starting new run of coinTrader: 2017-12-10 13:00:08.542331
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 13:00:57.314973
+
+From Date: 2017-12-10 01:00:08
+To Date: 2017-12-10 13:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 13:00:58.133362
+
+END: downloadPrices - 1: 2017-12-10 13:02:16.746457
+
+DEF: removeExpiredPotentialss: 2017-12-10 13:02:16.746546
+
+
+BTC_RADS has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-10 13:02:16.908322
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 11
+===============================================================
+Starting new run of coinTrader: 2017-12-10 13:15:06.959799
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 13:15:11.866389
+
+From Date: 2017-12-10 01:15:06
+To Date: 2017-12-10 13:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 13:15:12.169006
+
+END: downloadPrices - 1: 2017-12-10 13:16:29.985790
+
+DEF: removeExpiredPotentialss: 2017-12-10 13:16:29.985869
+
+DEF: calcADX: 2017-12-10 13:16:30.066259
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 10
+===============================================================
+Starting new run of coinTrader: 2017-12-10 13:30:07.468044
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 13:30:57.884191
+
+From Date: 2017-12-10 01:30:07
+To Date: 2017-12-10 13:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 13:30:58.702515
+
+END: downloadPrices - 1: 2017-12-10 13:32:16.151679
+
+DEF: removeExpiredPotentialss: 2017-12-10 13:32:16.151768
+
+DEF: calcADX: 2017-12-10 13:32:16.232711
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 9
+===============================================================
+Starting new run of coinTrader: 2017-12-10 13:45:07.391463
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 13:45:55.827122
+
+From Date: 2017-12-10 01:45:07
+To Date: 2017-12-10 13:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 13:45:56.604830
+
+END: downloadPrices - 1: 2017-12-10 13:47:11.550314
+
+DEF: removeExpiredPotentialss: 2017-12-10 13:47:11.550424
+
+
+BTC_CVC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 13:47:11.679760
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 8
+===============================================================
+Starting new run of coinTrader: 2017-12-10 14:00:06.809771
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 14:00:55.492952
+
+From Date: 2017-12-10 02:00:06
+To Date: 2017-12-10 14:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 14:00:56.309766
+
+END: downloadPrices - 1: 2017-12-10 14:02:08.921325
+
+DEF: removeExpiredPotentialss: 2017-12-10 14:02:08.921422
+
+
+BTC_EMC2 has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-10 14:02:09.121744
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 7
+===============================================================
+Starting new run of coinTrader: 2017-12-10 14:15:08.554696
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 14:15:58.334603
+
+From Date: 2017-12-10 02:15:08
+To Date: 2017-12-10 14:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 14:15:59.025741
+
+END: downloadPrices - 1: 2017-12-10 14:17:11.983399
+
+DEF: removeExpiredPotentialss: 2017-12-10 14:17:11.983491
+
+DEF: calcADX: 2017-12-10 14:17:12.063751
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 6
+===============================================================
+Starting new run of coinTrader: 2017-12-10 14:30:08.632897
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 14:30:57.782539
+
+From Date: 2017-12-10 02:30:08
+To Date: 2017-12-10 14:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 14:30:58.519050
+
+END: downloadPrices - 1: 2017-12-10 14:32:19.655511
+
+DEF: removeExpiredPotentialss: 2017-12-10 14:32:19.655606
+
+DEF: calcADX: 2017-12-10 14:32:19.696826
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 5
+===============================================================
+Starting new run of coinTrader: 2017-12-10 14:45:06.842584
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 14:45:56.324838
+
+From Date: 2017-12-10 02:45:06
+To Date: 2017-12-10 14:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 14:45:57.145421
+
+END: downloadPrices - 1: 2017-12-10 14:47:19.369913
+
+DEF: removeExpiredPotentialss: 2017-12-10 14:47:19.370022
+
+DEF: calcADX: 2017-12-10 14:47:19.454700
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 4
+===============================================================
+Starting new run of coinTrader: 2017-12-10 15:00:06.758277
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 15:00:56.378925
+
+From Date: 2017-12-10 03:00:06
+To Date: 2017-12-10 15:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 15:00:57.156573
+
+END: downloadPrices - 1: 2017-12-10 15:02:13.126554
+
+DEF: removeExpiredPotentialss: 2017-12-10 15:02:13.126645
+
+DEF: calcADX: 2017-12-10 15:02:13.168297
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 3
+===============================================================
+Starting new run of coinTrader: 2017-12-10 15:15:07.433764
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 15:15:56.333344
+
+From Date: 2017-12-10 03:15:07
+To Date: 2017-12-10 15:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 15:15:56.944447
+
+END: downloadPrices - 1: 2017-12-10 15:17:11.527576
+
+DEF: removeExpiredPotentialss: 2017-12-10 15:17:11.527669
+
+DEF: calcADX: 2017-12-10 15:17:11.609729
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 2
+===============================================================
+Starting new run of coinTrader: 2017-12-10 15:30:07.419199
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 15:30:56.579299
+
+From Date: 2017-12-10 03:30:07
+To Date: 2017-12-10 15:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 15:30:57.441434
+
+END: downloadPrices - 1: 2017-12-10 15:32:18.283321
+
+DEF: removeExpiredPotentialss: 2017-12-10 15:32:18.283407
+
+DEF: calcADX: 2017-12-10 15:32:18.364546
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 155, in ADX
+    PositiveDI,NegativeDI = calcDIs()
+  File "/home/ec2-user/coinTrader/adx.py", line 128, in calcDIs
+    expPosDM = ExpMovingAverage(PosDMs,time_period)
+  File "/home/ec2-user/coinTrader/adx.py", line 102, in ExpMovingAverage
+    a[:window] = a[window]
+IndexError: index 14 is out of bounds for axis 0 with size 1
+===============================================================
+Starting new run of coinTrader: 2017-12-10 15:45:06.574701
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 15:45:56.591482
+
+From Date: 2017-12-10 03:45:06
+To Date: 2017-12-10 15:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 15:45:57.445810
+
+END: downloadPrices - 1: 2017-12-10 15:47:30.715108
+
+DEF: removeExpiredPotentialss: 2017-12-10 15:47:30.715201
+
+DEF: calcADX: 2017-12-10 15:47:30.756540
+
+Traceback (most recent call last):
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 518, in <module>
+    calcADX()
+  File "/home/ec2-user/coinTrader/coinTrader.py", line 139, in calcADX
+    myTuple = ADX(keyPair)
+  File "/home/ec2-user/coinTrader/adx.py", line 184, in ADX
+    adxLastDec = ADX[ADX.size-1]
+AttributeError: 'list' object has no attribute 'size'
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 16:00:06.934761
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 16:00:56.949603
+
+From Date: 2017-12-10 04:00:06
+To Date: 2017-12-10 16:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 16:00:58.630084
+
+END: downloadPrices - 1: 2017-12-10 16:02:19.376783
+
+DEF: removeExpiredPotentialss: 2017-12-10 16:02:19.376869
+
+DEF: calcADX: 2017-12-10 16:02:19.498396
+
+DEF: checkPotentials: 2017-12-10 16:02:24.826035
+
+DEF: checkBuyTrigger: 2017-12-10 16:02:25.486475
+
+DEF: checkStopLimit
+
+
+BTC_XRP...We've hit our BUY STOP of 1.51e-05 as it's below our stop of 1.7648925e-05 - exiting out, profit = -0.02723883, startPrice= 0.00001597
+
+*************************
+Sent SMS: BUY STOP: BTC_XRP, profit is -0.02723883
+*************************
+DEF: sellPair
+
+Selling 31309.0 of BTC_XRP at 1.51e-05
+{u'orderNumber': u'96926561532', u'resultingTrades': [{u'tradeID': u'15187024', u'rate': u'0.00001510', u'amount': u'31309.00000000', u'date': u'2017-12-10 16:02:27', u'total': u'0.47276590', u'type': u'sell'}]}
+Order placed...
+[]
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+Amount from ACTIVES table is : 123.0 and actual from account is: 122.81550006 so setting amount to totalCoin
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+BTC_ZRX...We've hit our BUY STOP of 1.53e-05 as it's below our stop of 1.88125e-05 - exiting out, profit = -0.0565227, startPrice= 0.00001725
+
+*************************
+Sent SMS: BUY STOP: BTC_ZRX, profit is -0.0565227
+*************************
+DEF: sellPair
+
+Selling 28986.0 of BTC_ZRX at 1.53e-05
+{u'orderNumber': u'9904805472', u'resultingTrades': [{u'tradeID': u'688787', u'rate': u'0.00001535', u'amount': u'254.31465799', u'date': u'2017-12-10 16:02:29', u'total': u'0.00390373', u'type': u'sell'}, {u'tradeID': u'688788', u'rate': u'0.00001530', u'amount': u'239.58385764', u'date': u'2017-12-10 16:02:29', u'total': u'0.00366563', u'type': u'sell'}]}
+Order placed...
+[{u'orderNumber': u'9904805472', u'margin': 0, u'amount': u'28492.10148437', u'rate': u'0.00001530', u'date': u'2017-12-10 16:02:29', u'total': u'0.43592915', u'type': u'sell', u'startingAmount': u'28492.10148437'}]
+=======================================
+End Time: 2017-12-10 16:02:30.819197
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 16:15:07.489799
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 16:15:56.902704
+
+From Date: 2017-12-10 04:15:07
+To Date: 2017-12-10 16:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 16:15:57.680796
+
+END: downloadPrices - 1: 2017-12-10 16:17:28.551587
+
+DEF: removeExpiredPotentialss: 2017-12-10 16:17:28.551674
+
+
+BTC_PINK has been active 7 periods...DELETING
+
+
+BTC_CVC has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681025 periods...DELETING
+
+DEF: calcADX: 2017-12-10 16:17:28.800397
+
+DEF: checkPotentials: 2017-12-10 16:17:33.968762
+
+DEF: checkBuyTrigger: 2017-12-10 16:17:34.793403
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+BTC_BURST...We've hit our BUY LIMIT of 9.7e-07 as it's above our limit of 9.471e-07 - cashing out, profit = 0.07726486859, startPrice= 8.4E-7
+BTC_BURST... newStop: 8.57745e-07 and newLimit: 9.94455e-07
+
+*************************
+Sent SMS: TRAILING STOP: BTC_BURST, new Stop: 8.57745e-07, new Limit: 9.94455e-07
+*************************
+Amount from ACTIVES table is : 123.0 and actual from account is: 122.81550006 so setting amount to totalCoin
+BTC_DCR...We've hit our BUY STOP of 0.00364976 as it's below our stop of 0.004383392 - exiting out, profit = -0.0512975780651, startPrice= 0.00406744
+
+*************************
+Sent SMS: BUY STOP: BTC_DCR, profit is -0.0512975780651
+*************************
+DEF: sellPair
+
+Selling 122.81550006 of BTC_DCR at 0.00364976
+{u'orderNumber': u'32347498284', u'resultingTrades': [{u'tradeID': u'2153010', u'rate': u'0.00365176', u'amount': u'19.16883913', u'date': u'2017-12-10 16:17:37', u'total': u'0.06999999', u'type': u'sell'}, {u'tradeID': u'2153011', u'rate': u'0.00365176', u'amount': u'82.77801501', u'date': u'2017-12-10 16:17:37', u'total': u'0.30228544', u'type': u'sell'}, {u'tradeID': u'2153012', u'rate': u'0.00365176', u'amount': u'0.65248264', u'date': u'2017-12-10 16:17:37', u'total': u'0.00238271', u'type': u'sell'}, {u'tradeID': u'2153013', u'rate': u'0.00365176', u'amount': u'0.41076084', u'date': u'2017-12-10 16:17:37', u'total': u'0.00150000', u'type': u'sell'}, {u'tradeID': u'2153014', u'rate': u'0.00365175', u'amount': u'3.14259191', u'date': u'2017-12-10 16:17:37', u'total': u'0.01147596', u'type': u'sell'}, {u'tradeID': u'2153015', u'rate': u'0.00365173', u'amount': u'16.66281053', u'date': u'2017-12-10 16:17:37', u'total': u'0.06084808', u'type': u'sell'}]}
+Order placed...
+[]
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 16:17:39.594662
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 16:30:07.134489
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 16:30:55.994204
+
+From Date: 2017-12-10 04:30:07
+To Date: 2017-12-10 16:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 16:30:56.729082
+
+END: downloadPrices - 1: 2017-12-10 16:32:18.678439
+
+DEF: removeExpiredPotentialss: 2017-12-10 16:32:18.678527
+
+
+BTC_BCN has been active 1681026 periods...DELETING
+
+DEF: calcADX: 2017-12-10 16:32:18.881795
+
+DEF: checkPotentials: 2017-12-10 16:32:24.136895
+
+DEF: CheckForDip: 2017-12-10 16:32:25.278884
+
+DEF: CheckForDip: 2017-12-10 16:32:25.361056
+
+DEF: checkBuyTrigger: 2017-12-10 16:32:25.361098
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 16:32:25.769579
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 16:45:07.222694
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 16:45:55.751662
+
+From Date: 2017-12-10 04:45:07
+To Date: 2017-12-10 16:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 16:45:56.532085
+
+END: downloadPrices - 1: 2017-12-10 16:47:16.868805
+
+DEF: removeExpiredPotentialss: 2017-12-10 16:47:16.868893
+
+
+BTC_BCN has been active 1681027 periods...DELETING
+
+DEF: calcADX: 2017-12-10 16:47:16.992956
+
+DEF: checkPotentials: 2017-12-10 16:47:22.039466
+
+DEF: CheckForDip: 2017-12-10 16:47:22.859799
+
+DEF: CheckForDip: 2017-12-10 16:47:22.945404
+
+DEF: checkBuyTrigger: 2017-12-10 16:47:23.190971
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+BTC_BURST...We've hit our BUY LIMIT of 1.03e-06 as it's above our limit of 9.94455e-07 - cashing out, profit = 0.11292557717, startPrice= 8.4E-7
+BTC_BURST... newStop: 9.0063225e-07 and newLimit: 1.04417775e-06
+
+*************************
+Sent SMS: TRAILING STOP: BTC_BURST, new Stop: 9.0063225e-07, new Limit: 1.04417775e-06
+*************************
+=======================================
+End Time: 2017-12-10 16:47:24.708256
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 17:00:07.520041
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 17:00:57.783563
+
+From Date: 2017-12-10 05:00:07
+To Date: 2017-12-10 17:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 17:00:58.437323
+
+END: downloadPrices - 1: 2017-12-10 17:02:23.839476
+
+DEF: removeExpiredPotentialss: 2017-12-10 17:02:23.839565
+
+
+BTC_BCN has been active 1681028 periods...DELETING
+
+DEF: calcADX: 2017-12-10 17:02:24.124976
+
+DEF: checkPotentials: 2017-12-10 17:02:29.114877
+
+DEF: CheckForDip: 2017-12-10 17:02:30.094970
+
+DEF: CheckForDip: 2017-12-10 17:02:30.176450
+
+DEF: checkBuyTrigger: 2017-12-10 17:02:30.345192
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 17:02:30.627279
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 17:15:07.220365
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 17:15:57.262944
+
+From Date: 2017-12-10 05:15:07
+To Date: 2017-12-10 17:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 17:15:58.122773
+
+END: downloadPrices - 1: 2017-12-10 17:17:27.007742
+
+DEF: removeExpiredPotentialss: 2017-12-10 17:17:27.007824
+
+
+BTC_SC has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681029 periods...DELETING
+
+DEF: calcADX: 2017-12-10 17:17:27.211971
+
+DEF: checkPotentials: 2017-12-10 17:17:32.213131
+
+checkForRise: We've 3 in a rise for BTC_XVC
+checkForRise: Rise Start Time: 1512921600
+checkForRise: Low price: 0.000037
+checkForRise: High price:0.0000384
+checkForRiseSet trigger for BTC_XVC at value 0.0000377 at time 1512925200
+checkForRise: We've 3 in a rise for BTC_DGB
+checkForRise: Rise Start Time: 1512922500
+checkForRise: Low price: 8.6E-7
+checkForRise: High price:8.8E-7
+checkForRiseSet trigger for BTC_DGB at value 8.7E-7 at time 1512926100
+DEF: CheckForDip: 2017-12-10 17:17:33.236808
+
+DEF: CheckForDip: 2017-12-10 17:17:33.278268
+
+DEF: checkBuyTrigger: 2017-12-10 17:17:33.605739
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 17:17:33.931907
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 17:30:07.504840
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 17:30:57.157858
+
+From Date: 2017-12-10 05:30:07
+To Date: 2017-12-10 17:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 17:30:57.812975
+
+END: downloadPrices - 1: 2017-12-10 17:32:27.968103
+
+DEF: removeExpiredPotentialss: 2017-12-10 17:32:27.968189
+
+
+BTC_NEOS has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681030 periods...DELETING
+
+DEF: calcADX: 2017-12-10 17:32:28.175670
+
+DEF: checkPotentials: 2017-12-10 17:32:33.553145
+
+checkForRise: We've 3 in a rise for BTC_GAME
+checkForRise: Rise Start Time: 1512921600
+checkForRise: Low price: 0.00012408
+checkForRise: High price:0.00012664
+checkForRiseSet trigger for BTC_GAME at value 0.00012536 at time 1512926100
+DEF: CheckForDip: 2017-12-10 17:32:34.004776
+
+DEF: CheckForDip: 2017-12-10 17:32:34.169538
+
+DEF: checkBuyTrigger: 2017-12-10 17:32:34.744055
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 17:32:34.951440
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 17:45:07.184976
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 17:45:56.968815
+
+From Date: 2017-12-10 05:45:07
+To Date: 2017-12-10 17:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 17:45:58.319732
+
+END: downloadPrices - 1: 2017-12-10 17:47:19.479351
+
+DEF: removeExpiredPotentialss: 2017-12-10 17:47:19.479454
+
+
+BTC_OMG has been active 7 periods...DELETING
+
+
+BTC_PINK has been active 7 periods...DELETING
+
+
+BTC_POT has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681031 periods...DELETING
+
+DEF: calcADX: 2017-12-10 17:47:19.890436
+
+DEF: checkPotentials: 2017-12-10 17:47:25.355997
+
+DEF: CheckForDip: 2017-12-10 17:47:25.481814
+
+DEF: CheckForDip: 2017-12-10 17:47:25.563217
+
+DEF: CheckForDip: 2017-12-10 17:47:26.508901
+
+DEF: CheckForDip: 2017-12-10 17:47:26.632140
+
+DEF: checkBuyTrigger: 2017-12-10 17:47:26.796046
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 17:47:27.042386
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 18:00:07.316915
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 18:00:57.972365
+
+From Date: 2017-12-10 06:00:07
+To Date: 2017-12-10 18:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 18:00:58.630131
+
+END: downloadPrices - 1: 2017-12-10 18:02:09.776629
+
+DEF: removeExpiredPotentialss: 2017-12-10 18:02:09.776739
+
+
+BTC_BCN has been active 1681032 periods...DELETING
+
+DEF: calcADX: 2017-12-10 18:02:09.898853
+
+DEF: checkPotentials: 2017-12-10 18:02:14.854929
+
+DEF: CheckForDip: 2017-12-10 18:02:15.017410
+
+DEF: CheckForDip: 2017-12-10 18:02:15.098946
+
+DEF: CheckForDip: 2017-12-10 18:02:15.877397
+
+DEF: CheckForDip: 2017-12-10 18:02:16.003864
+
+DEF: checkBuyTrigger: 2017-12-10 18:02:16.166042
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 18:02:16.372661
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 18:15:06.956298
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 18:15:56.424691
+
+From Date: 2017-12-10 06:15:06
+To Date: 2017-12-10 18:15:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 18:15:57.202139
+
+END: downloadPrices - 1: 2017-12-10 18:17:12.601948
+
+DEF: removeExpiredPotentialss: 2017-12-10 18:17:12.602059
+
+
+USDT_BTC has been active 7 periods...DELETING
+
+
+USDT_NXT has been active 7 periods...DELETING
+
+
+BTC_CLAM has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681033 periods...DELETING
+
+DEF: calcADX: 2017-12-10 18:17:12.933127
+
+DEF: checkPotentials: 2017-12-10 18:17:18.527290
+
+DEF: CheckForDip: 2017-12-10 18:17:19.063027
+
+DEF: CheckForDip: 2017-12-10 18:17:19.143976
+
+DEF: checkBuyTrigger: 2017-12-10 18:17:19.472348
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 18:17:19.756254
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 18:30:07.851019
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 18:30:57.085307
+
+From Date: 2017-12-10 06:30:07
+To Date: 2017-12-10 18:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 18:30:58.024960
+
+END: downloadPrices - 1: 2017-12-10 18:32:20.511085
+
+DEF: removeExpiredPotentialss: 2017-12-10 18:32:20.511177
+
+
+BTC_BCN has been active 1681034 periods...DELETING
+
+DEF: calcADX: 2017-12-10 18:32:20.594375
+
+DEF: checkPotentials: 2017-12-10 18:32:25.558887
+
+DEF: CheckForDip: 2017-12-10 18:32:26.219180
+
+DEF: CheckForDip: 2017-12-10 18:32:26.461412
+
+DEF: checkBuyTrigger: 2017-12-10 18:32:27.121537
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 18:32:27.450326
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 18:45:07.571164
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 18:45:56.925589
+
+From Date: 2017-12-10 06:45:07
+To Date: 2017-12-10 18:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 18:45:57.583460
+
+END: downloadPrices - 1: 2017-12-10 18:47:08.410849
+
+DEF: removeExpiredPotentialss: 2017-12-10 18:47:08.410925
+
+
+BTC_SC has been active 7 periods...DELETING
+
+
+BTC_XVC has been active 11 periods...DELETING
+
+
+BTC_GAME has been active 11 periods...DELETING
+
+
+BTC_BCN has been active 1681035 periods...DELETING
+
+DEF: calcADX: 2017-12-10 18:47:08.939338
+
+DEF: checkPotentials: 2017-12-10 18:47:13.783145
+
+DEF: CheckForDip: 2017-12-10 18:47:14.483528
+
+checkForRise: We've 3 in a rise for BTC_BTS
+checkForRise: Rise Start Time: 1512927900
+checkForRise: Low price: 0.00001053
+checkForRise: High price:0.00001066
+checkForRiseSet trigger for BTC_BTS at value 0.000010595 at time 1512930600
+DEF: checkBuyTrigger: 2017-12-10 18:47:15.180552
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 18:47:15.511585
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 19:00:06.933276
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 19:00:56.783823
+
+From Date: 2017-12-10 07:00:06
+To Date: 2017-12-10 19:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 19:00:57.601315
+
+END: downloadPrices - 1: 2017-12-10 19:02:14.841632
+
+DEF: removeExpiredPotentialss: 2017-12-10 19:02:14.841728
+
+
+BTC_DGB has been active 11 periods...DELETING
+
+
+BTC_CVC has been active 7 periods...DELETING
+
+
+BTC_MAID has been active 7 periods...DELETING
+
+
+BTC_FCT has been active 7 periods...DELETING
+
+
+BTC_NEOS has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681036 periods...DELETING
+
+DEF: calcADX: 2017-12-10 19:02:15.461416
+
+DEF: checkPotentials: 2017-12-10 19:02:20.218910
+
+DEF: CheckForDip: 2017-12-10 19:02:20.589695
+
+DEF: checkBuyTrigger: 2017-12-10 19:02:21.655060
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 19:02:22.104848
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 19:15:07.263034
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 19:15:57.271091
+
+From Date: 2017-12-10 07:15:07
+To Date: 2017-12-10 19:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 19:15:58.088373
+
+END: downloadPrices - 1: 2017-12-10 19:17:13.167735
+
+DEF: removeExpiredPotentialss: 2017-12-10 19:17:13.167825
+
+
+BTC_NMC has been active 7 periods...DELETING
+
+
+BTC_PINK has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681037 periods...DELETING
+
+DEF: calcADX: 2017-12-10 19:17:13.497771
+
+DEF: checkPotentials: 2017-12-10 19:17:18.550031
+
+DEF: checkBuyTrigger: 2017-12-10 19:17:19.660745
+
+Buy 3 of USDT_LTC at 152.39999997
+As we have enough coins: 457.19999991 is the cost, and I have 599.23249672 of USDT
+
+*************************
+Sent SMS: BUY TRIGGER: USDT_LTC, at price 152.39999997
+*************************
+DEF: buyPair
+
+Buying 3.0 of USDT_LTC at 152.39999997
+{u'orderNumber': u'85412813811', u'resultingTrades': [{u'tradeID': u'3422548', u'rate': u'152.39999972', u'amount': u'3.00000000', u'date': u'2017-12-10 19:17:21', u'total': u'457.19999916', u'type': u'buy'}]}
+Order placed...
+[]
+Buy 1 of USDT_ETH at 449.0
+As we have enough coins: 449.0 is the cost, and I have 599.23249672 of USDT
+
+*************************
+Sent SMS: BUY TRIGGER: USDT_ETH, at price 449.0
+*************************
+DEF: buyPair
+
+Buying 1.0 of USDT_ETH at 449.0
+{u'error': u'Not enough USDT.'}
+Order placed...
+[]
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 19:17:24.383936
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 19:30:07.056103
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 19:30:56.391721
+
+From Date: 2017-12-10 07:30:07
+To Date: 2017-12-10 19:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 19:30:57.216165
+
+END: downloadPrices - 1: 2017-12-10 19:32:14.278980
+
+DEF: removeExpiredPotentialss: 2017-12-10 19:32:14.279069
+
+
+BTC_PPC has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681038 periods...DELETING
+
+DEF: calcADX: 2017-12-10 19:32:14.482335
+
+DEF: checkPotentials: 2017-12-10 19:32:18.710678
+
+checkForRise: We've 3 in a rise for BTC_DCR
+checkForRise: Rise Start Time: 1512929700
+checkForRise: Low price: 0.003667
+checkForRise: High price:0.00377023
+checkForRiseSet trigger for BTC_DCR at value 0.003718615 at time 1512934200
+DEF: checkBuyTrigger: 2017-12-10 19:32:19.699461
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 19:32:20.069405
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-10 19:45:07.477981
+===============================================================
+
+DEF: downloadPrices: 2017-12-10 19:45:56.018191
+
+From Date: 2017-12-10 07:45:07
+To Date: 2017-12-10 19:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-10 19:45:56.718073
+
+END: downloadPrices - 1: 2017-12-10 19:47:13.191909
+
+DEF: removeExpiredPotentialss: 2017-12-10 19:47:13.191999
+
+
+BTC_RADS has been active 7 periods...DELETING
+
+
+BTC_GNT has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 1681039 periods...DELETING
+
+DEF: calcADX: 2017-12-10 19:47:13.640958
+
+DEF: checkPotentials: 2017-12-10 19:47:18.394844
+
+checkForRise: We've 3 in a rise for BTC_RIC
+checkForRise: Rise Start Time: 1512932400
+checkForRise: Low price: 0.00000937
+checkForRise: High price:0.00001079
+checkForRiseSet trigger for BTC_RIC at value 0.00001008 at time 1512935100
+DEF: checkBuyTrigger: 2017-12-10 19:47:19.661038
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 6.0 and actual from account is: 5.99100002 so setting amount to totalCoin
+Amount from ACTIVES table is : 595238.0 and actual from account is: 594345.143 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-10 19:47:20.073766
+=======================================
+
