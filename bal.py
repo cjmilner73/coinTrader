@@ -67,8 +67,9 @@ def loadBittPrices():
                 thisPriceDict = priceDict['result']
                 if thisPriceDict is not None:
                     thisLast = thisPriceDict['Last'] 
-                    dbMod.insertPrices('BITTREX',coinPair,thisLast)
-                    dbMod.updatePrices('BITTREX',coinPair,thisLast)
+                    if thisLast is not None:
+                        dbMod.insertPrices('BITTREX',coinPair,thisLast)
+                        dbMod.updatePrices('BITTREX',coinPair,thisLast)
 
 def loadBitfPrices():
     
