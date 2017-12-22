@@ -70764,3 +70764,4079 @@ Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting am
 End Time: 2017-12-21 19:48:25.164401
 =======================================
 
+===============================================================
+Starting new run of coinTrader: 2017-12-21 20:00:10.046470
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 20:01:04.128327
+
+From Date: 2017-12-21 08:00:10
+To Date: 2017-12-21 20:00:10
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 20:01:05.765309
+
+END: downloadPrices - 1: 2017-12-21 20:05:08.028221
+
+DEF: removeExpiredPotentialss: 2017-12-21 20:05:08.028327
+
+DEF: calcADX: 2017-12-21 20:05:08.070676
+
+DEF: checkPotentials: 2017-12-21 20:05:12.551735
+
+DEF: checkBuyTrigger: 2017-12-21 20:05:12.841255
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 20:05:13.250105
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 20:15:07.750614
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 20:15:59.525450
+
+From Date: 2017-12-21 08:15:07
+To Date: 2017-12-21 20:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 20:16:00.298836
+
+END: downloadPrices - 1: 2017-12-21 20:17:38.943153
+
+DEF: removeExpiredPotentialss: 2017-12-21 20:17:38.943257
+
+DEF: calcADX: 2017-12-21 20:17:39.105727
+
+DEF: checkPotentials: 2017-12-21 20:17:43.290511
+
+DEF: checkBuyTrigger: 2017-12-21 20:17:43.657712
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 20:17:44.029870
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 20:30:07.113541
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 20:30:13.179039
+
+From Date: 2017-12-21 08:30:07
+To Date: 2017-12-21 20:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 20:30:13.483699
+
+END: downloadPrices - 1: 2017-12-21 20:31:47.343898
+
+DEF: removeExpiredPotentialss: 2017-12-21 20:31:47.343999
+
+DEF: calcADX: 2017-12-21 20:31:47.385476
+
+DEF: checkPotentials: 2017-12-21 20:31:51.666571
+
+DEF: checkBuyTrigger: 2017-12-21 20:31:51.993871
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 20:31:52.447468
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 20:45:07.593999
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 20:45:58.821617
+
+From Date: 2017-12-21 08:45:07
+To Date: 2017-12-21 20:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 20:45:59.604047
+
+END: downloadPrices - 1: 2017-12-21 20:47:45.730268
+
+DEF: removeExpiredPotentialss: 2017-12-21 20:47:45.730360
+
+DEF: calcADX: 2017-12-21 20:47:45.772192
+
+DEF: checkPotentials: 2017-12-21 20:47:50.039652
+
+DEF: checkBuyTrigger: 2017-12-21 20:47:50.287574
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 20:47:50.700733
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 21:00:10.967981
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 21:01:17.388231
+
+From Date: 2017-12-21 09:00:10
+To Date: 2017-12-21 21:00:10
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 21:01:18.208013
+
+END: downloadPrices - 1: 2017-12-21 21:02:59.861092
+
+DEF: removeExpiredPotentialss: 2017-12-21 21:02:59.861175
+
+
+USDT_BTC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-21 21:03:00.066565
+
+DEF: checkPotentials: 2017-12-21 21:03:04.772474
+
+checkForRise: We've 3 in a rise for BTC_PPC
+checkForRise: Rise Start Time: 1513884600
+checkForRise: Low price: 0.0003315
+checkForRise: High price:0.00033778
+checkForRiseSet trigger for BTC_PPC at value 0.00033464 at time 1513890000
+DEF: checkBuyTrigger: 2017-12-21 21:03:05.301749
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 21:03:05.750302
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 21:15:07.278003
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 21:15:58.652209
+
+From Date: 2017-12-21 09:15:07
+To Date: 2017-12-21 21:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 21:16:00.056284
+
+END: downloadPrices - 1: 2017-12-21 21:17:32.843705
+
+DEF: removeExpiredPotentialss: 2017-12-21 21:17:32.843798
+
+
+BTC_LBC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-21 21:17:33.010223
+
+DEF: checkPotentials: 2017-12-21 21:17:37.574510
+
+DEF: CheckForDip: 2017-12-21 21:17:37.903646
+
+DEF: checkBuyTrigger: 2017-12-21 21:17:37.944044
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 21:17:38.271813
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 21:30:07.880586
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 21:30:58.544257
+
+From Date: 2017-12-21 09:30:07
+To Date: 2017-12-21 21:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 21:30:59.235764
+
+END: downloadPrices - 1: 2017-12-21 21:32:35.194620
+
+DEF: removeExpiredPotentialss: 2017-12-21 21:32:35.194725
+
+
+USDT_ZEC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-21 21:32:35.324058
+
+DEF: checkPotentials: 2017-12-21 21:32:39.830145
+
+DEF: CheckForDip: 2017-12-21 21:32:40.076196
+
+DEF: CheckForDip: 2017-12-21 21:32:40.280417
+
+DEF: checkBuyTrigger: 2017-12-21 21:32:40.280460
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 21:32:40.652292
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 21:45:07.418056
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 21:45:57.713309
+
+From Date: 2017-12-21 09:45:07
+To Date: 2017-12-21 21:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 21:45:58.334110
+
+END: downloadPrices - 1: 2017-12-21 21:47:43.566220
+
+DEF: removeExpiredPotentialss: 2017-12-21 21:47:43.566322
+
+DEF: calcADX: 2017-12-21 21:47:43.650525
+
+DEF: checkPotentials: 2017-12-21 21:47:47.915500
+
+DEF: CheckForDip: 2017-12-21 21:47:48.039918
+
+DEF: CheckForDip: 2017-12-21 21:47:48.285285
+
+DEF: checkBuyTrigger: 2017-12-21 21:47:48.285323
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 21:47:48.735116
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 22:00:07.125749
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 22:00:57.020631
+
+From Date: 2017-12-21 10:00:07
+To Date: 2017-12-21 22:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 22:00:58.499528
+
+END: downloadPrices - 1: 2017-12-21 22:02:37.211546
+
+DEF: removeExpiredPotentialss: 2017-12-21 22:02:37.211638
+
+DEF: calcADX: 2017-12-21 22:02:37.252814
+
+DEF: checkPotentials: 2017-12-21 22:02:41.444945
+
+DEF: CheckForDip: 2017-12-21 22:02:41.653374
+
+DEF: CheckForDip: 2017-12-21 22:02:41.815923
+
+DEF: checkBuyTrigger: 2017-12-21 22:02:41.816013
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 22:02:42.308051
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 22:15:09.148511
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 22:15:58.929161
+
+From Date: 2017-12-21 10:15:09
+To Date: 2017-12-21 22:15:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 22:15:59.625768
+
+END: downloadPrices - 1: 2017-12-21 22:17:37.710883
+
+DEF: removeExpiredPotentialss: 2017-12-21 22:17:37.711008
+
+
+BTC_PPC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-21 22:17:37.839849
+
+DEF: checkPotentials: 2017-12-21 22:17:42.315507
+
+checkForRise: We've 3 in a rise for BTC_XPM
+checkForRise: Rise Start Time: 1513889100
+checkForRise: Low price: 0.00002905
+checkForRise: High price:0.00003003
+checkForRiseSet trigger for BTC_XPM at value 0.00002954 at time 1513893600
+DEF: CheckForDip: 2017-12-21 22:17:42.685932
+
+DEF: CheckForDip: 2017-12-21 22:17:43.220565
+
+DEF: CheckForDip: 2017-12-21 22:17:43.427096
+
+DEF: checkBuyTrigger: 2017-12-21 22:17:43.427135
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 22:17:44.042419
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 22:30:07.666616
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 22:30:57.822879
+
+From Date: 2017-12-21 10:30:07
+To Date: 2017-12-21 22:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 22:30:59.182934
+
+END: downloadPrices - 1: 2017-12-21 22:32:37.035345
+
+DEF: removeExpiredPotentialss: 2017-12-21 22:32:37.035434
+
+DEF: calcADX: 2017-12-21 22:32:37.077286
+
+DEF: checkPotentials: 2017-12-21 22:32:41.435609
+
+DEF: CheckForDip: 2017-12-21 22:32:41.684654
+
+DEF: CheckForDip: 2017-12-21 22:32:41.725954
+
+DEF: checkBuyTrigger: 2017-12-21 22:32:41.807500
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 22:32:42.221841
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 22:45:07.249359
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 22:45:57.860012
+
+From Date: 2017-12-21 10:45:07
+To Date: 2017-12-21 22:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 22:45:58.717745
+
+END: downloadPrices - 1: 2017-12-21 22:47:35.287162
+
+DEF: removeExpiredPotentialss: 2017-12-21 22:47:35.287288
+
+
+BTC_XBC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-21 22:47:35.414847
+
+DEF: checkPotentials: 2017-12-21 22:47:39.833723
+
+DEF: CheckForDip: 2017-12-21 22:47:39.917945
+
+DEF: CheckForDip: 2017-12-21 22:47:40.040997
+
+DEF: checkBuyTrigger: 2017-12-21 22:47:40.123445
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 22:47:40.620281
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 23:00:07.458553
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 23:00:59.808577
+
+From Date: 2017-12-21 11:00:07
+To Date: 2017-12-21 23:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 23:01:00.586801
+
+END: downloadPrices - 1: 2017-12-21 23:02:33.950340
+
+DEF: removeExpiredPotentialss: 2017-12-21 23:02:33.950450
+
+DEF: calcADX: 2017-12-21 23:02:33.993378
+
+DEF: checkPotentials: 2017-12-21 23:02:38.217423
+
+DEF: CheckForDip: 2017-12-21 23:02:38.265126
+
+DEF: CheckForDip: 2017-12-21 23:02:38.345926
+
+DEF: checkBuyTrigger: 2017-12-21 23:02:38.465976
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 23:02:38.914813
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 23:15:08.619420
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 23:15:58.353175
+
+From Date: 2017-12-21 11:15:08
+To Date: 2017-12-21 23:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 23:15:59.088623
+
+END: downloadPrices - 1: 2017-12-21 23:17:38.070706
+
+DEF: removeExpiredPotentialss: 2017-12-21 23:17:38.070821
+
+
+BTC_PASC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-21 23:17:38.199174
+
+DEF: checkPotentials: 2017-12-21 23:17:42.225180
+
+DEF: CheckForDip: 2017-12-21 23:17:42.392317
+
+DEF: checkBuyTrigger: 2017-12-21 23:17:42.593672
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 23:17:43.091038
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 23:30:07.762749
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 23:30:59.570977
+
+From Date: 2017-12-21 11:30:07
+To Date: 2017-12-21 23:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 23:31:00.392982
+
+END: downloadPrices - 1: 2017-12-21 23:32:43.647731
+
+DEF: removeExpiredPotentialss: 2017-12-21 23:32:43.647820
+
+
+BTC_XPM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-21 23:32:43.734334
+
+DEF: checkPotentials: 2017-12-21 23:32:48.407415
+
+DEF: checkBuyTrigger: 2017-12-21 23:32:48.570992
+
+Not enough BTC, need 0.4999926 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 23:32:49.064724
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-21 23:45:07.494219
+===============================================================
+
+DEF: downloadPrices: 2017-12-21 23:45:56.618066
+
+From Date: 2017-12-21 11:45:07
+To Date: 2017-12-21 23:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-21 23:45:58.097311
+
+END: downloadPrices - 1: 2017-12-21 23:47:41.486014
+
+DEF: removeExpiredPotentialss: 2017-12-21 23:47:41.486105
+
+
+BTC_PINK has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-21 23:47:41.609656
+
+DEF: checkPotentials: 2017-12-21 23:47:46.043370
+
+DEF: checkBuyTrigger: 2017-12-21 23:47:46.370802
+
+Not enough BTC, need 0.49998636 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-21 23:47:46.942400
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 00:00:09.315113
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 00:00:17.124327
+
+From Date: 2017-12-21 12:00:09
+To Date: 2017-12-22 00:00:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 00:00:17.508712
+
+END: downloadPrices - 1: 2017-12-22 00:01:49.779576
+
+DEF: removeExpiredPotentialss: 2017-12-22 00:01:49.779664
+
+DEF: calcADX: 2017-12-22 00:01:49.860686
+
+DEF: checkPotentials: 2017-12-22 00:01:54.332536
+
+DEF: CheckForDip: 2017-12-22 00:01:54.539643
+
+DEF: checkBuyTrigger: 2017-12-22 00:01:54.539674
+
+Not enough BTC, need 0.500002 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 00:01:54.987297
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 00:15:07.521330
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 00:15:58.524687
+
+From Date: 2017-12-21 12:15:07
+To Date: 2017-12-22 00:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 00:15:59.261408
+
+END: downloadPrices - 1: 2017-12-22 00:17:45.831641
+
+DEF: removeExpiredPotentialss: 2017-12-22 00:17:45.831728
+
+
+BTC_FLO has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 00:17:46.039209
+
+DEF: checkPotentials: 2017-12-22 00:17:50.971292
+
+DEF: CheckForDip: 2017-12-22 00:17:51.137666
+
+DEF: CheckForDip: 2017-12-22 00:17:51.219946
+
+DEF: CheckForDip: 2017-12-22 00:17:51.300432
+
+DEF: checkBuyTrigger: 2017-12-22 00:17:51.300465
+
+Not enough BTC, need 0.4999904 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 00:17:51.795897
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 00:30:08.549785
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 00:30:58.657127
+
+From Date: 2017-12-21 12:30:08
+To Date: 2017-12-22 00:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 00:31:00.133508
+
+END: downloadPrices - 1: 2017-12-22 00:32:29.838442
+
+DEF: removeExpiredPotentialss: 2017-12-22 00:32:29.838536
+
+DEF: calcADX: 2017-12-22 00:32:29.879985
+
+DEF: checkPotentials: 2017-12-22 00:32:34.555155
+
+DEF: CheckForDip: 2017-12-22 00:32:34.721880
+
+DEF: CheckForDip: 2017-12-22 00:32:34.804148
+
+DEF: CheckForDip: 2017-12-22 00:32:34.886401
+
+DEF: CheckForDip: 2017-12-22 00:32:35.009358
+
+DEF: checkBuyTrigger: 2017-12-22 00:32:35.009398
+
+Not enough BTC, need 0.500002 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 00:32:35.463385
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 00:45:08.576453
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 00:45:58.544999
+
+From Date: 2017-12-21 12:45:08
+To Date: 2017-12-22 00:45:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 00:45:59.160363
+
+END: downloadPrices - 1: 2017-12-22 00:47:45.279423
+
+DEF: removeExpiredPotentialss: 2017-12-22 00:47:45.279517
+
+
+BTC_AMP has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 00:47:45.403541
+
+DEF: checkPotentials: 2017-12-22 00:47:50.051213
+
+DEF: CheckForDip: 2017-12-22 00:47:50.174307
+
+DEF: CheckForDip: 2017-12-22 00:47:50.215177
+
+DEF: CheckForDip: 2017-12-22 00:47:50.259963
+
+DEF: CheckForDip: 2017-12-22 00:47:50.296348
+
+DEF: checkBuyTrigger: 2017-12-22 00:47:50.296377
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 00:47:50.669798
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 01:00:07.348276
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 01:00:58.929541
+
+From Date: 2017-12-21 13:00:07
+To Date: 2017-12-22 01:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 01:00:59.706467
+
+END: downloadPrices - 1: 2017-12-22 01:02:33.827272
+
+DEF: removeExpiredPotentialss: 2017-12-22 01:02:33.827364
+
+DEF: calcADX: 2017-12-22 01:02:33.868344
+
+DEF: checkPotentials: 2017-12-22 01:02:38.177679
+
+DEF: CheckForDip: 2017-12-22 01:02:38.385225
+
+DEF: CheckForDip: 2017-12-22 01:02:38.467583
+
+DEF: CheckForDip: 2017-12-22 01:02:38.590642
+
+DEF: CheckForDip: 2017-12-22 01:02:38.754697
+
+DEF: checkBuyTrigger: 2017-12-22 01:02:38.754785
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 01:02:39.207932
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 01:15:08.346007
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 01:15:58.929514
+
+From Date: 2017-12-21 13:15:08
+To Date: 2017-12-22 01:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 01:15:59.745127
+
+END: downloadPrices - 1: 2017-12-22 01:17:25.382552
+
+DEF: removeExpiredPotentialss: 2017-12-22 01:17:25.382641
+
+DEF: calcADX: 2017-12-22 01:17:25.424280
+
+DEF: checkPotentials: 2017-12-22 01:17:29.890371
+
+DEF: CheckForDip: 2017-12-22 01:17:30.056814
+
+DEF: CheckForDip: 2017-12-22 01:17:30.139173
+
+DEF: CheckForDip: 2017-12-22 01:17:30.384484
+
+DEF: checkBuyTrigger: 2017-12-22 01:17:30.384579
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 01:17:30.917375
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 01:30:08.445307
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 01:31:00.448903
+
+From Date: 2017-12-21 13:30:08
+To Date: 2017-12-22 01:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 01:31:01.227505
+
+END: downloadPrices - 1: 2017-12-22 01:32:40.594370
+
+DEF: removeExpiredPotentialss: 2017-12-22 01:32:40.594459
+
+
+BTC_PASC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 01:32:40.721415
+
+DEF: checkPotentials: 2017-12-22 01:32:44.876214
+
+DEF: CheckForDip: 2017-12-22 01:32:45.038856
+
+DEF: checkBuyTrigger: 2017-12-22 01:32:45.038972
+
+Not enough BTC, need 0.49997276 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 01:32:45.571789
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 01:45:07.511674
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 01:45:14.671425
+
+From Date: 2017-12-21 13:45:07
+To Date: 2017-12-22 01:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 01:45:15.664573
+
+END: downloadPrices - 1: 2017-12-22 01:46:57.222898
+
+DEF: removeExpiredPotentialss: 2017-12-22 01:46:57.222992
+
+DEF: calcADX: 2017-12-22 01:46:57.264667
+
+DEF: checkPotentials: 2017-12-22 01:47:02.307508
+
+DEF: CheckForDip: 2017-12-22 01:47:02.468673
+
+DEF: CheckForDip: 2017-12-22 01:47:02.509817
+
+DEF: CheckForDip: 2017-12-22 01:47:02.550347
+
+DEF: CheckForDip: 2017-12-22 01:47:02.675997
+
+DEF: checkBuyTrigger: 2017-12-22 01:47:02.676031
+
+Not enough BTC, need 0.4999968 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 01:47:03.126599
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 02:00:07.012633
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 02:00:58.174912
+
+From Date: 2017-12-21 14:00:07
+To Date: 2017-12-22 02:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 02:00:59.773932
+
+END: downloadPrices - 1: 2017-12-22 02:02:32.350918
+
+DEF: removeExpiredPotentialss: 2017-12-22 02:02:32.351016
+
+DEF: calcADX: 2017-12-22 02:02:32.431363
+
+DEF: checkPotentials: 2017-12-22 02:02:36.952765
+
+DEF: CheckForDip: 2017-12-22 02:02:37.115756
+
+DEF: CheckForDip: 2017-12-22 02:02:37.198262
+
+DEF: CheckForDip: 2017-12-22 02:02:37.239035
+
+DEF: CheckForDip: 2017-12-22 02:02:37.485047
+
+DEF: checkBuyTrigger: 2017-12-22 02:02:37.608669
+
+Not enough BTC, need 0.4999746 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 02:02:38.100576
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 02:15:08.843766
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 02:15:58.708663
+
+From Date: 2017-12-21 14:15:08
+To Date: 2017-12-22 02:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 02:15:59.448406
+
+END: downloadPrices - 1: 2017-12-22 02:17:38.986360
+
+DEF: removeExpiredPotentialss: 2017-12-22 02:17:38.986461
+
+
+BTC_STR has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 02:17:39.110473
+
+DEF: checkPotentials: 2017-12-22 02:17:44.281677
+
+DEF: CheckForDip: 2017-12-22 02:17:44.444158
+
+DEF: CheckForDip: 2017-12-22 02:17:44.526401
+
+DEF: CheckForDip: 2017-12-22 02:17:44.812976
+
+DEF: CheckForDip: 2017-12-22 02:17:45.098518
+
+DEF: checkBuyTrigger: 2017-12-22 02:17:45.143354
+
+Not enough BTC, need 0.49998785 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 02:17:45.754957
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 02:30:09.103180
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 02:31:00.241861
+
+From Date: 2017-12-21 14:30:09
+To Date: 2017-12-22 02:30:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 02:31:00.936157
+
+END: downloadPrices - 1: 2017-12-22 02:32:38.826874
+
+DEF: removeExpiredPotentialss: 2017-12-22 02:32:38.826958
+
+DEF: calcADX: 2017-12-22 02:32:38.907200
+
+DEF: checkPotentials: 2017-12-22 02:32:43.597201
+
+DEF: CheckForDip: 2017-12-22 02:32:43.720520
+
+DEF: CheckForDip: 2017-12-22 02:32:43.761176
+
+checkForRise: We've 3 in a rise for USDT_BCH
+checkForRise: Rise Start Time: 1513907100
+checkForRise: Low price: 2660.11503292
+checkForRise: High price:2789.10362833
+checkForRiseSet trigger for USDT_BCH at value 2724.609330625 at time 1513909800
+DEF: CheckForDip: 2017-12-22 02:32:44.131308
+
+DEF: CheckForDip: 2017-12-22 02:32:44.500481
+
+DEF: checkBuyTrigger: 2017-12-22 02:32:44.707307
+
+Not enough BTC, need 0.49999312 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 02:32:45.157176
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 02:45:06.861478
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 02:45:56.848117
+
+From Date: 2017-12-21 14:45:06
+To Date: 2017-12-22 02:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 02:45:57.709946
+
+END: downloadPrices - 1: 2017-12-22 02:47:45.484837
+
+DEF: removeExpiredPotentialss: 2017-12-22 02:47:45.484936
+
+DEF: calcADX: 2017-12-22 02:47:45.528018
+
+DEF: checkPotentials: 2017-12-22 02:47:50.338444
+
+DEF: CheckForDip: 2017-12-22 02:47:50.500963
+
+DEF: CheckForDip: 2017-12-22 02:47:50.667600
+
+DEF: CheckForDip: 2017-12-22 02:47:50.748914
+
+DEF: CheckForDip: 2017-12-22 02:47:51.159471
+
+DEF: CheckForDip: 2017-12-22 02:47:51.486972
+
+DEF: checkBuyTrigger: 2017-12-22 02:47:51.487013
+
+Not enough BTC, need 0.50000328 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 02:47:52.021209
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 03:00:07.840405
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 03:00:59.282271
+
+From Date: 2017-12-21 15:00:07
+To Date: 2017-12-22 03:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 03:01:00.018026
+
+END: downloadPrices - 1: 2017-12-22 03:02:29.398755
+
+DEF: removeExpiredPotentialss: 2017-12-22 03:02:29.398840
+
+
+BTC_VTC has been active 11 periods...DELETING
+
+
+BTC_XEM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 03:02:29.603937
+
+DEF: checkPotentials: 2017-12-22 03:02:34.785187
+
+DEF: CheckForDip: 2017-12-22 03:02:34.952226
+
+DEF: CheckForDip: 2017-12-22 03:02:35.200352
+
+DEF: CheckForDip: 2017-12-22 03:02:35.487919
+
+DEF: CheckForDip: 2017-12-22 03:02:35.691859
+
+DEF: CheckForDip: 2017-12-22 03:02:36.064951
+
+DEF: checkBuyTrigger: 2017-12-22 03:02:36.064996
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 03:02:36.555236
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 03:15:07.860700
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 03:15:58.009631
+
+From Date: 2017-12-21 15:15:07
+To Date: 2017-12-22 03:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 03:15:58.671702
+
+END: downloadPrices - 1: 2017-12-22 03:17:29.704036
+
+DEF: removeExpiredPotentialss: 2017-12-22 03:17:29.704124
+
+DEF: calcADX: 2017-12-22 03:17:29.785210
+
+DEF: checkPotentials: 2017-12-22 03:17:34.966216
+
+DEF: CheckForDip: 2017-12-22 03:17:35.170376
+
+DEF: CheckForDip: 2017-12-22 03:17:35.582147
+
+DEF: CheckForDip: 2017-12-22 03:17:35.951699
+
+DEF: CheckForDip: 2017-12-22 03:17:36.197857
+
+DEF: checkBuyTrigger: 2017-12-22 03:17:36.526435
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 03:17:37.135352
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 03:30:07.256575
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 03:30:58.870331
+
+From Date: 2017-12-21 15:30:07
+To Date: 2017-12-22 03:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 03:30:59.610374
+
+END: downloadPrices - 1: 2017-12-22 03:32:43.201095
+
+DEF: removeExpiredPotentialss: 2017-12-22 03:32:43.201187
+
+
+USDT_XMR has been active 7 periods...DELETING
+
+
+BTC_NMC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 03:32:43.410305
+
+DEF: checkPotentials: 2017-12-22 03:32:49.152318
+
+DEF: CheckForDip: 2017-12-22 03:32:49.813024
+
+DEF: CheckForDip: 2017-12-22 03:32:50.226434
+
+DEF: checkBuyTrigger: 2017-12-22 03:32:50.840611
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 03:32:51.377312
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 03:45:06.933772
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 03:45:57.973661
+
+From Date: 2017-12-21 15:45:06
+To Date: 2017-12-22 03:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 03:45:58.669474
+
+END: downloadPrices - 1: 2017-12-22 03:47:39.079765
+
+DEF: removeExpiredPotentialss: 2017-12-22 03:47:39.079860
+
+
+USDT_REP has been active 7 periods...DELETING
+
+
+BTC_CVC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 03:47:39.243115
+
+DEF: checkPotentials: 2017-12-22 03:47:44.502323
+
+DEF: CheckForDip: 2017-12-22 03:47:45.241046
+
+DEF: CheckForDip: 2017-12-22 03:47:45.652209
+
+DEF: checkBuyTrigger: 2017-12-22 03:47:46.637355
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 03:47:47.416369
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 04:00:06.802886
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 04:00:56.836884
+
+From Date: 2017-12-21 16:00:06
+To Date: 2017-12-22 04:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 04:00:57.694056
+
+END: downloadPrices - 1: 2017-12-22 04:02:42.029993
+
+DEF: removeExpiredPotentialss: 2017-12-22 04:02:42.030112
+
+
+USDT_ETH has been active 7 periods...DELETING
+
+
+USDT_NXT has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 04:02:42.240088
+
+DEF: checkPotentials: 2017-12-22 04:02:47.931771
+
+DEF: checkBuyTrigger: 2017-12-22 04:02:49.740516
+
+Not enough BTC, need 0.50020488 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 04:02:50.475919
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 04:15:07.191070
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 04:15:58.320942
+
+From Date: 2017-12-21 16:15:07
+To Date: 2017-12-22 04:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 04:15:59.055891
+
+END: downloadPrices - 1: 2017-12-22 04:17:36.982767
+
+DEF: removeExpiredPotentialss: 2017-12-22 04:17:36.982851
+
+
+BTC_PPC has been active 7 periods...DELETING
+
+
+BTC_EXP has been active 7 periods...DELETING
+
+
+BTC_PASC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 04:17:37.311235
+
+DEF: checkPotentials: 2017-12-22 04:17:41.874175
+
+DEF: checkBuyTrigger: 2017-12-22 04:17:43.805864
+
+Not enough BTC, need 0.49997768 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 04:17:44.425988
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 04:30:07.142775
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 04:31:14.698826
+
+From Date: 2017-12-21 16:30:07
+To Date: 2017-12-22 04:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 04:31:15.683312
+
+END: downloadPrices - 1: 2017-12-22 04:33:05.660842
+
+DEF: removeExpiredPotentialss: 2017-12-22 04:33:05.660933
+
+
+USDT_BCH has been active 11 periods...DELETING
+
+
+BTC_MAID has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 04:33:06.026481
+
+DEF: checkPotentials: 2017-12-22 04:33:12.334390
+
+checkForRise: We've 3 in a rise for BTC_GNT
+checkForRise: Rise Start Time: 1513911600
+checkForRise: Low price: 0.00003414
+checkForRise: High price:0.00003672
+checkForRiseSet trigger for BTC_GNT at value 0.00003543 at time 1513917000
+checkForRise: We've 3 in a rise for USDT_ZEC
+checkForRise: Rise Start Time: 1513912500
+checkForRise: Low price: 521
+checkForRise: High price:558.00000001
+checkForRiseSet trigger for USDT_ZEC at value 539.500000005 at time 1513916100
+checkForRise: We've 3 in a rise for BTC_LBC
+checkForRise: Rise Start Time: 1513912500
+checkForRise: Low price: 0.00003655
+checkForRise: High price:0.00003917
+checkForRiseSet trigger for BTC_LBC at value 0.00003786 at time 1513916100
+checkForRise: We've 3 in a rise for USDT_LTC
+checkForRise: Rise Start Time: 1513912500
+checkForRise: Low price: 251.73347907
+checkForRise: High price:278.3342462
+checkForRiseSet trigger for USDT_LTC at value 265.033862635 at time 1513916100
+checkForRise: We've 3 in a rise for BTC_GRC
+checkForRise: Rise Start Time: 1513913400
+checkForRise: Low price: 0.0000057
+checkForRise: High price:0.00000585
+checkForRiseSet trigger for BTC_GRC at value 0.000005775 at time 1513917000
+checkForRise: We've 3 in a rise for BTC_ZEC
+checkForRise: Rise Start Time: 1513913400
+checkForRise: Low price: 0.03752592
+checkForRise: High price:0.03893153
+checkForRiseSet trigger for BTC_ZEC at value 0.038228725 at time 1513917000
+checkForRise: We've 3 in a rise for BTC_SBD
+checkForRise: Rise Start Time: 1513913400
+checkForRise: Low price: 0.00072937
+checkForRise: High price:0.00076997
+checkForRiseSet trigger for BTC_SBD at value 0.00074967 at time 1513917000
+DEF: checkBuyTrigger: 2017-12-22 04:33:16.190827
+
+Not enough BTC, need 0.49999992 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 04:33:16.969453
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 04:45:07.798841
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 04:45:58.509532
+
+From Date: 2017-12-21 16:45:07
+To Date: 2017-12-22 04:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 04:45:59.249191
+
+END: downloadPrices - 1: 2017-12-22 04:47:30.600583
+
+DEF: removeExpiredPotentialss: 2017-12-22 04:47:30.600677
+
+
+BTC_BLK has been active 7 periods...DELETING
+
+
+BTC_DOGE has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 04:47:30.809716
+
+DEF: checkPotentials: 2017-12-22 04:47:35.193968
+
+DEF: checkBuyTrigger: 2017-12-22 04:47:36.593471
+
+Not enough BTC, need 0.5000258 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 04:47:37.248266
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 05:00:06.647437
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 05:00:57.049330
+
+From Date: 2017-12-21 17:00:06
+To Date: 2017-12-22 05:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 05:00:58.686059
+
+END: downloadPrices - 1: 2017-12-22 05:02:26.751736
+
+DEF: removeExpiredPotentialss: 2017-12-22 05:02:26.751839
+
+
+USDT_BTC has been active 7 periods...DELETING
+
+
+BTC_BTCD has been active 11 periods...DELETING
+
+
+BTC_BTM has been active 7 periods...DELETING
+
+
+BTC_OMNI has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 05:02:27.168182
+
+DEF: checkPotentials: 2017-12-22 05:02:31.970701
+
+checkForRise: We've 3 in a rise for BTC_VRC
+checkForRise: Rise Start Time: 1513914300
+checkForRise: Low price: 0.00005672
+checkForRise: High price:0.0000582
+checkForRiseSet trigger for BTC_VRC at value 0.00005746 at time 1513918800
+checkForRise: We've 3 in a rise for BTC_EMC2
+checkForRise: Rise Start Time: 1513915200
+checkForRise: Low price: 0.00007395
+checkForRise: High price:0.000078
+checkForRiseSet trigger for BTC_EMC2 at value 0.000075975 at time 1513917900
+DEF: checkBuyTrigger: 2017-12-22 05:02:33.161368
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 05:02:33.611909
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 05:15:07.137178
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 05:15:57.913606
+
+From Date: 2017-12-21 17:15:07
+To Date: 2017-12-22 05:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 05:15:58.570031
+
+END: downloadPrices - 1: 2017-12-22 05:17:35.315121
+
+DEF: removeExpiredPotentialss: 2017-12-22 05:17:35.315211
+
+
+BTC_CLAM has been active 11 periods...DELETING
+
+
+BTC_STORJ has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 05:17:35.523778
+
+DEF: checkPotentials: 2017-12-22 05:17:39.878352
+
+checkForRise: We've 3 in a rise for BTC_BURST
+checkForRise: Rise Start Time: 1513914300
+checkForRise: Low price: 0.0000022
+checkForRise: High price:0.00000243
+checkForRiseSet trigger for BTC_BURST at value 0.000002315 at time 1513918800
+checkForRise: We've 3 in a rise for BTC_PINK
+checkForRise: Rise Start Time: 1513915200
+checkForRise: Low price: 0.00000296
+checkForRise: High price:0.00000342
+checkForRiseSet trigger for BTC_PINK at value 0.00000319 at time 1513918800
+DEF: checkBuyTrigger: 2017-12-22 05:17:40.949250
+
+Not enough BTC, need 0.5000112 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 05:17:41.399689
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 05:30:06.931723
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 05:30:57.340709
+
+From Date: 2017-12-21 17:30:06
+To Date: 2017-12-22 05:30:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 05:30:58.083207
+
+END: downloadPrices - 1: 2017-12-22 05:32:32.085529
+
+DEF: removeExpiredPotentialss: 2017-12-22 05:32:32.085618
+
+
+BTC_DCR has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 05:32:32.289082
+
+DEF: checkPotentials: 2017-12-22 05:32:36.709669
+
+DEF: checkBuyTrigger: 2017-12-22 05:32:37.527114
+
+Not enough BTC, need 0.49997175 only have 0.44789561
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 05:32:37.975686
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 05:45:07.949686
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 05:45:58.071092
+
+From Date: 2017-12-21 17:45:07
+To Date: 2017-12-22 05:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 05:45:58.976230
+
+END: downloadPrices - 1: 2017-12-22 05:47:47.100842
+
+DEF: removeExpiredPotentialss: 2017-12-22 05:47:47.100935
+
+
+BTC_XEM has been active 11 periods...DELETING
+
+
+BTC_SYS has been active 7 periods...DELETING
+
+
+BTC_BCH has been active 7 periods...DELETING
+
+
+BTC_GNO has been active 7 periods...DELETING
+
+
+BTC_RADS has been active 7 periods...DELETING
+
+
+BTC_GAS has been active 7 periods...DELETING
+
+
+BTC_GNT has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 05:47:47.716418
+
+DEF: checkPotentials: 2017-12-22 05:47:52.725923
+
+DEF: checkBuyTrigger: 2017-12-22 05:47:53.422883
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 05:47:53.835631
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 06:00:07.948858
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 06:00:58.439380
+
+From Date: 2017-12-21 18:00:07
+To Date: 2017-12-22 06:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 06:00:59.259419
+
+END: downloadPrices - 1: 2017-12-22 06:02:31.395966
+
+DEF: removeExpiredPotentialss: 2017-12-22 06:02:31.396054
+
+
+USDT_ZEC has been active 11 periods...DELETING
+
+
+BTC_LBC has been active 11 periods...DELETING
+
+
+USDT_LTC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 06:02:31.718874
+
+DEF: checkPotentials: 2017-12-22 06:02:36.450789
+
+DEF: checkBuyTrigger: 2017-12-22 06:02:37.107687
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 06:02:37.475009
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 06:15:07.013480
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 06:15:56.402291
+
+From Date: 2017-12-21 18:15:07
+To Date: 2017-12-22 06:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 06:15:57.303302
+
+END: downloadPrices - 1: 2017-12-22 06:17:24.154745
+
+DEF: removeExpiredPotentialss: 2017-12-22 06:17:24.154833
+
+
+BTC_BCN has been active 7 periods...DELETING
+
+
+BTC_GRC has been active 11 periods...DELETING
+
+
+BTC_ZEC has been active 11 periods...DELETING
+
+
+BTC_SBD has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 06:17:24.606213
+
+DEF: checkPotentials: 2017-12-22 06:17:29.377929
+
+DEF: checkBuyTrigger: 2017-12-22 06:17:30.039021
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+=======================================
+End Time: 2017-12-22 06:17:30.327109
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 06:30:07.152135
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 06:30:57.024779
+
+From Date: 2017-12-21 18:30:07
+To Date: 2017-12-22 06:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 06:30:57.726062
+
+END: downloadPrices - 1: 2017-12-22 06:32:28.232160
+
+DEF: removeExpiredPotentialss: 2017-12-22 06:32:28.232266
+
+
+BTC_VRC has been active 11 periods...DELETING
+
+
+BTC_BURST has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 06:32:28.479547
+
+DEF: checkPotentials: 2017-12-22 06:32:33.576661
+
+DEF: checkBuyTrigger: 2017-12-22 06:32:34.730146
+
+DEF: checkStopLimit
+
+
+Amount from ACTIVES table is : 7.0 and actual from account is: 0.0 so setting amount to totalCoin
+BTC_DASH...We've hit our BUY STOP of 0.08041198 as it's below our stop of 0.092095898969 - exiting out, profit = 0.0, startPrice= 0.07147428
+
+*************************
+Sent SMS: BUY STOP: BTC_DASH, profit is 0.0
+*************************
+DEF: sellPair
+
+Selling 0.0 of BTC_DASH at 0.08041198
+{u'error': u'Amount must be at least 0.000001.'}
+Order placed...
+[{u'orderNumber': u'142504172205', u'margin': 0, u'amount': u'7.00000000', u'rate': u'0.07147428', u'date': u'2017-12-20 03:32:41', u'total': u'0.50031996', u'type': u'buy', u'startingAmount': u'7.00000000'}]
+=======================================
+End Time: 2017-12-22 06:32:37.267143
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 06:45:06.971576
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 06:45:56.821559
+
+From Date: 2017-12-21 18:45:06
+To Date: 2017-12-22 06:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 06:45:58.220702
+
+END: downloadPrices - 1: 2017-12-22 06:47:22.591986
+
+DEF: removeExpiredPotentialss: 2017-12-22 06:47:22.592083
+
+
+BTC_DOGE has been active 7 periods...DELETING
+
+
+BTC_OMNI has been active 7 periods...DELETING
+
+
+BTC_EMC2 has been active 11 periods...DELETING
+
+
+BTC_PINK has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 06:47:22.962947
+
+DEF: checkPotentials: 2017-12-22 06:47:28.711171
+
+DEF: checkBuyTrigger: 2017-12-22 06:47:30.023766
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 06:47:30.431416
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 07:00:06.942603
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 07:00:58.770405
+
+From Date: 2017-12-21 19:00:06
+To Date: 2017-12-22 07:00:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 07:00:59.591304
+
+END: downloadPrices - 1: 2017-12-22 07:02:45.949574
+
+DEF: removeExpiredPotentialss: 2017-12-22 07:02:45.949663
+
+DEF: calcADX: 2017-12-22 07:02:46.074914
+
+DEF: checkPotentials: 2017-12-22 07:02:52.227683
+
+DEF: checkBuyTrigger: 2017-12-22 07:02:54.604116
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 07:02:54.852402
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 07:15:08.161051
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 07:15:57.500836
+
+From Date: 2017-12-21 19:15:08
+To Date: 2017-12-22 07:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 07:15:58.238494
+
+END: downloadPrices - 1: 2017-12-22 07:17:36.814027
+
+DEF: removeExpiredPotentialss: 2017-12-22 07:17:36.814127
+
+
+BTC_MAID has been active 7 periods...DELETING
+
+
+BTC_XVC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 07:17:36.979844
+
+DEF: checkPotentials: 2017-12-22 07:17:43.893249
+
+DEF: checkBuyTrigger: 2017-12-22 07:17:46.968465
+
+DEF: checkStopLimit
+
+
+BTC_LTC...We've hit our BUY STOP of 0.01780003 as it's below our stop of 0.0201294879975 - exiting out, profit = 0.0066934, startPrice= 0.01756098
+
+*************************
+Sent SMS: BUY STOP: BTC_LTC, profit is 0.0066934
+*************************
+DEF: sellPair
+
+Selling 28.0 of BTC_LTC at 0.01780003
+{u'orderNumber': u'136511024378', u'resultingTrades': []}
+Order placed...
+[{u'orderNumber': u'136511024378', u'margin': 0, u'amount': u'28.00000000', u'rate': u'0.01780003', u'date': u'2017-12-22 07:17:48', u'total': u'0.49840084', u'type': u'sell', u'startingAmount': u'28.00000000'}]
+=======================================
+End Time: 2017-12-22 07:17:50.505740
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 07:30:09.595439
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 07:30:59.611014
+
+From Date: 2017-12-21 19:30:09
+To Date: 2017-12-22 07:30:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 07:31:00.431752
+
+END: downloadPrices - 1: 2017-12-22 07:32:37.451693
+
+DEF: removeExpiredPotentialss: 2017-12-22 07:32:37.451782
+
+
+BTC_DCR has been active 7 periods...DELETING
+
+
+USDT_ZEC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 07:32:37.656007
+
+DEF: checkPotentials: 2017-12-22 07:32:44.797099
+
+DEF: checkBuyTrigger: 2017-12-22 07:32:48.203910
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 07:32:48.447547
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 07:45:07.055350
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 07:45:57.005860
+
+From Date: 2017-12-21 19:45:07
+To Date: 2017-12-22 07:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 07:45:57.826651
+
+END: downloadPrices - 1: 2017-12-22 07:47:41.179998
+
+DEF: removeExpiredPotentialss: 2017-12-22 07:47:41.180081
+
+DEF: calcADX: 2017-12-22 07:47:41.261294
+
+DEF: checkPotentials: 2017-12-22 07:47:46.648827
+
+checkForRise: We've 3 in a rise for BTC_BTCD
+checkForRise: Rise Start Time: 1513923300
+checkForRise: Low price: 0.01426233
+checkForRise: High price:0.01516648
+checkForRiseSet trigger for BTC_BTCD at value 0.014714405 at time 1513927800
+DEF: checkBuyTrigger: 2017-12-22 07:47:50.592219
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 07:47:50.758219
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 08:00:07.894313
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 08:00:58.392621
+
+From Date: 2017-12-21 20:00:07
+To Date: 2017-12-22 08:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 08:00:59.128532
+
+END: downloadPrices - 1: 2017-12-22 08:02:38.024424
+
+DEF: removeExpiredPotentialss: 2017-12-22 08:02:38.101903
+
+
+BTC_STRAT has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 08:02:38.228101
+
+DEF: checkPotentials: 2017-12-22 08:02:42.993476
+
+checkForRise: We've 3 in a rise for BTC_BURST
+checkForRise: Rise Start Time: 1513926000
+checkForRise: Low price: 0.00000187
+checkForRise: High price:0.00000193
+checkForRiseSet trigger for BTC_BURST at value 0.00000190 at time 1513929600
+DEF: checkBuyTrigger: 2017-12-22 08:02:46.808593
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 08:02:46.975666
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 08:15:08.432334
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 08:15:59.785311
+
+From Date: 2017-12-21 20:15:08
+To Date: 2017-12-22 08:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 08:16:00.521434
+
+END: downloadPrices - 1: 2017-12-22 08:17:26.504860
+
+DEF: removeExpiredPotentialss: 2017-12-22 08:17:26.504952
+
+
+BTC_SC has been active 7 periods...DELETING
+
+
+BTC_BCN has been active 7 periods...DELETING
+
+
+BTC_VTC has been active 7 periods...DELETING
+
+
+BTC_FLDC has been active 7 periods...DELETING
+
+
+BTC_FLO has been active 7 periods...DELETING
+
+
+BTC_SBD has been active 7 periods...DELETING
+
+
+BTC_PPC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 08:17:27.083725
+
+DEF: checkPotentials: 2017-12-22 08:17:32.248787
+
+checkForRise: We've 3 in a rise for BTC_DCR
+checkForRise: Rise Start Time: 1513927800
+checkForRise: Low price: 0.00506568
+checkForRise: High price:0.00509532
+checkForRiseSet trigger for BTC_DCR at value 0.00508050 at time 1513930500
+checkForRise: We've 3 in a rise for BTC_EMC2
+checkForRise: Rise Start Time: 1513926000
+checkForRise: Low price: 0.00006702
+checkForRise: High price:0.00006894
+checkForRiseSet trigger for BTC_EMC2 at value 0.00006798 at time 1513930500
+checkForRise: We've 3 in a rise for BTC_BCH
+checkForRise: Rise Start Time: 1513926000
+checkForRise: Low price: 0.16837998
+checkForRise: High price:0.17149155
+checkForRiseSet trigger for BTC_BCH at value 0.169935765 at time 1513929600
+checkForRise: We've 3 in a rise for BTC_STORJ
+checkForRise: Rise Start Time: 1513926900
+checkForRise: Low price: 0.00008191
+checkForRise: High price:0.00008577
+checkForRiseSet trigger for BTC_STORJ at value 0.00008384 at time 1513930500
+DEF: checkBuyTrigger: 2017-12-22 08:17:35.781935
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 08:17:36.031204
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 08:30:10.471141
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 08:31:07.790661
+
+From Date: 2017-12-21 20:30:10
+To Date: 2017-12-22 08:30:10
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 08:31:09.218630
+
+END: downloadPrices - 1: 2017-12-22 08:32:53.432968
+
+DEF: removeExpiredPotentialss: 2017-12-22 08:32:53.433060
+
+
+USDT_LTC has been active 7 periods...DELETING
+
+
+USDT_XMR has been active 7 periods...DELETING
+
+
+BTC_NAV has been active 7 periods...DELETING
+
+
+BTC_ARDR has been active 7 periods...DELETING
+
+
+BTC_XBC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 08:32:53.885953
+
+DEF: checkPotentials: 2017-12-22 08:32:58.929820
+
+checkForRise: We've 3 in a rise for USDT_REP
+checkForRise: Rise Start Time: 1513926000
+checkForRise: Low price: 57.59259106
+checkForRise: High price:59.09999996
+checkForRiseSet trigger for USDT_REP at value 58.34629551 at time 1513930500
+checkForRise: We've 3 in a rise for BTC_LBC
+checkForRise: Rise Start Time: 1513926000
+checkForRise: Low price: 0.0000342
+checkForRise: High price:0.00003607
+checkForRiseSet trigger for BTC_LBC at value 0.000035135 at time 1513931400
+checkForRise: We've 3 in a rise for BTC_NXT
+checkForRise: Rise Start Time: 1513926000
+checkForRise: Low price: 0.00006421
+checkForRise: High price:0.00006765
+checkForRiseSet trigger for BTC_NXT at value 0.00006593 at time 1513931400
+checkForRise: We've 3 in a rise for USDT_BCH
+checkForRise: Rise Start Time: 1513926900
+checkForRise: Low price: 2167.00000014
+checkForRise: High price:2270
+checkForRiseSet trigger for USDT_BCH at value 2218.50000007 at time 1513930500
+DEF: checkBuyTrigger: 2017-12-22 08:33:01.921797
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 08:33:02.167213
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 08:45:07.383861
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 08:45:58.485611
+
+From Date: 2017-12-21 20:45:07
+To Date: 2017-12-22 08:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 08:45:59.266461
+
+END: downloadPrices - 1: 2017-12-22 08:47:27.453353
+
+DEF: removeExpiredPotentialss: 2017-12-22 08:47:27.453454
+
+
+USDT_BTC has been active 7 periods...DELETING
+
+
+BTC_ZEC has been active 7 periods...DELETING
+
+
+USDT_DASH has been active 7 periods...DELETING
+
+
+BTC_BLK has been active 7 periods...DELETING
+
+
+USDT_NXT has been active 7 periods...DELETING
+
+
+BTC_SYS has been active 7 periods...DELETING
+
+
+BTC_RADS has been active 7 periods...DELETING
+
+
+BTC_MAID has been active 7 periods...DELETING
+
+
+BTC_GNO has been active 7 periods...DELETING
+
+
+BTC_GRC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 08:47:28.440509
+
+DEF: checkPotentials: 2017-12-22 08:47:32.758482
+
+checkForRise: We've 3 in a rise for USDT_ETH
+checkForRise: Rise Start Time: 1513927800
+checkForRise: Low price: 607.99999994
+checkForRise: High price:636.066
+checkForRiseSet trigger for USDT_ETH at value 622.03299997 at time 1513931400
+DEF: checkBuyTrigger: 2017-12-22 08:47:34.404438
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 08:47:34.567619
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 09:00:09.390782
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 09:01:00.609916
+
+From Date: 2017-12-21 21:00:09
+To Date: 2017-12-22 09:00:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 09:01:01.348549
+
+END: downloadPrices - 1: 2017-12-22 09:02:38.208706
+
+DEF: removeExpiredPotentialss: 2017-12-22 09:02:38.208811
+
+
+BTC_BTCD has been active 11 periods...DELETING
+
+
+USDT_STR has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 09:02:38.415816
+
+DEF: checkPotentials: 2017-12-22 09:02:43.270222
+
+checkForRise: We've 3 in a rise for BTC_VRC
+checkForRise: Rise Start Time: 1513927800
+checkForRise: Low price: 0.00005302
+checkForRise: High price:0.00005447
+checkForRiseSet trigger for BTC_VRC at value 0.000053745 at time 1513932300
+checkForRise: We've 3 in a rise for BTC_GAS
+checkForRise: Rise Start Time: 1513928700
+checkForRise: Low price: 0.001657
+checkForRise: High price:0.00169246
+checkForRiseSet trigger for BTC_GAS at value 0.00167473 at time 1513933200
+checkForRise: We've 3 in a rise for BTC_PASC
+checkForRise: Rise Start Time: 1513928700
+checkForRise: Low price: 0.00008485
+checkForRise: High price:0.00008612
+checkForRiseSet trigger for BTC_PASC at value 0.000085485 at time 1513932300
+DEF: checkBuyTrigger: 2017-12-22 09:02:45.201096
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 09:02:45.408059
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 09:15:07.958826
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 09:15:57.445228
+
+From Date: 2017-12-21 21:15:07
+To Date: 2017-12-22 09:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 09:15:58.229290
+
+END: downloadPrices - 1: 2017-12-22 09:17:31.150878
+
+DEF: removeExpiredPotentialss: 2017-12-22 09:17:31.150965
+
+
+BTC_LTC has been active 7 periods...DELETING
+
+
+BTC_ETC has been active 7 periods...DELETING
+
+
+BTC_OMG has been active 7 periods...DELETING
+
+
+BTC_BTM has been active 7 periods...DELETING
+
+
+BTC_EXP has been active 7 periods...DELETING
+
+
+USDT_ZEC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 09:17:31.683675
+
+DEF: checkPotentials: 2017-12-22 09:17:36.034214
+
+checkForRise: We've 3 in a rise for BTC_NMC
+checkForRise: Rise Start Time: 1513930500
+checkForRise: Low price: 0.00021172
+checkForRise: High price:0.00022501
+checkForRiseSet trigger for BTC_NMC at value 0.000218365 at time 1513934100
+DEF: checkBuyTrigger: 2017-12-22 09:17:36.936555
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 09:17:37.142959
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 09:30:08.593659
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 09:30:59.568967
+
+From Date: 2017-12-21 21:30:08
+To Date: 2017-12-22 09:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 09:31:00.426101
+
+END: downloadPrices - 1: 2017-12-22 09:32:39.228048
+
+DEF: removeExpiredPotentialss: 2017-12-22 09:32:39.228137
+
+
+BTC_XPM has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 09:32:39.350523
+
+DEF: checkPotentials: 2017-12-22 09:32:43.661879
+
+checkForRise: We've 3 in a rise for BTC_OMNI
+checkForRise: Rise Start Time: 1513930500
+checkForRise: Low price: 0.00414437
+checkForRise: High price:0.0043
+checkForRiseSet trigger for BTC_OMNI at value 0.004222185 at time 1513934100
+checkForRise: We've 3 in a rise for USDT_XRP
+checkForRise: Rise Start Time: 1513930500
+checkForRise: Low price: 0.88079932
+checkForRise: High price:1.02
+checkForRiseSet trigger for USDT_XRP at value 0.95039966 at time 1513934100
+DEF: checkBuyTrigger: 2017-12-22 09:32:44.524204
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 09:32:44.690019
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 09:45:07.231102
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 09:45:58.762595
+
+From Date: 2017-12-21 21:45:07
+To Date: 2017-12-22 09:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 09:45:59.501543
+
+END: downloadPrices - 1: 2017-12-22 09:47:31.682884
+
+DEF: removeExpiredPotentialss: 2017-12-22 09:47:31.682975
+
+
+BTC_BURST has been active 11 periods...DELETING
+
+
+BTC_EMC2 has been active 11 periods...DELETING
+
+
+BTC_BCH has been active 11 periods...DELETING
+
+
+USDT_REP has been active 11 periods...DELETING
+
+
+BTC_LBC has been active 11 periods...DELETING
+
+
+BTC_NXT has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 09:47:32.136162
+
+DEF: checkPotentials: 2017-12-22 09:47:36.287889
+
+checkForRise: We've 3 in a rise for BTC_BLK
+checkForRise: Rise Start Time: 1513932300
+checkForRise: Low price: 0.00003161
+checkForRise: High price:0.00003259
+checkForRiseSet trigger for BTC_BLK at value 0.00003210 at time 1513935000
+DEF: checkBuyTrigger: 2017-12-22 09:47:36.865268
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 09:47:36.987920
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 10:00:08.343204
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 10:00:59.022355
+
+From Date: 2017-12-21 22:00:08
+To Date: 2017-12-22 10:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 10:00:59.882967
+
+END: downloadPrices - 1: 2017-12-22 10:02:30.371456
+
+DEF: removeExpiredPotentialss: 2017-12-22 10:02:30.371548
+
+
+BTC_STORJ has been active 11 periods...DELETING
+
+
+BTC_XBC has been active 7 periods...DELETING
+
+
+USDT_BCH has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 10:02:30.736458
+
+DEF: checkPotentials: 2017-12-22 10:02:35.078583
+
+checkForRise: We've 3 in a rise for BTC_XVC
+checkForRise: Rise Start Time: 1513931400
+checkForRise: Low price: 0.0000442
+checkForRise: High price:0.00004623
+checkForRiseSet trigger for BTC_XVC at value 0.000045215 at time 1513935900
+DEF: checkBuyTrigger: 2017-12-22 10:02:35.573868
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 10:02:35.696292
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 10:15:07.984500
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 10:15:56.861919
+
+From Date: 2017-12-21 22:15:07
+To Date: 2017-12-22 10:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 10:15:58.341695
+
+END: downloadPrices - 1: 2017-12-22 10:17:33.547267
+
+DEF: removeExpiredPotentialss: 2017-12-22 10:17:33.547356
+
+
+USDT_ETH has been active 11 periods...DELETING
+
+
+BTC_VRC has been active 11 periods...DELETING
+
+
+BTC_DCR has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 10:17:33.836139
+
+DEF: checkPotentials: 2017-12-22 10:17:38.146786
+
+DEF: checkBuyTrigger: 2017-12-22 10:17:38.476712
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 10:17:38.725632
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 10:30:08.580300
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 10:31:00.296108
+
+From Date: 2017-12-21 22:30:08
+To Date: 2017-12-22 10:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 10:31:01.033017
+
+END: downloadPrices - 1: 2017-12-22 10:32:35.109726
+
+DEF: removeExpiredPotentialss: 2017-12-22 10:32:35.109820
+
+
+BTC_GAS has been active 11 periods...DELETING
+
+
+BTC_PASC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 10:32:35.359821
+
+DEF: checkPotentials: 2017-12-22 10:32:39.673366
+
+checkForRise: We've 3 in a rise for BTC_BTM
+checkForRise: Rise Start Time: 1513935000
+checkForRise: Low price: 0.00011817
+checkForRise: High price:0.00012063
+checkForRiseSet trigger for BTC_BTM at value 0.00011940 at time 1513937700
+DEF: checkBuyTrigger: 2017-12-22 10:32:40.080377
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 10:32:40.205305
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 10:45:07.096697
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 10:45:58.962949
+
+From Date: 2017-12-21 22:45:07
+To Date: 2017-12-22 10:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 10:45:59.739765
+
+END: downloadPrices - 1: 2017-12-22 10:47:29.386139
+
+DEF: removeExpiredPotentialss: 2017-12-22 10:47:29.386247
+
+
+BTC_BTCD has been active 7 periods...DELETING
+
+
+BTC_XCP has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 10:47:29.672416
+
+DEF: checkPotentials: 2017-12-22 10:47:34.100709
+
+DEF: CheckForDip: 2017-12-22 10:47:34.307508
+
+DEF: checkBuyTrigger: 2017-12-22 10:47:34.307545
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 10:47:34.469892
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 11:00:08.401332
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 11:00:59.753874
+
+From Date: 2017-12-21 23:00:08
+To Date: 2017-12-22 11:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 11:01:00.529915
+
+END: downloadPrices - 1: 2017-12-22 11:02:41.021487
+
+DEF: removeExpiredPotentialss: 2017-12-22 11:02:41.021571
+
+
+BTC_NMC has been active 11 periods...DELETING
+
+
+BTC_OMNI has been active 11 periods...DELETING
+
+
+USDT_XRP has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 11:02:41.350107
+
+DEF: checkPotentials: 2017-12-22 11:02:45.806989
+
+DEF: CheckForDip: 2017-12-22 11:02:45.970144
+
+DEF: checkBuyTrigger: 2017-12-22 11:02:45.970180
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 11:02:46.217440
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 11:15:08.709691
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 11:15:59.291287
+
+From Date: 2017-12-21 23:15:08
+To Date: 2017-12-22 11:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 11:16:00.231497
+
+END: downloadPrices - 1: 2017-12-22 11:17:34.311007
+
+DEF: removeExpiredPotentialss: 2017-12-22 11:17:34.311106
+
+
+BTC_XVC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 11:17:34.434876
+
+DEF: checkPotentials: 2017-12-22 11:17:39.153516
+
+DEF: CheckForDip: 2017-12-22 11:17:39.197100
+
+DEF: checkBuyTrigger: 2017-12-22 11:17:39.441459
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 11:17:39.650928
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 11:30:07.636031
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 11:30:58.137397
+
+From Date: 2017-12-21 23:30:07
+To Date: 2017-12-22 11:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 11:30:59.654987
+
+END: downloadPrices - 1: 2017-12-22 11:32:50.455158
+
+DEF: removeExpiredPotentialss: 2017-12-22 11:32:50.532446
+
+
+BTC_BLK has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 11:32:50.617042
+
+DEF: checkPotentials: 2017-12-22 11:32:55.260791
+
+DEF: CheckForDip: 2017-12-22 11:32:55.424309
+
+DEF: checkBuyTrigger: 2017-12-22 11:32:55.710370
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 11:32:55.953973
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 11:45:08.659369
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 11:45:59.429980
+
+From Date: 2017-12-21 23:45:08
+To Date: 2017-12-22 11:45:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 11:46:00.578989
+
+END: downloadPrices - 1: 2017-12-22 11:47:35.602851
+
+DEF: removeExpiredPotentialss: 2017-12-22 11:47:35.602939
+
+DEF: calcADX: 2017-12-22 11:47:35.687948
+
+DEF: checkPotentials: 2017-12-22 11:47:40.080975
+
+DEF: CheckForDip: 2017-12-22 11:47:40.203612
+
+DEF: checkBuyTrigger: 2017-12-22 11:47:40.488619
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 11:47:40.737665
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 12:00:07.493943
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 12:00:13.407269
+
+From Date: 2017-12-22 00:00:07
+To Date: 2017-12-22 12:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 12:00:13.778828
+
+END: downloadPrices - 1: 2017-12-22 12:01:53.699742
+
+DEF: removeExpiredPotentialss: 2017-12-22 12:01:53.699836
+
+DEF: calcADX: 2017-12-22 12:01:53.740861
+
+DEF: checkPotentials: 2017-12-22 12:01:58.347382
+
+DEF: CheckForDip: 2017-12-22 12:01:58.471941
+
+DEF: checkBuyTrigger: 2017-12-22 12:01:58.881039
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 12:01:59.167980
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 12:15:07.581447
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 12:15:57.065909
+
+From Date: 2017-12-22 00:15:07
+To Date: 2017-12-22 12:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 12:15:58.427044
+
+END: downloadPrices - 1: 2017-12-22 12:17:48.763560
+
+DEF: removeExpiredPotentialss: 2017-12-22 12:17:48.763657
+
+
+BTC_BTM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 12:17:48.930419
+
+DEF: checkPotentials: 2017-12-22 12:17:53.289809
+
+DEF: CheckForDip: 2017-12-22 12:17:53.333531
+
+checkForRise: We've 3 in a rise for BTC_XBC
+checkForRise: Rise Start Time: 1513941300
+checkForRise: Low price: 0.00660002
+checkForRise: High price:0.00686833
+checkForRiseSet trigger for BTC_XBC at value 0.006734175 at time 1513944900
+checkForRise: We've 3 in a rise for BTC_PPC
+checkForRise: Rise Start Time: 1513942200
+checkForRise: Low price: 0.00029575
+checkForRise: High price:0.00030618
+checkForRiseSet trigger for BTC_PPC at value 0.000300965 at time 1513944900
+DEF: checkBuyTrigger: 2017-12-22 12:17:53.865961
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 12:17:54.070568
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 12:30:07.518856
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 12:30:58.489397
+
+From Date: 2017-12-22 00:30:07
+To Date: 2017-12-22 12:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 12:30:59.351769
+
+END: downloadPrices - 1: 2017-12-22 12:32:51.248609
+
+DEF: removeExpiredPotentialss: 2017-12-22 12:32:51.248696
+
+
+BTC_NXT has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 12:32:51.412210
+
+DEF: checkPotentials: 2017-12-22 12:32:55.760770
+
+DEF: checkBuyTrigger: 2017-12-22 12:32:56.047729
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 12:32:56.333727
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 12:45:06.651296
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 12:45:57.834943
+
+From Date: 2017-12-22 00:45:06
+To Date: 2017-12-22 12:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 12:45:59.308590
+
+END: downloadPrices - 1: 2017-12-22 12:47:36.916986
+
+DEF: removeExpiredPotentialss: 2017-12-22 12:47:36.917076
+
+DEF: calcADX: 2017-12-22 12:47:37.042906
+
+DEF: checkPotentials: 2017-12-22 12:47:41.680061
+
+DEF: CheckForDip: 2017-12-22 12:47:42.296666
+
+DEF: CheckForDip: 2017-12-22 12:47:42.377689
+
+DEF: checkBuyTrigger: 2017-12-22 12:47:42.377724
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 12:47:42.539718
+=======================================
+
+/home/ec2-user/coinTrader/adx.py:161: RuntimeWarning: invalid value encountered in double_scalars
+  DX = 100*( (abs(PositiveDI[xxx]-NegativeDI[xxx])))/(PositiveDI[xxx]+NegativeDI[xxx])
+===============================================================
+Starting new run of coinTrader: 2017-12-22 13:00:07.928875
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 13:00:58.330192
+
+From Date: 2017-12-22 01:00:07
+To Date: 2017-12-22 13:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 13:00:59.067844
+
+END: downloadPrices - 1: 2017-12-22 13:02:42.561918
+
+DEF: removeExpiredPotentialss: 2017-12-22 13:02:42.562001
+
+
+BTC_XCP has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 13:02:42.765190
+
+DEF: checkPotentials: 2017-12-22 13:02:47.044244
+
+DEF: CheckForDip: 2017-12-22 13:02:47.493375
+
+DEF: CheckForDip: 2017-12-22 13:02:47.576553
+
+DEF: checkBuyTrigger: 2017-12-22 13:02:47.576591
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 13:02:47.784597
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 13:15:07.971304
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 13:15:58.025659
+
+From Date: 2017-12-22 01:15:07
+To Date: 2017-12-22 13:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 13:15:58.768599
+
+END: downloadPrices - 1: 2017-12-22 13:17:49.446400
+
+DEF: removeExpiredPotentialss: 2017-12-22 13:17:49.446503
+
+DEF: calcADX: 2017-12-22 13:17:49.489328
+
+DEF: checkPotentials: 2017-12-22 13:17:54.466872
+
+DEF: CheckForDip: 2017-12-22 13:17:55.211872
+
+DEF: CheckForDip: 2017-12-22 13:17:55.373745
+
+DEF: checkBuyTrigger: 2017-12-22 13:17:55.373834
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 13:17:55.621826
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 13:30:07.906838
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 13:30:14.182928
+
+From Date: 2017-12-22 01:30:07
+To Date: 2017-12-22 13:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 13:30:14.627429
+
+END: downloadPrices - 1: 2017-12-22 13:33:20.021916
+
+DEF: removeExpiredPotentialss: 2017-12-22 13:33:20.022004
+
+DEF: calcADX: 2017-12-22 13:33:20.102662
+
+DEF: checkPotentials: 2017-12-22 13:33:24.903800
+
+DEF: CheckForDip: 2017-12-22 13:33:25.852785
+
+DEF: CheckForDip: 2017-12-22 13:33:25.894413
+
+DEF: checkBuyTrigger: 2017-12-22 13:33:26.013084
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 13:33:26.182573
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 13:45:07.784726
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 13:45:58.175415
+
+From Date: 2017-12-22 01:45:07
+To Date: 2017-12-22 13:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 13:45:58.870804
+
+END: downloadPrices - 1: 2017-12-22 13:47:38.163170
+
+DEF: removeExpiredPotentialss: 2017-12-22 13:47:38.163262
+
+
+BTC_SBD has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 13:47:38.287008
+
+DEF: checkPotentials: 2017-12-22 13:47:43.334601
+
+DEF: CheckForDip: 2017-12-22 13:47:43.909963
+
+DEF: CheckForDip: 2017-12-22 13:47:44.283963
+
+DEF: checkBuyTrigger: 2017-12-22 13:47:44.284083
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 13:47:44.606018
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 14:00:08.995287
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 14:01:00.215222
+
+From Date: 2017-12-22 02:00:08
+To Date: 2017-12-22 14:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 14:01:00.954086
+
+END: downloadPrices - 1: 2017-12-22 14:02:55.263333
+
+DEF: removeExpiredPotentialss: 2017-12-22 14:02:55.263423
+
+
+BTC_FCT has been active 7 periods...DELETING
+
+
+BTC_XBC has been active 11 periods...DELETING
+
+
+BTC_EXP has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 14:02:55.633034
+
+DEF: checkPotentials: 2017-12-22 14:03:01.606216
+
+DEF: CheckForDip: 2017-12-22 14:03:02.386855
+
+DEF: CheckForDip: 2017-12-22 14:03:03.205816
+
+DEF: checkBuyTrigger: 2017-12-22 14:03:03.205937
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 14:03:03.493171
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 14:15:07.518575
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 14:15:58.914539
+
+From Date: 2017-12-22 02:15:07
+To Date: 2017-12-22 14:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 14:15:59.774917
+
+END: downloadPrices - 1: 2017-12-22 14:18:24.749586
+
+DEF: removeExpiredPotentialss: 2017-12-22 14:18:24.749681
+
+
+BTC_PPC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 14:18:24.832709
+
+DEF: checkPotentials: 2017-12-22 14:18:31.180327
+
+DEF: CheckForDip: 2017-12-22 14:18:31.961250
+
+DEF: CheckForDip: 2017-12-22 14:18:33.194821
+
+DEF: checkBuyTrigger: 2017-12-22 14:18:33.277248
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 14:18:33.809217
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 14:30:08.395433
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 14:30:59.261323
+
+From Date: 2017-12-22 02:30:08
+To Date: 2017-12-22 14:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 14:31:04.501163
+
+END: downloadPrices - 1: 2017-12-22 14:33:47.978459
+
+DEF: removeExpiredPotentialss: 2017-12-22 14:33:47.978547
+
+
+BTC_PINK has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 14:33:48.145818
+
+DEF: checkPotentials: 2017-12-22 14:33:53.650849
+
+DEF: CheckForDip: 2017-12-22 14:33:54.473628
+
+DEF: checkBuyTrigger: 2017-12-22 14:33:56.112273
+
+Buy 6112 of BTC_NXT at 8.18e-05
+As we have enough coins: 0.4999616 is the cost, and I have 0.94554885 of BTC
+
+*************************
+Sent SMS: BUY TRIGGER: BTC_NXT, at price 8.18e-05
+*************************
+DEF: buyPair
+
+Buying 6112.0 of BTC_NXT at 8.18e-05
+{u'orderNumber': u'45656799567', u'resultingTrades': [{u'tradeID': u'3521858', u'rate': u'0.00007806', u'amount': u'30.87082707', u'date': u'2017-12-22 14:33:58', u'total': u'0.00240977', u'type': u'buy'}, {u'tradeID': u'3521859', u'rate': u'0.00007850', u'amount': u'68.96050001', u'date': u'2017-12-22 14:33:58', u'total': u'0.00541339', u'type': u'buy'}, {u'tradeID': u'3521860', u'rate': u'0.00007898', u'amount': u'1330.27740462', u'date': u'2017-12-22 14:33:58', u'total': u'0.10506530', u'type': u'buy'}, {u'tradeID': u'3521861', u'rate': u'0.00007899', u'amount': u'4681.89126830', u'date': u'2017-12-22 14:33:58', u'total': u'0.36982259', u'type': u'buy'}]}
+Order placed...
+[]
+DEF: checkStopLimit
+
+
+BTC_ETH...We've hit our BUY STOP of 0.046345 as it's below our stop of 0.0519101667788 - exiting out, profit = 0.01830367, startPrice= 0.04468103
+
+*************************
+Sent SMS: BUY STOP: BTC_ETH, profit is 0.01830367
+*************************
+DEF: sellPair
+
+Selling 11.0 of BTC_ETH at 0.046345
+{u'orderNumber': u'391762060933', u'resultingTrades': [{u'tradeID': u'38757351', u'rate': u'0.04654004', u'amount': u'3.05014816', u'date': u'2017-12-22 14:34:01', u'total': u'0.14195401', u'type': u'sell'}, {u'tradeID': u'38757352', u'rate': u'0.04654000', u'amount': u'3.84926172', u'date': u'2017-12-22 14:34:01', u'total': u'0.17914464', u'type': u'sell'}, {u'tradeID': u'38757353', u'rate': u'0.04647940', u'amount': u'0.32324785', u'date': u'2017-12-22 14:34:01', u'total': u'0.01502436', u'type': u'sell'}, {u'tradeID': u'38757354', u'rate': u'0.04643133', u'amount': u'0.18422539', u'date': u'2017-12-22 14:34:01', u'total': u'0.00855382', u'type': u'sell'}, {u'tradeID': u'38757355', u'rate': u'0.04637373', u'amount': u'0.00262013', u'date': u'2017-12-22 14:34:01', u'total': u'0.00012150', u'type': u'sell'}, {u'tradeID': u'38757356', u'rate': u'0.04636495', u'amount': u'2.57298951', u'date': u'2017-12-22 14:34:01', u'total': u'0.11929652', u'type': u'sell'}, {u'tradeID': u'38757357', u'rate': u'0.04636495', u'amount': u'1.01750724', u'date': u'2017-12-22 14:34:01', u'total': u'0.04717667', u'type': u'sell'}]}
+Order placed...
+[]
+=======================================
+End Time: 2017-12-22 14:34:03.434890
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 14:45:09.006118
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 14:45:59.734845
+
+From Date: 2017-12-22 02:45:09
+To Date: 2017-12-22 14:45:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 14:46:00.880232
+
+END: downloadPrices - 1: 2017-12-22 14:47:41.614808
+
+DEF: removeExpiredPotentialss: 2017-12-22 14:47:41.614893
+
+
+BTC_MAID has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 14:47:41.779811
+
+DEF: checkPotentials: 2017-12-22 14:47:46.504977
+
+DEF: CheckForDip: 2017-12-22 14:47:47.039114
+
+DEF: checkBuyTrigger: 2017-12-22 14:47:48.764503
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 14:47:49.092813
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 15:00:08.453493
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 15:01:01.135159
+
+From Date: 2017-12-22 03:00:08
+To Date: 2017-12-22 15:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 15:01:01.995480
+
+END: downloadPrices - 1: 2017-12-22 15:02:54.620037
+
+DEF: removeExpiredPotentialss: 2017-12-22 15:02:54.620127
+
+
+BTC_LSK has been active 7 periods...DELETING
+
+
+BTC_OMG has been active 7 periods...DELETING
+
+
+BTC_XCP has been active 7 periods...DELETING
+
+
+BTC_FLO has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 15:02:54.952624
+
+DEF: checkPotentials: 2017-12-22 15:03:00.076689
+
+checkForRise: We've 3 in a rise for BTC_CLAM
+checkForRise: Rise Start Time: 1513949400
+checkForRise: Low price: 0.0005349
+checkForRise: High price:0.00055138
+checkForRiseSet trigger for BTC_CLAM at value 0.00054314 at time 1513953900
+DEF: CheckForDip: 2017-12-22 15:03:00.486681
+
+checkForRise: We've 3 in a rise for BTC_ZEC
+checkForRise: Rise Start Time: 1513952100
+checkForRise: Low price: 0.03312204
+checkForRise: High price:0.03459933
+checkForRiseSet trigger for BTC_ZEC at value 0.033860685 at time 1513954800
+DEF: CheckForDip: 2017-12-22 15:03:02.575324
+
+DEF: checkBuyTrigger: 2017-12-22 15:03:02.779788
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 15:03:02.945974
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 15:15:09.061449
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 15:15:59.809310
+
+From Date: 2017-12-22 03:15:09
+To Date: 2017-12-22 15:15:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 15:16:00.543936
+
+END: downloadPrices - 1: 2017-12-22 15:18:07.248698
+
+DEF: removeExpiredPotentialss: 2017-12-22 15:18:07.248792
+
+
+BTC_GNT has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 15:18:07.448741
+
+DEF: checkPotentials: 2017-12-22 15:18:12.204350
+
+DEF: CheckForDip: 2017-12-22 15:18:12.371166
+
+checkForRise: We've 3 in a rise for BTC_RADS
+checkForRise: Rise Start Time: 1513951200
+checkForRise: Low price: 0.00047503
+checkForRise: High price:0.000494
+checkForRiseSet trigger for BTC_RADS at value 0.000484515 at time 1513954800
+checkForRise: We've 3 in a rise for BTC_STORJ
+checkForRise: Rise Start Time: 1513951200
+checkForRise: Low price: 0.00007322
+checkForRise: High price:0.00007559
+checkForRiseSet trigger for BTC_STORJ at value 0.000074405 at time 1513954800
+checkForRise: We've 3 in a rise for USDT_DASH
+checkForRise: Rise Start Time: 1513951200
+checkForRise: Low price: 884
+checkForRise: High price:943.41524491
+checkForRiseSet trigger for USDT_DASH at value 913.707622455 at time 1513954800
+checkForRise: We've 3 in a rise for USDT_XMR
+checkForRise: Rise Start Time: 1513951200
+checkForRise: Low price: 259.00000004
+checkForRise: High price:284.33999999
+checkForRiseSet trigger for USDT_XMR at value 271.670000015 at time 1513954800
+checkForRise: We've 3 in a rise for USDT_BCH
+checkForRise: Rise Start Time: 1513952100
+checkForRise: Low price: 1950
+checkForRise: High price:2146.99999995
+checkForRiseSet trigger for USDT_BCH at value 2048.499999975 at time 1513955700
+checkForRise: We've 3 in a rise for USDT_XRP
+checkForRise: Rise Start Time: 1513952100
+checkForRise: Low price: 0.75
+checkForRise: High price:0.8479999
+checkForRiseSet trigger for USDT_XRP at value 0.79899995 at time 1513955700
+checkForRise: We've 3 in a rise for USDT_STR
+checkForRise: Rise Start Time: 1513952100
+checkForRise: Low price: 0.16000009
+checkForRise: High price:0.1788
+checkForRiseSet trigger for USDT_STR at value 0.169400045 at time 1513955700
+checkForRise: We've 3 in a rise for BTC_SBD
+checkForRise: Rise Start Time: 1513953000
+checkForRise: Low price: 0.00056101
+checkForRise: High price:0.00059001
+checkForRiseSet trigger for BTC_SBD at value 0.00057551 at time 1513955700
+DEF: CheckForDip: 2017-12-22 15:18:14.825035
+
+DEF: checkBuyTrigger: 2017-12-22 15:18:15.112575
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 15:18:15.478804
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 15:30:08.201387
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 15:30:59.712318
+
+From Date: 2017-12-22 03:30:08
+To Date: 2017-12-22 15:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 15:31:00.536083
+
+END: downloadPrices - 1: 2017-12-22 15:33:08.839772
+
+DEF: removeExpiredPotentialss: 2017-12-22 15:33:08.839862
+
+
+USDT_NXT has been active 11 periods...DELETING
+
+
+BTC_STR has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 15:33:09.003064
+
+DEF: checkPotentials: 2017-12-22 15:33:13.505833
+
+checkForRise: We've 3 in a rise for BTC_EMC2
+checkForRise: Rise Start Time: 1513951200
+checkForRise: Low price: 0.00005799
+checkForRise: High price:0.00006435
+checkForRiseSet trigger for BTC_EMC2 at value 0.00006117 at time 1513955700
+checkForRise: We've 3 in a rise for USDT_REP
+checkForRise: Rise Start Time: 1513951200
+checkForRise: Low price: 46.7
+checkForRise: High price:55
+checkForRiseSet trigger for USDT_REP at value 50.85 at time 1513955700
+checkForRise: We've 3 in a rise for BTC_BTS
+checkForRise: Rise Start Time: 1513953000
+checkForRise: Low price: 0.00003047
+checkForRise: High price:0.00003169
+checkForRiseSet trigger for BTC_BTS at value 0.00003108 at time 1513956600
+checkForRise: We've 3 in a rise for USDT_ETC
+checkForRise: Rise Start Time: 1513953900
+checkForRise: Low price: 23.96000008
+checkForRise: High price:26.79999997
+checkForRiseSet trigger for USDT_ETC at value 25.380000025 at time 1513956600
+DEF: CheckForDip: 2017-12-22 15:33:15.104817
+
+DEF: checkBuyTrigger: 2017-12-22 15:33:15.307462
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 15:33:15.635280
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 15:45:09.500699
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 15:46:01.125257
+
+From Date: 2017-12-22 03:45:09
+To Date: 2017-12-22 15:45:09
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 15:46:01.940851
+
+END: downloadPrices - 1: 2017-12-22 15:47:47.622633
+
+DEF: removeExpiredPotentialss: 2017-12-22 15:47:47.622725
+
+
+BTC_DOGE has been active 7 periods...DELETING
+
+
+BTC_XBC has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 15:47:47.867251
+
+DEF: checkPotentials: 2017-12-22 15:47:52.207871
+
+checkForRise: We've 3 in a rise for BTC_CVC
+checkForRise: Rise Start Time: 1513953000
+checkForRise: Low price: 0.00003278
+checkForRise: High price:0.00003447
+checkForRiseSet trigger for BTC_CVC at value 0.000033625 at time 1513956600
+checkForRise: We've 3 in a rise for BTC_LBC
+checkForRise: Rise Start Time: 1513953000
+checkForRise: Low price: 0.00003434
+checkForRise: High price:0.00003767
+checkForRiseSet trigger for BTC_LBC at value 0.000036005 at time 1513956600
+checkForRise: We've 3 in a rise for BTC_GRC
+checkForRise: Rise Start Time: 1513952100
+checkForRise: Low price: 0.00000521
+checkForRise: High price:0.00000537
+checkForRiseSet trigger for BTC_GRC at value 0.00000529 at time 1513956600
+DEF: CheckForDip: 2017-12-22 15:47:53.106896
+
+DEF: checkBuyTrigger: 2017-12-22 15:47:53.356481
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 15:47:53.599948
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 16:00:07.458509
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 16:00:59.525033
+
+From Date: 2017-12-22 04:00:07
+To Date: 2017-12-22 16:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 16:01:00.341450
+
+END: downloadPrices - 1: 2017-12-22 16:03:02.189115
+
+DEF: removeExpiredPotentialss: 2017-12-22 16:03:02.189217
+
+
+BTC_GNO has been active 7 periods...DELETING
+
+
+BTC_FCT has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 16:03:02.395506
+
+DEF: checkPotentials: 2017-12-22 16:03:06.771064
+
+DEF: CheckForDip: 2017-12-22 16:03:07.018902
+
+checkForRise: We've 3 in a rise for BTC_BLK
+checkForRise: Rise Start Time: 1513954800
+checkForRise: Low price: 0.00002877
+checkForRise: High price:0.00003025
+checkForRiseSet trigger for BTC_BLK at value 0.00002951 at time 1513957500
+DEF: checkBuyTrigger: 2017-12-22 16:03:07.427526
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 16:03:07.796854
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 16:15:08.732034
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 16:16:04.691997
+
+From Date: 2017-12-22 04:15:08
+To Date: 2017-12-22 16:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 16:16:05.588775
+
+END: downloadPrices - 1: 2017-12-22 16:18:06.007023
+
+DEF: removeExpiredPotentialss: 2017-12-22 16:18:06.007125
+
+
+BTC_PINK has been active 7 periods...DELETING
+
+
+BTC_CLAM has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 16:18:06.213903
+
+DEF: checkPotentials: 2017-12-22 16:18:10.921139
+
+DEF: CheckForDip: 2017-12-22 16:18:11.088457
+
+checkForRise: We've 3 in a rise for BTC_PASC
+checkForRise: Rise Start Time: 1513954800
+checkForRise: Low price: 0.00008192
+checkForRise: High price:0.00008248
+checkForRiseSet trigger for BTC_PASC at value 0.00008220 at time 1513958400
+checkForRise: We've 3 in a rise for BTC_XCP
+checkForRise: Rise Start Time: 1513953900
+checkForRise: Low price: 0.00201
+checkForRise: High price:0.00220702
+checkForRiseSet trigger for BTC_XCP at value 0.00210851 at time 1513958400
+DEF: CheckForDip: 2017-12-22 16:18:11.580971
+
+DEF: checkBuyTrigger: 2017-12-22 16:18:11.581020
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 16:18:11.747988
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 16:30:07.781746
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 16:30:57.999349
+
+From Date: 2017-12-22 04:30:07
+To Date: 2017-12-22 16:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 16:30:58.735898
+
+END: downloadPrices - 1: 2017-12-22 16:32:46.226185
+
+DEF: removeExpiredPotentialss: 2017-12-22 16:32:46.226307
+
+
+BTC_BTCD has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 16:32:46.389118
+
+DEF: checkPotentials: 2017-12-22 16:32:51.151342
+
+DEF: CheckForDip: 2017-12-22 16:32:51.314519
+
+DEF: CheckForDip: 2017-12-22 16:32:51.400923
+
+DEF: checkBuyTrigger: 2017-12-22 16:32:51.483072
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 16:32:51.605013
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 16:45:07.489749
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 16:45:12.564586
+
+From Date: 2017-12-22 04:45:07
+To Date: 2017-12-22 16:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 16:45:12.864942
+
+END: downloadPrices - 1: 2017-12-22 16:46:55.889260
+
+DEF: removeExpiredPotentialss: 2017-12-22 16:46:55.889345
+
+
+BTC_BCY has been active 7 periods...DELETING
+
+
+BTC_RADS has been active 11 periods...DELETING
+
+
+BTC_STORJ has been active 11 periods...DELETING
+
+
+USDT_DASH has been active 11 periods...DELETING
+
+
+USDT_XMR has been active 11 periods...DELETING
+
+
+BTC_EMC2 has been active 11 periods...DELETING
+
+
+USDT_REP has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 16:46:56.510174
+
+DEF: checkPotentials: 2017-12-22 16:47:01.270989
+
+DEF: CheckForDip: 2017-12-22 16:47:01.429785
+
+DEF: checkBuyTrigger: 2017-12-22 16:47:01.512769
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 16:47:01.759556
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 17:00:08.046321
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 17:00:58.240724
+
+From Date: 2017-12-22 05:00:08
+To Date: 2017-12-22 17:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 17:00:59.058329
+
+END: downloadPrices - 1: 2017-12-22 17:02:38.015287
+
+DEF: removeExpiredPotentialss: 2017-12-22 17:02:38.015375
+
+
+BTC_ZEC has been active 11 periods...DELETING
+
+
+USDT_BCH has been active 11 periods...DELETING
+
+
+USDT_XRP has been active 11 periods...DELETING
+
+
+USDT_STR has been active 11 periods...DELETING
+
+
+BTC_GRC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 17:02:38.546540
+
+DEF: checkPotentials: 2017-12-22 17:02:43.087008
+
+DEF: CheckForDip: 2017-12-22 17:02:43.249560
+
+DEF: checkBuyTrigger: 2017-12-22 17:02:43.372243
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 17:02:43.616356
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 17:15:07.297903
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 17:15:57.264419
+
+From Date: 2017-12-22 05:15:07
+To Date: 2017-12-22 17:15:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 17:15:58.740307
+
+END: downloadPrices - 1: 2017-12-22 17:17:33.908833
+
+DEF: removeExpiredPotentialss: 2017-12-22 17:17:33.908923
+
+
+BTC_SBD has been active 11 periods...DELETING
+
+
+BTC_BTS has been active 11 periods...DELETING
+
+
+BTC_CVC has been active 11 periods...DELETING
+
+
+BTC_LBC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 17:17:34.319533
+
+DEF: checkPotentials: 2017-12-22 17:17:38.550854
+
+DEF: CheckForDip: 2017-12-22 17:17:38.752451
+
+DEF: checkBuyTrigger: 2017-12-22 17:17:38.998553
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 17:17:39.287663
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 17:30:06.949647
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 17:30:58.156145
+
+From Date: 2017-12-22 05:30:06
+To Date: 2017-12-22 17:30:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 17:30:58.899831
+
+END: downloadPrices - 1: 2017-12-22 17:32:34.640422
+
+DEF: removeExpiredPotentialss: 2017-12-22 17:32:34.640527
+
+
+USDT_ETC has been active 11 periods...DELETING
+
+
+BTC_XCP has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 17:32:34.892034
+
+DEF: checkPotentials: 2017-12-22 17:32:39.327858
+
+DEF: CheckForDip: 2017-12-22 17:32:39.448909
+
+DEF: CheckForDip: 2017-12-22 17:32:39.490039
+
+DEF: checkBuyTrigger: 2017-12-22 17:32:39.736245
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 17:32:39.981009
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 17:45:08.083536
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 17:45:59.038331
+
+From Date: 2017-12-22 05:45:08
+To Date: 2017-12-22 17:45:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 17:46:00.431869
+
+END: downloadPrices - 1: 2017-12-22 17:47:43.388783
+
+DEF: removeExpiredPotentialss: 2017-12-22 17:47:43.388878
+
+
+BTC_BLK has been active 11 periods...DELETING
+
+
+BTC_PASC has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 17:47:43.598035
+
+DEF: checkPotentials: 2017-12-22 17:47:47.913084
+
+DEF: CheckForDip: 2017-12-22 17:47:48.079694
+
+DEF: CheckForDip: 2017-12-22 17:47:48.120844
+
+DEF: checkBuyTrigger: 2017-12-22 17:47:48.202451
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 17:47:48.528358
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 18:00:07.780775
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 18:00:58.884892
+
+From Date: 2017-12-22 06:00:07
+To Date: 2017-12-22 18:00:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 18:00:59.662165
+
+END: downloadPrices - 1: 2017-12-22 18:02:42.430812
+
+DEF: removeExpiredPotentialss: 2017-12-22 18:02:42.430921
+
+
+BTC_BURST has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 18:02:42.554587
+
+DEF: checkPotentials: 2017-12-22 18:02:46.955958
+
+DEF: CheckForDip: 2017-12-22 18:02:47.122064
+
+DEF: CheckForDip: 2017-12-22 18:02:47.241665
+
+checkForRise: We've 3 in a rise for BTC_EXP
+checkForRise: Rise Start Time: 1513961100
+checkForRise: Low price: 0.00018897
+checkForRise: High price:0.00019998
+checkForRiseSet trigger for BTC_EXP at value 0.000194475 at time 1513964700
+DEF: checkBuyTrigger: 2017-12-22 18:02:47.491737
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 18:02:47.695067
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 18:15:08.636066
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 18:15:59.160465
+
+From Date: 2017-12-22 06:15:08
+To Date: 2017-12-22 18:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 18:16:00.750131
+
+END: downloadPrices - 1: 2017-12-22 18:17:37.796739
+
+DEF: removeExpiredPotentialss: 2017-12-22 18:17:37.796835
+
+
+BTC_DOGE has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 18:17:37.921703
+
+DEF: checkPotentials: 2017-12-22 18:17:42.197321
+
+DEF: CheckForDip: 2017-12-22 18:17:42.363691
+
+DEF: CheckForDip: 2017-12-22 18:17:42.404273
+
+DEF: checkBuyTrigger: 2017-12-22 18:17:42.404301
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 18:17:42.649265
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 18:30:08.380504
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 18:30:59.582669
+
+From Date: 2017-12-22 06:30:08
+To Date: 2017-12-22 18:30:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 18:31:01.174051
+
+END: downloadPrices - 1: 2017-12-22 18:33:41.778194
+
+DEF: removeExpiredPotentialss: 2017-12-22 18:33:41.859471
+
+DEF: calcADX: 2017-12-22 18:33:41.941993
+
+DEF: checkPotentials: 2017-12-22 18:33:46.118919
+
+DEF: CheckForDip: 2017-12-22 18:33:46.285135
+
+DEF: CheckForDip: 2017-12-22 18:33:46.326057
+
+DEF: checkBuyTrigger: 2017-12-22 18:33:46.326089
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 18:33:46.571591
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 18:45:06.927388
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 18:45:56.771566
+
+From Date: 2017-12-22 06:45:06
+To Date: 2017-12-22 18:45:06
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 18:45:57.592759
+
+END: downloadPrices - 1: 2017-12-22 18:47:43.144241
+
+DEF: removeExpiredPotentialss: 2017-12-22 18:47:43.144324
+
+DEF: calcADX: 2017-12-22 18:47:43.224400
+
+DEF: checkPotentials: 2017-12-22 18:47:47.501977
+
+DEF: CheckForDip: 2017-12-22 18:47:47.668803
+
+DEF: CheckForDip: 2017-12-22 18:47:47.751259
+
+DEF: checkBuyTrigger: 2017-12-22 18:47:47.751335
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 18:47:47.913509
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 19:00:08.410507
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 19:00:13.894254
+
+From Date: 2017-12-22 07:00:08
+To Date: 2017-12-22 19:00:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 19:00:14.201423
+
+END: downloadPrices - 1: 2017-12-22 19:01:50.141803
+
+DEF: removeExpiredPotentialss: 2017-12-22 19:01:50.141887
+
+DEF: calcADX: 2017-12-22 19:01:50.222052
+
+DEF: checkPotentials: 2017-12-22 19:01:55.109636
+
+DEF: CheckForDip: 2017-12-22 19:01:55.231639
+
+DEF: CheckForDip: 2017-12-22 19:01:55.272224
+
+DEF: CheckForDip: 2017-12-22 19:01:55.312736
+
+DEF: CheckForDip: 2017-12-22 19:01:55.353596
+
+DEF: CheckForDip: 2017-12-22 19:01:55.398785
+
+DEF: CheckForDip: 2017-12-22 19:01:55.560245
+
+DEF: checkBuyTrigger: 2017-12-22 19:01:55.560284
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 19:01:55.803584
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 19:15:08.197198
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 19:15:58.224295
+
+From Date: 2017-12-22 07:15:08
+To Date: 2017-12-22 19:15:08
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 19:15:58.955182
+
+END: downloadPrices - 1: 2017-12-22 19:18:06.782875
+
+DEF: removeExpiredPotentialss: 2017-12-22 19:18:06.782975
+
+
+BTC_DASH has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 19:18:06.948290
+
+DEF: checkPotentials: 2017-12-22 19:18:11.909228
+
+DEF: CheckForDip: 2017-12-22 19:18:12.071664
+
+DEF: CheckForDip: 2017-12-22 19:18:12.112519
+
+DEF: CheckForDip: 2017-12-22 19:18:12.275989
+
+DEF: CheckForDip: 2017-12-22 19:18:12.358185
+
+DEF: CheckForDip: 2017-12-22 19:18:12.440210
+
+DEF: CheckForDip: 2017-12-22 19:18:12.480987
+
+DEF: CheckForDip: 2017-12-22 19:18:12.639921
+
+DEF: CheckForDip: 2017-12-22 19:18:12.722107
+
+DEF: checkBuyTrigger: 2017-12-22 19:18:12.722150
+
+DEF: checkStopLimit
+
+
+BTC_NXT...We've hit our BUY LIMIT of 9.115e-05 as it's above our limit of 9.009e-05 - cashing out, profit = 0.0571472, startPrice= 0.0000818
+BTC_NXT... newStop: 7.45605e-05 and newLimit: 9.45945e-05
+
+*************************
+Sent SMS: TRAILING STOP: BTC_NXT, new Stop: 7.45605e-05, new Limit: 9.45945e-05
+*************************
+=======================================
+End Time: 2017-12-22 19:18:14.110601
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 19:30:07.383038
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 19:30:57.934193
+
+From Date: 2017-12-22 07:30:07
+To Date: 2017-12-22 19:30:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 19:30:58.629434
+
+END: downloadPrices - 1: 2017-12-22 19:32:40.666972
+
+DEF: removeExpiredPotentialss: 2017-12-22 19:32:40.667077
+
+
+BTC_EXP has been active 11 periods...DELETING
+
+DEF: calcADX: 2017-12-22 19:32:40.792135
+
+DEF: checkPotentials: 2017-12-22 19:32:46.097677
+
+DEF: CheckForDip: 2017-12-22 19:32:46.260525
+
+DEF: CheckForDip: 2017-12-22 19:32:46.305915
+
+DEF: CheckForDip: 2017-12-22 19:32:46.346381
+
+DEF: CheckForDip: 2017-12-22 19:32:46.387548
+
+DEF: CheckForDip: 2017-12-22 19:32:46.547607
+
+DEF: CheckForDip: 2017-12-22 19:32:46.629971
+
+DEF: CheckForDip: 2017-12-22 19:32:46.716343
+
+DEF: CheckForDip: 2017-12-22 19:32:46.757123
+
+DEF: CheckForDip: 2017-12-22 19:32:46.797577
+
+DEF: CheckForDip: 2017-12-22 19:32:46.998817
+
+DEF: CheckForDip: 2017-12-22 19:32:47.085074
+
+DEF: CheckForDip: 2017-12-22 19:32:47.167165
+
+DEF: checkBuyTrigger: 2017-12-22 19:32:47.167202
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 19:32:47.453955
+=======================================
+
+===============================================================
+Starting new run of coinTrader: 2017-12-22 19:45:07.826836
+===============================================================
+
+DEF: downloadPrices: 2017-12-22 19:45:58.508817
+
+From Date: 2017-12-22 07:45:07
+To Date: 2017-12-22 19:45:07
+
+Tick Period: 900
+
+DEF: downloadPrices - 1: 2017-12-22 19:45:59.164277
+
+END: downloadPrices - 1: 2017-12-22 19:47:45.574176
+
+DEF: removeExpiredPotentialss: 2017-12-22 19:47:45.574282
+
+
+BTC_BURST has been active 7 periods...DELETING
+
+DEF: calcADX: 2017-12-22 19:47:45.736311
+
+DEF: checkPotentials: 2017-12-22 19:47:50.464828
+
+DEF: CheckForDip: 2017-12-22 19:47:50.627804
+
+DEF: CheckForDip: 2017-12-22 19:47:50.710085
+
+DEF: CheckForDip: 2017-12-22 19:47:50.751358
+
+DEF: CheckForDip: 2017-12-22 19:47:50.796324
+
+DEF: CheckForDip: 2017-12-22 19:47:50.999382
+
+DEF: CheckForDip: 2017-12-22 19:47:51.080441
+
+DEF: CheckForDip: 2017-12-22 19:47:51.125151
+
+DEF: CheckForDip: 2017-12-22 19:47:51.165592
+
+DEF: CheckForDip: 2017-12-22 19:47:51.206216
+
+DEF: CheckForDip: 2017-12-22 19:47:51.247285
+
+DEF: CheckForDip: 2017-12-22 19:47:51.287830
+
+DEF: CheckForDip: 2017-12-22 19:47:51.328352
+
+DEF: CheckForDip: 2017-12-22 19:47:51.369084
+
+DEF: checkBuyTrigger: 2017-12-22 19:47:51.369116
+
+DEF: checkStopLimit
+
+
+=======================================
+End Time: 2017-12-22 19:47:51.616934
+=======================================
+
